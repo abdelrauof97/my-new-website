@@ -116,5 +116,8 @@ section.content-section {
   .service-container .chart-up .fa {
     font-size: 23vw;
   }
+}
 
+.content-section.red.poly-texture h2, .content-section.red.poly-texture p {
+  color: #fff;
 }
