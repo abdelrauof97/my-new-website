@@ -3,6 +3,13 @@
   box-sizing: border-box;
 }
 
+a:focus, a:hover {
+    color: #5b76d8;
+}
+a:active, a:hover {
+    outline: 0;
+}
+
 .vertical-center {
   min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
   min-height: 100vh; /* These two lines are counted as one :-)       */
@@ -39,16 +46,75 @@
   }
   .navbar-outer {
     background: transparent !important;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+  }
+  .navbar-original {
+    background: #fff !important;
+    border-bottom: 5px solid #5b76d8;
   }
   .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link, .navbar-light .navbar-brand  {
     color: #fff;
+    font-weight: 500;
+  }
+  .navbar-original .navbar-light .navbar-nav .active>.nav-link, .navbar-original .navbar-light .navbar-nav .nav-link, .navbar-original .navbar-light .navbar-brand  {
+    color: #5b76d8;
   }
   #hero-section {
-    top: -72px;
     position: relative;
     z-index: -1;
   }
   #hero-section .container {
     padding-top: 350px;
   }
+}
+.navbar-original .navbar-light .navbar-nav .active>.nav-link:hover, .navbar-original .navbar-light .navbar-nav .nav-link:hover, .navbar-original .navbar-light .navbar-brand:hover  {
+  color: #f76a6b;
+}
+
+@media (min-width: 992px){
+  section.content-section {
+      font-size: 20px;
+  }
+}
+section.content-section {
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 18px;
+    padding: 50px 0;
+}
+.service-container {
+    max-width: 1150px;
+    margin: 0 auto;
+}
+.service-container .chart-up {
+  border-radius: 50%;
+  height: 350px;
+  width: 350px;
+  border: 10px solid #5b76d8;
+  display: table;
+  text-align: center;
+  margin: auto;
+}
+.service-container .chart-up:hover {
+  background: #a4b6f7;
+}
+.service-container .chart-up .fa {
+  font-size: 190px;
+  color: #000;
+  display: table-cell;
+  vertical-align: middle;
+}
+@media (max-width: 770px){
+  .service-container .chart-up {
+    margin-bottom: 50px;
+    width: 50vw;
+    height: 50vw;
+  }
+  .service-container .chart-up .fa {
+    font-size: 23vw;
+  }
+
 }
