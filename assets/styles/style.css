@@ -126,8 +126,7 @@ section.content-section {
   background-color: #222;
   line-height: 1.2;
   color: #888;
-  display: inline-block;
-  width: 100%;
+  display: flow-root;
 }
 #footer>.container {
   padding-top: 30px;
