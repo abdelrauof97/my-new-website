@@ -1,16 +1,16 @@
 document.addEventListener("DOMContentLoaded", function(event) {
   if ($(window).scrollTop() > 1) {
-    $('.navbar-outer').addClass('navbar-original');
+    $('.navbar-outer.nav-animate').addClass('navbar-original');
   }
   if ($(window).scrollTop() < 2) {
-    $('.navbar-outer').removeClass('navbar-original');
+    $('.navbar-outer.nav-animate').removeClass('navbar-original');
   }
   $(window).scroll(function () {
     if ($(window).scrollTop() > 1) {
-      $('.navbar-outer').addClass('navbar-original');
+      $('.navbar-outer.nav-animate').addClass('navbar-original');
     }
     if ($(window).scrollTop() < 2) {
-      $('.navbar-outer').removeClass('navbar-original');
+      $('.navbar-outer.nav-animate').removeClass('navbar-original');
     }
   });
 });

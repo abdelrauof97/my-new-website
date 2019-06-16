@@ -337,3 +337,43 @@ section.content-section {
     padding-left: 6px;
     border-left: 1px solid #333;
 }}
+
+#our-portfolio {
+    padding: 150px 0 100px;
+}
+#our-portfolio h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+#our-portfolio .portfolio-website-card {
+  background: #f0f0f0;
+  padding: 3%;
+  width: 47%;
+  display: inline-block;
+  margin: 1%;
+  box-shadow: 5px 7px #d2cece;
+}
+#our-portfolio .portfolio-website-card .website-scr img {
+  width: 100%;
+}
+.portfolio-website-card h2 {
+  margin-bottom: 20px;
+}
+.portfolio-website-card h2 a {
+    color: #000;
+}
+.portfolio-website-card h2 a:hover {
+    color: #5b76d8;
+    text-decoration: none;
+}
+.website-description {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 20px;
+}
+.website-description a {
+  color: #5b76d8;
+}
+.website-description a:hover {
+  color: #f76a6b;
+}
