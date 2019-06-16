@@ -373,11 +373,25 @@ section.content-section {
 }
 .website-description a {
   color: #5b76d8;
+  word-break: break-all;
 }
 .website-description a:hover {
   color: #f76a6b;
 }
-
+@media(max-width: 700px){
+  #our-portfolio {
+    padding-top: 50px;
+  }
+  #our-portfolio .portfolio-website-card {
+    background: #f0f0f0;
+    padding: 3%;
+    margin: 0;
+    margin: 0 0 50px;
+    width: 100%;
+    display: block;
+    box-shadow: 5px 7px #d2cece;
+  }
+}
 #reviews{
     padding: 150px 0 100px;
 }
@@ -387,11 +401,10 @@ section.content-section {
 }
 #reviews .review-card {
   background: #f0f0f0;
-  padding: 3%;
   width: 100%;
   display: inline-block;
-  box-shadow: 5px 7px #d2cece;
-  margin-bottom: 30px;
+  box-shadow: -6px 1px 25px 1px #d2cece;
+  margin-bottom: 50px;
 }
 #reviews .review-card .review-scr img {
   width: 100%;
@@ -411,4 +424,9 @@ section.content-section {
   background: #f97c7c;
   color: #fff;
   text-decoration: none;
+}
+@media(max-width: 700px){
+  #reviews {
+    padding-top: 50px;
+  }
 }
