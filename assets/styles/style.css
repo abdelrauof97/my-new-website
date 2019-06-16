@@ -377,3 +377,38 @@ section.content-section {
 .website-description a:hover {
   color: #f76a6b;
 }
+
+#reviews{
+    padding: 150px 0 100px;
+}
+#reviews h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+#reviews .review-card {
+  background: #f0f0f0;
+  padding: 3%;
+  width: 100%;
+  display: inline-block;
+  box-shadow: 5px 7px #d2cece;
+  margin-bottom: 30px;
+}
+#reviews .review-card .review-scr img {
+  width: 100%;
+}
+.our-upwork-reviews {
+  background: #5b76d8;
+  display: block;
+  width: 320px;
+  font-size: 20px;
+  line-height: 40px;
+  color: #fff;
+  text-align: center;
+  margin: 50px auto 0;
+  transition: all .5s ease;
+}
+.our-upwork-reviews:hover {
+  background: #f97c7c;
+  color: #fff;
+  text-decoration: none;
+}
