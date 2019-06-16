@@ -438,12 +438,9 @@ section.content-section {
   text-align: center;
   margin-bottom: 30px;
 }
-.contact-form {
-  max-width: 700px;
+.hbspt-form {
+  max-width: 500px;
   margin: auto;
-}
-.hubspot-link__container.sproket {
-    display: none;
 }
 @media(max-width: 700px){
   #contact-us {
