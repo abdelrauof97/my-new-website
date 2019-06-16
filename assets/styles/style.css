@@ -430,3 +430,20 @@ section.content-section {
     padding-top: 50px;
   }
 }
+
+#contact-us {
+  padding: 150px 0 100px;
+}
+#contact-us h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.contact-form {
+  max-width: 700px;
+  margin: auto;
+}
+@media(max-width: 700px){
+  #contact-us {
+    padding-top: 50px;
+  }
+}
