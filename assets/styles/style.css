@@ -433,6 +433,7 @@ section.content-section {
 
 #contact-us {
   padding: 150px 0 100px;
+  min-height: 100vh;
 }
 #contact-us h1 {
   text-align: center;
