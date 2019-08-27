@@ -74,7 +74,6 @@ a:active, a:hover {
   }
   #hero-section {
     position: relative;
-    z-index: -1;
   }
   #hero-section .container {
     padding-top: 350px;
