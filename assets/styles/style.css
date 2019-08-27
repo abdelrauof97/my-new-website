@@ -409,7 +409,7 @@ section.content-section {
 #reviews .review-card .review-scr img {
   width: 100%;
 }
-.our-upwork-reviews {
+.request-quote {
   background: #5b76d8;
   display: block;
   width: 290px;
@@ -421,7 +421,7 @@ section.content-section {
   margin: 50px auto 0;
   transition: all .5s ease;
 }
-.our-upwork-reviews:hover {
+.request-quote:hover {
   background: #f97c7c;
   color: #fff;
   text-decoration: none;
