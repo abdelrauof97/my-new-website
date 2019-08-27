@@ -412,9 +412,10 @@ section.content-section {
 .our-upwork-reviews {
   background: #5b76d8;
   display: block;
-  width: 320px;
+  width: 290px;
+  border-radius: 0 35px;
   font-size: 20px;
-  line-height: 40px;
+  line-height: 60px;
   color: #fff;
   text-align: center;
   margin: 50px auto 0;
