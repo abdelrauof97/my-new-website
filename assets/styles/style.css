@@ -558,7 +558,6 @@ section.content-section {
 #our-packages ::-moz-selection{background-color:#5b5e5e;color:#fff;}
 #our-packages ::selection{background-color:#5b5e5e;color:#fff;}
 #our-packages a{border-bottom:none;color:#FF5A5F;text-decoration:none;}
-#our-packages a:focus,a:hover{border-bottom:1px solid #ccc;color:#444;}
 #our-packages ul{margin:0;padding:0;}
 #our-packages li{list-style-type:none;}
 #our-packages ::-moz-placeholder{color:#999;font-weight:300;opacity:1;}
