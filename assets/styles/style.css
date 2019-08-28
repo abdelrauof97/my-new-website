@@ -608,6 +608,13 @@ section.content-section {
   margin-left: 15px;
   width: fit-content;
 }
+.navbar-original .navbar-light .navbar-nav .nav-link.request-quote-nav {
+  color: #fff;
+}
+.navbar-nav .nav-link.request-quote-nav:hover {
+  background: #f76a6b;
+  color: #fff;
+}
 @media(max-width: 700px){
   .navbar-nav .nav-link.request-quote-nav {
     margin: 10px auto;
