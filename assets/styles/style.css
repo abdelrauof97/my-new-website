@@ -338,7 +338,7 @@ section.content-section {
 }}
 
 #our-portfolio {
-    padding: 150px 0 100px;
+    padding: 0 0 100px;
 }
 #our-portfolio h1 {
   text-align: center;
@@ -402,7 +402,7 @@ section.content-section {
   }
 }
 #reviews{
-    padding: 150px 0 100px;
+    padding: 0 0 100px;
 }
 #reviews h1 {
   text-align: center;
@@ -452,7 +452,7 @@ section.content-section {
 }
 
 #contact-us {
-  padding: 150px 0 100px;
+  padding: 0 0 100px;
   min-height: 100vh;
 }
 #contact-us h1 {
@@ -484,7 +484,7 @@ section.content-section {
 }
 
 #about-us {
-  padding: 150px 0 100px;
+  padding: 0 0 100px;
 }
 #about-us h1 {
   text-align: center;
@@ -582,7 +582,7 @@ section.content-section {
 }
 
 #our-packages{
-    padding: 150px 0 100px;
+    padding: 0 0 100px;
 }
 #our-packages h1 {
   text-align: center;
@@ -639,7 +639,7 @@ section.content-section {
 #our-packages .full-width-page .full-width-inner-section{padding:60px 40px;}
 
 #realgeeks-buildout-form {
-  padding: 150px 0 100px;
+  padding: 0 0 100px;
   min-height: 100vh;
 }
 #realgeeks-buildout-form h1 {
