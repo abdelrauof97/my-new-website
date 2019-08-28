@@ -645,8 +645,16 @@ section.content-section {
 #realgeeks-buildout-form h1 {
   text-align: center;
   margin-bottom: 30px;
-  z-index: 1;
-  position: relative;
+  padding: 130px 0 60px;
+  background: #5b76d8;
+  color: #fff;
+  font-weight: 700;
+  margin-bottom: 70px;
+}
+@media(max-width: 700px){
+  #realgeeks-buildout-form h1 {
+    padding: 60px 0;
+  }
 }
 
 .navbar-nav .nav-link.request-quote-nav {
