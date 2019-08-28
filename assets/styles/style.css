@@ -673,7 +673,7 @@ section.content-section {
   background: #f76a6b;
   color: #fff;
 }
-.navbar-original .navbar-light .navbar-nav .active>.nav-link:hover, .navbar-original .navbar-light .navbar-nav .nav-link.request-quote-nav:hover {
+.navbar-original .navbar-light .navbar-nav .active>.nav-link.request-quote-nav:hover, .navbar-original .navbar-light .navbar-nav .nav-link.request-quote-nav:hover {
   color: #fff;
   background: #f76a6b;
 }
