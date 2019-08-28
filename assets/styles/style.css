@@ -599,7 +599,7 @@ section.content-section {
   position: relative;
 }
 
-.request-quote-nav {
+.navbar-nav .nav-link.request-quote-nav {
   border: solid 2px #5b76d8;
   background: #5b76d8;
   color: #fff;
@@ -609,7 +609,7 @@ section.content-section {
   width: fit-content;
 }
 @media(max-width: 700px){
-  .request-quote-nav {
+  .navbar-nav .nav-link.request-quote-nav {
     margin: 10px auto;
   }
 }
