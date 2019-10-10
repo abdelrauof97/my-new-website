@@ -34,6 +34,30 @@
           text-align: justify;
           text-align-last: center;
       }
+      
+      .tooltip {
+        position: relative;
+        display: inline-block;
+        border-bottom: 1px dotted black;
+      }
+
+      .tooltip .tooltiptext {
+        visibility: hidden;
+        width: 500px;
+        background-color: #f1f1f1;
+        color: #000;
+        text-align: left;
+        border-radius: 6px;
+        padding: 5px 0;
+
+        /* Position the tooltip */
+        position: absolute;
+        z-index: 1;
+      }
+
+      .tooltip:hover .tooltiptext {
+        visibility: visible;
+      }
     </style>
   </head>
   <body>
@@ -89,7 +113,11 @@
                                 <li class="pricing-table-main-header">SILVER CARE PLAN</li>
                                 <li class="pricing-table-cost-header">$60/month</li>
                                 <li class="pricing-table-cell">Real Geeks IDX & Search Updates: <small>Review and coordinate refreshing of MLS feed or MLS search as needed with Real Geeks and review searches after changes for accuracy.</small></li>
-                                <li class="pricing-table-cell">Design and Content Updates: <small>Up to 5 revision requests per month.</small></li>
+                                <li class="pricing-table-cell">Design and Content Updates: <small>Up to 5 revision requests per month</small>
+                                  <div class="tooltip"><small>See List*</small>
+                                    <span class="tooltiptext"> <h2 style="text-align:center;">Revision Request List</h2></header><div><ul><li>Change main image on a page to a stock photo or provided photo</li><li>Change or add logo</li><li>Change site colors</li><li>Revise page button colors</li><li>Revise graphics</li><li>Rewrite homepage intro</li><li>Update address in site footer</li><li>Add links for policies and/or notices</li><li>Add new agent photo and/or bio</li><li>Add social icons and links</li><li>Add video</li><li>Add market reports</li><li>Add 3rd party code to sidebar</li><li>Add or edit provided content page</li><li>Add additional testimonials</li><li>Update featured listing or sold page (when first listing becomes available)</li></ul></div>
+                                  </div>
+                                </li>
                                 <li class="pricing-table-cell">Manual Code Backup: <small>Manual backup of existing custom code so restoration can be made in the event of accidental changes.</small></li>
                                 <li class="pricing-table-cell">Priority Support: <small>Email reply within 24 hours daily and generally within an hour of your request. Guidance on general or specific questions in a timely manner, sharing topic-related resource files. Ensure compatibility of all custom code regardless of Real Geeks template changes.</small></li>
                                 <li class="pricing-table-cell">Any Additional Work $55/Hour</li>
