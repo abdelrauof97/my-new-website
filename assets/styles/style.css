@@ -392,9 +392,9 @@ section.content-section {
   color: #f76a6b;
 }
 @media(max-width: 700px){
-  #our-portfolio {
+  /* #our-portfolio {
     padding-top: 50px;
-  }
+  } */
   #our-portfolio .portfolio-website-card {
     background: #fff;
     padding: 3%;
@@ -450,9 +450,9 @@ section.content-section {
   text-decoration: none;
 }
 @media(max-width: 700px){
-  #reviews {
+  /* #reviews {
     padding-top: 50px;
-  }
+  } */
 }
 
 #contact-us {
@@ -482,9 +482,9 @@ section.content-section {
     text-align: center;
 }
 @media(max-width: 700px){
-  #contact-us {
+  /* #contact-us {
     padding-top: 50px;
-  }
+  } */
 }
 
 #about-us {
@@ -508,9 +508,9 @@ section.content-section {
   font-size: 18px;
 }
 @media(max-width: 700px){
-  #about-us {
+  /* #about-us {
     padding-top: 50px;
-  }
+  } */
 }
 
 
