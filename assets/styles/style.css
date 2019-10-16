@@ -686,3 +686,9 @@ section.content-section {
     margin: 10px auto;
   }
 }
+
+@media(max-width: 700px){
+  .desktop-only {
+    display: none;
+  }
+}
