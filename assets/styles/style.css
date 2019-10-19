@@ -57,7 +57,7 @@ a {
 
 #hero-section {
   background: url(../photos/rauof-personal-photo-no-background.png) no-repeat right bottom;
-  background-size: cover;
+  background-size: contain;
   width: 100%;
   height: 650px;
 }
