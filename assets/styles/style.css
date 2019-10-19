@@ -28,7 +28,10 @@ nav.navbar .dropdown-item {
   padding-bottom: .5em;
 }
 .dropdown-item.active, .dropdown-item:active {
-  background-color: #5b76d8;
+  background-color: #f76a6b;
+}
+.dropdown-item:focus, .dropdown-item:hover {
+  background-color: #f76a6b;
 }
 a {
   color: #5b76d8;
