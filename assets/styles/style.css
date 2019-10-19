@@ -27,13 +27,12 @@ nav.navbar .dropdown-item {
   padding-top: .5em;
   padding-bottom: .5em;
 }
-.dropdown-item.active, .dropdown-item:active {
-  background-color: #f76a6b;
+.dropdown-item {
   color: #5b76d8;
 }
-.dropdown-item:focus, .dropdown-item:hover {
+.dropdown-item.active, .dropdown-item:focus, .dropdown-item:hover {
   background-color: #f76a6b;
-  color: #5b76d8;
+  color: #fff;
 }
 a {
   color: #5b76d8;
