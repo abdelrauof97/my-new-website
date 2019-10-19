@@ -20,7 +20,23 @@ a:active, a:hover {
 .navbar-light .navbar-nav .nav-item.active>.nav-link{
   color: #f76a6b;
 }
-
+nav.navbar .dropdown-menu{
+  padding: 0;
+}
+nav.navbar .dropdown-item {
+  padding-top: .5em;
+  padding-bottom: .5em;
+}
+.dropdown-item.active, .dropdown-item:active {
+  background-color: #5b76d8;
+}
+a {
+  color: #5b76d8;
+}
+.btn-primary {
+  background-color: #5b76d8;
+  border-color: #5b76d8;
+}
 
 .vertical-center {
   min-height: 100%;  /* Fallback for browsers do NOT support vh unit */
@@ -528,7 +544,7 @@ section.content-section {
 .community-link-overlay a{display:block;height:100%;width:100%;}
 .community-description{position:absolute;width:100%;text-align:center;top:50%;left:0;transform:translate(0, -50%);-ms-transform:translate(0, -50%);z-index:97;padding:5px;}
 .community-description h3{font-family:'Lato', sans-serif!important;text-transform:uppercase;color:white!important;font-size:24px!important;font-weight:600;text-shadow:5px 5px 20px #000;}
-.community-container:hover .community-overlay{opacity:.1;background-color:#223373;}
+.community-container:hover .community-description h3{color: #5b76d8!important;}
 @media only screen and (min-width:30em) and (max-width: 46em){
 .customSection li{text-align:center;}
 }
