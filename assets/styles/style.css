@@ -29,9 +29,11 @@ nav.navbar .dropdown-item {
 }
 .dropdown-item.active, .dropdown-item:active {
   background-color: #f76a6b;
+  color: #5b76d8;
 }
 .dropdown-item:focus, .dropdown-item:hover {
   background-color: #f76a6b;
+  color: #5b76d8;
 }
 a {
   color: #5b76d8;
