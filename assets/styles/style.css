@@ -117,6 +117,8 @@ a {
   }
   .navbar-original .navbar-light .navbar-nav .active>.nav-link, .navbar-original .navbar-light .navbar-nav .nav-link, .navbar-original .navbar-light .navbar-brand  {
     color: #5b76d8;
+    font-size: 18px;
+    line-height: 1;
   }
   .navbar-original .navbar-light .navbar-nav .active>.nav-link {
     color: #f76a6b;
