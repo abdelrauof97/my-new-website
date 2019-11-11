@@ -121,8 +121,8 @@ a {
   .navbar-original .navbar-light .navbar-nav .active>.nav-link {
     color: #f76a6b;
   }
-  .navbar-animated {
-    padding: 0;
+  .navbar-animated .navbar {
+    padding: .5rem 0;
   }
 
   #hero-section {
