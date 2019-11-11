@@ -86,6 +86,9 @@ a {
     font-size: 30px;
     max-width: 380px;
   }
+  #hero-section h4 {
+    font-size: 20px;
+  }
 }
 
 @media(min-width: 992px) {
