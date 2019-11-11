@@ -99,6 +99,7 @@ a {
     width: fit-content;
     margin: auto;
     padding: 1rem 0;
+    transition: .5s ease;
   }
   .navbar-outer {
     background: transparent !important;
@@ -120,6 +121,10 @@ a {
   .navbar-original .navbar-light .navbar-nav .active>.nav-link {
     color: #f76a6b;
   }
+  .navbar-animated {
+    padding: 0;
+  }
+
   #hero-section {
     position: relative;
   }
