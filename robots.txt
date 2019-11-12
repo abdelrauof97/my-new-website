@@ -1,5 +1,5 @@
 # robots.txt
 User-agent: *
-Disallow:
+Disallow: /thank-you
 
 Sitemap: https://rauof.com/sitemap.xml
