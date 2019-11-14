@@ -92,6 +92,7 @@
 
 .purejscarousel {
   max-width: 900px;
+  margin: 70px auto 50px;
 }
 .purejscarousel-slide {
   width: 100vw;
