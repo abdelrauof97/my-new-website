@@ -90,9 +90,13 @@
 .eatr-review-card-container.jsx-1039373937{max-height:144px;}
 
 
+.purejscarousel-wrapper {
+  background: #f7f7f7;
+  padding: 50px 0;
+}
 .purejscarousel {
   max-width: 900px;
-  margin: 70px auto 50px;
+  margin: 0 auto;
 }
 .purejscarousel-slide {
   width: 100vw;
