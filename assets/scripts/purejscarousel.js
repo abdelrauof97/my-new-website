@@ -409,3 +409,11 @@
     }
   };
 })();
+
+
+
+
+var yourVariable = new PureJSCarousel({
+  carousel: '.your-selector-for-carousel',
+  slide: '.your-selector-for-carousel-slide'
+});
