@@ -33,7 +33,7 @@
 .purejscarousel-slides-container:before,.purejscarousel-slides-container:after{content:"";display:table;}
 .purejscarousel-slides-container:after{clear:both;}
 .purejscarousel-slide{float:left;}
-.purejscarousel-btn{background:transparent;border:0;box-shadow:none;outline:none;cursor:pointer;height:20px;margin-top:-25px;position:absolute;top:50%;width:20px;}
+.purejscarousel-btn{background:transparent;border:0;box-shadow:none;outline:none;cursor:pointer;height:20px;margin-top:-25px;position:absolute;margin-top:-50px;width:20px;}
 .purejscarousel-btn-next{border-bottom:8px solid #aaa;border-right:8px solid #aaa;right:5px;-moz-transform:rotate(315deg);-webkit-transform:rotate(315deg);transform:rotate(315deg);}
 .purejscarousel-btn-prev{border-bottom:8px solid #aaa;border-left:8px solid #aaa;left:5px;-moz-transform:rotate(45deg);-webkit-transform:rotate(45deg);transform:rotate(45deg);}
 .purejscarousel-dots-container{float:left;margin-top:15px;text-align:center;width:100%;}
@@ -90,9 +90,12 @@
 .eatr-review-card-container.jsx-1039373937{max-height:144px;}
 
 
-
+.purejscarousel {
+  max-width: 600px;
+}
 .purejscarousel-slide {
   width: 100vw;
+  max-width: 600px;
 }
 .eatr-reviewer-picture-image {
     border-radius: 50%;
