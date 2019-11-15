@@ -45,7 +45,7 @@ keywords:
                             <li class="pricing-table-button"><a class="button" href="/realgeeks-care-form">Request Care</a></li>
                         </ul>
                     </div>
-                    <div class="pricing-table-container one-third">
+                    <!-- <div class="pricing-table-container one-third">
                         <ul class="pricing-table-list">
                             <li class="pricing-table-main-header">PLATINUM CARE PLAN</li>
                             <li class="pricing-table-cost-header">$$$</li>
@@ -57,7 +57,7 @@ keywords:
                             <li class="pricing-table-cell desktop-only"><br><br></li>
                             <li class="pricing-table-button"><a class="button" href="/realgeeks-care-form">Request Care</a></li>
                         </ul>
-                    </div>
+                    </div> -->
                     <!-- <div class="pricing-table-container one-third first">
                         <ul class="pricing-table-list">
                             <li class="pricing-table-main-header">Custom Plan</li>
