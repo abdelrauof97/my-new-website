@@ -1,0 +1,114 @@
+.pure-js-carousel {
+  overflow: hidden;
+}
+
+.pure-js-carousel-list:before,
+.pure-js-carousel-list:after {
+  content: "";
+  display: table;
+}
+
+.pure-js-carousel-list:after {
+  clear: both;
+}
+
+.pure-js-carousel-slide {
+  float: left;
+}
+
+
+
+.carousel{margin:50px auto;overflow:hidden;position:relative;width:240px;}
+@media (min-width: 768px){
+.carousel{width:720px;}
+}
+@media (min-width: 992px){
+.carousel{width:960px;}
+}
+.carousel:before,.carousel:after{content:"";display:table;}
+.carousel:after{clear:both;}
+.slide{background:#333;border:10px solid #fff;color:#fff;float:left;font-size:20px;height:240px;line-height:11;text-align:center;width:240px;}
+/*! CSS Used from: https://vadymshymko.github.io/portfolio/purejscarousel/css/purejscarousel.css */
+.purejscarousel{overflow:hidden;}
+.purejscarousel-slides-container:before,.purejscarousel-slides-container:after{content:"";display:table;}
+.purejscarousel-slides-container:after{clear:both;}
+.purejscarousel-slide{float:left;}
+.purejscarousel-btn{background:transparent;border:0;box-shadow:none;outline:none;cursor:pointer;height:20px;margin-top:-25px;position:absolute;margin-top:-50px;width:20px;}
+.purejscarousel-btn-next{border-bottom:8px solid #aaa;border-right:8px solid #aaa;right:5px;-moz-transform:rotate(315deg);-webkit-transform:rotate(315deg);transform:rotate(315deg);}
+.purejscarousel-btn-prev{border-bottom:8px solid #aaa;border-left:8px solid #aaa;left:5px;-moz-transform:rotate(45deg);-webkit-transform:rotate(45deg);transform:rotate(45deg);}
+.purejscarousel-dots-container{float:left;margin-top:15px;text-align:center;width:100%;}
+.purejscarousel-dot{background:#aaa;border:0;border-radius:50%;box-shadow:none;cursor:pointer;height:15px;outline:none;margin:0 5px;width:15px;}
+.active.purejscarousel-dot{cursor:default;opacity:.5;}
+
+
+
+
+
+
+
+/*! CSS Used from: Embedded */
+.eatr-reviews-skeleton-component *{box-sizing:border-box!important;outline:none;}
+.eatr-reviews-skeleton-component a{line-height:inherit;text-decoration:none;transition:color 0.3s ease;}
+.eatr-reviews-skeleton-component a:hover{text-decoration:underline;}
+/*! CSS Used from: Embedded */
+.eatr-reviewer-component{display:-webkit-flex;display:flex;}
+.eatr-reviewer-info{display:-webkit-flex;display:flex;-webkit-flex:1 1 auto;flex:1 1 auto;-webkit-flex-direction:column;flex-direction:column;-webkit-justify-content:center;justify-content:center;min-width:0;}
+.eatr-reviewer-title{white-space:nowrap;line-height:18px;font-size:14px;}
+:not(.eatr-reviewer-centered) .eatr-reviewer-title{text-align:left;}
+.eatr-reviewer-centered .eatr-reviewer-title{text-align:center;}
+.eatr-reviewer-name{display:inline-block;overflow:hidden;vertical-align:middle;max-width:100%;text-overflow:ellipsis;line-height:inherit;font-weight:700;}
+.eatr-reviewer-name-link{text-decoration:none;}
+.eatr-reviewer-caption{width:100%;line-height:1.33;font-size:12px;}
+:not(.eatr-reviewer-centered) .eatr-reviewer-caption{text-align:left;}
+.eatr-reviewer-centered .eatr-reviewer-caption{text-align:center;}
+.eatr-reviewer-with-name .eatr-reviewer-caption{margin-top:4px;}
+/*! CSS Used from: Embedded */
+.eatr-review-card-component{content:'';}
+.eatr-review-card-container{overflow:hidden;}
+/*! CSS Used from: Embedded */
+.eatr-review-card-template-spotlight-component{display:-webkit-flex;display:flex;position:relative;-webkit-flex-direction:column;flex-direction:column;border-radius:8px;text-align:center;}
+.eatr-review-card-template-spotlight-component.eatr-review-card-template-spotlight-full-height{min-height:100%;}
+.eatr-review-card-template-spotlight-reviewer-picture{margin-bottom:16px;-webkit-align-self:center;-ms-grid-row-align:center;align-self:center;}
+.eatr-review-card-template-spotlight-reviewer-info{margin-top:16px;}
+.eatr-review-card-template-spotlight-rating{-webkit-align-self:center;-ms-grid-row-align:center;align-self:center;}
+.eatr-review-card-template-spotlight-with-review-text .eatr-review-card-template-spotlight-rating{margin-bottom:8px;}
+.eatr-review-card-template-spotlight-text{line-height:1.5;}
+.eatr-review-card-template-spotlight-title{font-weight:700;}
+/*! CSS Used from: Embedded */
+.eatr-trustpilot-rating-component{display:-webkit-flex;display:flex;-webkit-align-items:center;align-items:center;}
+.eatr-trustpilot-rating-markers{display:-webkit-flex;display:flex;}
+/*! CSS Used from: Embedded */
+.eatr-trustpilot-star-component{display:-webkit-flex;display:flex;-webkit-justify-content:center;justify-content:center;-webkit-align-items:center;align-items:center;}
+.eatr-trustpilot-star-component.eatr-trustpilot-star-small{width:18px;height:18px;margin-right:2px;}
+.eatr-trustpilot-star-icon{display:block;}
+/*! CSS Used from: Embedded */
+.eatr-trustpilot-star-component.jsx-103775283{background-color:rgb(0, 182, 122);}
+.eatr-reviewer-caption.jsx-338202159{color:rgba(50, 50, 61, 0.6);}
+.eatr-reviewer-name.jsx-338202159 a.eatr-reviewer-name-link{color:rgb(50, 50, 61);}
+.eatr-reviews-skeleton-component.jsx-3205426161 a{color:rgb(66, 139, 202);}
+.eatr-review-card-template-spotlight-text.jsx-1623677582{font-size:24px;color:rgb(50, 50, 61);}
+.eatr-review-card-container.jsx-1039373937{max-height:144px;}
+
+
+.purejscarousel-wrapper {
+  background: #f7f7f7;
+  padding: 50px 0;
+}
+.purejscarousel {
+  max-width: 900px;
+  margin: 0 auto;
+}
+.purejscarousel-slide {
+  width: 100vw;
+  max-width: 900px;
+}
+.eatr-reviewer-picture-image {
+  border-radius: 50%;
+  margin: auto;
+}
+.purejscarousel-btn {
+  display: none;
+}
+.eatr-review-card-template-spotlight-title {
+  margin-bottom: 10px;
+}
