@@ -25,7 +25,7 @@ keywords:
         <div class="col">
           <div class="form-group">
             <label for="lead_first_name">First Name*</label>
-            <input type="text" name="entry.2005620554"class="form-control" id="lead_first_name" aria-describedby="firstNameHelp" placeholder="Enter First Name" required>
+            <input type="text" name="entry.2005620554" class="form-control" id="lead_first_name" aria-describedby="firstNameHelp" placeholder="Enter First Name" required>
           </div>
         </div>
         <div class="col">
