@@ -33,7 +33,7 @@ keywords:
     <div class="your-selector-for-carousel-slide">
       <div class="eatr-review-card-template-spotlight-component eatr-review-card-template-spotlight-full-height eatr-review-card-template-spotlight-with-review-text">
           <div class="jsx-1623677582 eatr-review-card-template-spotlight-reviewer-picture">
-              <div class="eatr-reviewer-component eatr-reviewer-compact"><a class="eatr-reviewer-picture" href="https://www.trustpilot.com/review/rauof.com" target="_blank" rel="noopener noreferrer nofollow" title=""><div class="eatr-reviewer-picture-component eatr-reviewer-picture-standard"><div class="eatr-reviewer-picture-figure"><img class="eatr-reviewer-picture-image" src="./assets/photos/clients-headshots/christine-hancock-73x73.png" alt="christine hancock headshot"></div></div></a></div>
+              <div class="eatr-reviewer-component eatr-reviewer-compact"><a class="eatr-reviewer-picture" href="https://www.trustpilot.com/review/rauof.com" target="_blank" rel="noopener noreferrer nofollow" title=""><div class="eatr-reviewer-picture-component eatr-reviewer-picture-standard"><div class="eatr-reviewer-picture-figure"><img class="eatr-reviewer-picture-image" src="{{site.url}}/public/assets/photos/clients-headshots/christine-hancock-73x73.png" alt="christine hancock headshot"></div></div></a></div>
           </div>
           <div class="jsx-1623677582 eatr-review-card-template-spotlight-rating">
               <div class="eatr-trustpilot-rating-component">
@@ -91,7 +91,7 @@ keywords:
     <div class="your-selector-for-carousel-slide">
       <div class="eatr-review-card-template-spotlight-component eatr-review-card-template-spotlight-full-height eatr-review-card-template-spotlight-with-review-text">
           <div class="jsx-1623677582 eatr-review-card-template-spotlight-reviewer-picture">
-              <div class="eatr-reviewer-component eatr-reviewer-compact"><a class="eatr-reviewer-picture" href="https://www.trustpilot.com/review/rauof.com" target="_blank" rel="noopener noreferrer nofollow" title=""><div class="eatr-reviewer-picture-component eatr-reviewer-picture-standard"><div class="eatr-reviewer-picture-figure"><img class="eatr-reviewer-picture-image" src="./assets/photos/clients-headshots/tony-davids-73x73.png" alt="Tony Davids headshot"></div></div></a></div>
+              <div class="eatr-reviewer-component eatr-reviewer-compact"><a class="eatr-reviewer-picture" href="https://www.trustpilot.com/review/rauof.com" target="_blank" rel="noopener noreferrer nofollow" title=""><div class="eatr-reviewer-picture-component eatr-reviewer-picture-standard"><div class="eatr-reviewer-picture-figure"><img class="eatr-reviewer-picture-image" src="{{site.url}}/public/assets/photos/clients-headshots/tony-davids-73x73.png" alt="Tony Davids headshot"></div></div></a></div>
           </div>
           <div class="jsx-1623677582 eatr-review-card-template-spotlight-rating">
               <div class="eatr-trustpilot-rating-component">
@@ -149,7 +149,7 @@ keywords:
     <div class="your-selector-for-carousel-slide">
       <div class="eatr-review-card-template-spotlight-component eatr-review-card-template-spotlight-full-height eatr-review-card-template-spotlight-with-review-text">
           <div class="jsx-1623677582 eatr-review-card-template-spotlight-reviewer-picture">
-              <div class="eatr-reviewer-component eatr-reviewer-compact"><a class="eatr-reviewer-picture" href="https://www.trustpilot.com/review/rauof.com" target="_blank" rel="noopener noreferrer nofollow" title=""><div class="eatr-reviewer-picture-component eatr-reviewer-picture-standard"><div class="eatr-reviewer-picture-figure"><img class="eatr-reviewer-picture-image" src="./assets/photos/clients-headshots/siya=herman-73x73.png" alt="Siya Herman headshot"></div></div></a></div>
+              <div class="eatr-reviewer-component eatr-reviewer-compact"><a class="eatr-reviewer-picture" href="https://www.trustpilot.com/review/rauof.com" target="_blank" rel="noopener noreferrer nofollow" title=""><div class="eatr-reviewer-picture-component eatr-reviewer-picture-standard"><div class="eatr-reviewer-picture-figure"><img class="eatr-reviewer-picture-image" src="{{site.url}}/public/assets/photos/clients-headshots/siya=herman-73x73.png" alt="Siya Herman headshot"></div></div></a></div>
           </div>
           <div class="jsx-1623677582 eatr-review-card-template-spotlight-rating">
               <div class="eatr-trustpilot-rating-component">
@@ -212,7 +212,7 @@ keywords:
             <div class="service-container" style="max-width: 1150px; margin: 20px auto 20px auto;">
                 <div class="row">
                     <div class="col col-sm-6" style="flex: auto;">
-                      <a href="http://www.carolinas.house/" target="_blank"><img src="./assets/photos/carolinas-home.png" alt="Carolinas Home Page screenshot" class="wp-image-1273 hero-img" width="100%" height="auto" style="max-width: 500px;display:block;margin: auto;"></a>
+                      <a href="http://www.carolinas.house/" target="_blank"><img src="{{site.url}}/public/assets/photos/carolinas-home.png" alt="Carolinas Home Page screenshot" class="wp-image-1273 hero-img" width="100%" height="auto" style="max-width: 500px;display:block;margin: auto;"></a>
                     </div>
                     <div class="col col-sm-6">
                       <h2 style="margin-top: 0px;margin-bottom:30px;">A Well Designed RG Website Can Leverage Your Company Success</h2>
@@ -246,8 +246,8 @@ keywords:
                   <div style="font-size: .7em; margin-top: 30px; color: #ddd; font-style: italic;">Check out our <a style="text-decoration: underline;color:#fff;" href="https://www.upwork.com/freelancers/~0167347e9a9fdae758" rel="noopener">40 reviews &amp; 5-star rating</a> on upwork.com.</div>
                </div>
                <div class="col col-sm-6 ">
-                  <a href="https://www.upwork.com/freelancers/~0167347e9a9fdae758" rel="noopener"><img style="margin: 30px auto 0 auto; display: block;border-radius: 50%;" src="assets/photos/upwork-top-rated.png" data-lazy-src="assets/photos/upwork-top-rated.png" class="lazyloaded" data-was-processed="true"></a>
-                  <noscript><img style="margin: 30px auto 0 auto;" src="assets/photos/upwork-top-rated.png" /></noscript>
+                  <a href="https://www.upwork.com/freelancers/~0167347e9a9fdae758" rel="noopener"><img style="margin: 30px auto 0 auto; display: block;border-radius: 50%;" src="{{site.url}}/public/assets/photos/upwork-top-rated.png" data-lazy-src="{{site.url}}/public/assets/photos/upwork-top-rated.png" class="lazyloaded" data-was-processed="true"></a>
+                  <noscript><img style="margin: 30px auto 0 auto;" src="{{site.url}}/public/assets/photos/upwork-top-rated.png" /></noscript>
                </div>
             </div>
          </div>
@@ -260,25 +260,25 @@ keywords:
         <div class="widget-wrap">
             <div class="textwidget">
                 <div class="service-highlights one-fourth first">
-                    <img src="assets/photos/signup-icon.png" alt="">
+                    <img src="{{site.url}}/public/assets/photos/signup-icon.png" alt="">
                     <h3>Sign Up</h3>
                     <p>Sign up with <a href="http://www.realgeeks.com/" rel="noopener noreferrer">Real Geeks</a> get approved by your MLS, and we’ll be ready to start your buildout. </p>
                 </div>
 
                 <div class="service-highlights one-fourth two-of-two">
-                    <img src="assets/photos/phone-icon.png" alt="">
+                    <img src="{{site.url}}/public/assets/photos/phone-icon.png" alt="">
                     <h3>Discovery Call</h3>
                     <p>This is an in depth discussion of your marketing strategy, and how we can best tailor your website around it. </p>
                 </div>
 
                 <div class="service-highlights one-fourth">
-                    <img src="assets/photos/buildout-icon.png" alt="">
+                    <img src="{{site.url}}/public/assets/photos/buildout-icon.png" alt="">
                     <h3>Initial Buildout</h3>
                     <p>About a week after our discovery call, your website will be ready for you to review and provide feedback on.</p>
                 </div>
 
                 <div class="service-highlights one-fourth two-of-two">
-                    <img src="assets/photos/checkmark-icon.png" alt="">
+                    <img src="{{site.url}}/public/assets/photos/checkmark-icon.png" alt="">
                     <h3>Final Edits</h3>
                     <p>During final edits, we’ll correspond back and fourth until your site is perfected and ready to go live.</p>
                 </div>
@@ -292,7 +292,7 @@ keywords:
     <div class="customCommunities-content">
         <ul class="small-block-grid-1 medium-block-grid-3 large-block-grid-3 text-center">
             <li>
-                <div class="community-container"><img src="assets/photos/portfolio-website-photos/carolinas-scr.png" alt="portfolio example Carolinas website Screenshot" width="400" height="300">
+                <div class="community-container"><img src="{{site.url}}/public/assets/photos/portfolio-website-photos/carolinas-scr.png" alt="portfolio example Carolinas website Screenshot" width="400" height="300">
                     <div class="community-description">
                         <h3>Carolinas</h3>
                     </div>
@@ -301,7 +301,7 @@ keywords:
                 </div>
             </li>
             <li>
-                <div class="community-container"><img src="assets/photos/portfolio-website-photos/downtownchicagorealestate-scr.png" alt="portfolio example Downtown Chicago Real Estate website Screenshot" width="400" height="300">
+                <div class="community-container"><img src="{{site.url}}/public/assets/photos/portfolio-website-photos/downtownchicagorealestate-scr.png" alt="portfolio example Downtown Chicago Real Estate website Screenshot" width="400" height="300">
                     <div class="community-description">
                         <h3>Downtown Chicago</h3>
                     </div>
@@ -310,7 +310,7 @@ keywords:
                 </div>
             </li>
             <li>
-                <div class="community-container"><img src="assets/photos/portfolio-website-photos/thechadwilsongroup-scr.png" alt="portfolio example The Chad Wilson Group website Screenshot" width="400" height="300">
+                <div class="community-container"><img src="{{site.url}}/public/assets/photos/portfolio-website-photos/thechadwilsongroup-scr.png" alt="portfolio example The Chad Wilson Group website Screenshot" width="400" height="300">
                     <div class="community-description">
                         <h3>The Chad Wilson</h3>
                     </div>
