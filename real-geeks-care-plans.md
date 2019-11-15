@@ -15,209 +15,62 @@ keywords:
   - egypt
 ---
 
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>Real Geeks Care Packages | Real Geeks Website Designer</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="shortcut icon" href="./assets/RE-Site-Builders-logo/profile.png"/>
-    <meta name="description" content="Choose From Our Real Geeks Care Packages"/>
-    <meta name="keywords" content="web design pricing, web design packages, our packages, real estate web design pricing, Real Geeks Website Designer pricing, the fifth settlement, cairo, egypt" />
-    <meta name="author" content="Abdelrauof Mohammed">
-    <meta property=”og:type” content=”website” />
-    <meta property='og:title' content='Real Geeks Care Packages | Real Geeks Website Designer'/>
-    <meta property='og:image' content='./assets/RE-Site-Builders-logo/profile.png'/>
-    <meta property='og:description' content="Our popular packages which choosed frequently by clients."/>
-    <meta property='og:url' content='https://rauof.com/pricing' />
-    <meta property="og:site_name" content="Real Geeks Website Designer">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" href="assets/styles/style.css">
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118296144-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-118296144-1');
-    </script>
-    <style>
-      @media(min-width: 700px){
-        .pricing-table-cell-height-79{
-          min-height: 79px;
-        }
-        .pricing-table-cell-height-224 {
-          min-height: 224px;
-        }
-      }
-
-    </style>
-    <link href="https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Hind+Guntur:500&amp;display=swap" rel="stylesheet">
-  </head>
-  <body>
-    <div class="navbar-original navbar-outer bg-light">
-      <nav class="navbar navbar-expand-lg navbar-light">
-        <a class="navbar-brand" href="/">Rauof RG Website Designs</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/portfolio">Portfolio</a>
-            </li>
-            <!-- <li class="nav-item">
-              <a class="nav-link" href="/reviews">Reviews</a>
-            </li> -->
-            <li class="nav-item active dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Packages
-              </a>
-              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="/pricing">Custom Buildout Packages</a>
-                <a class="dropdown-item active" href="/real-geeks-care-plans">Care Packages</a>
-                <!-- <a class="dropdown-item" href="/request-property-valuation-page">Home Valuation Landing Page</a> -->
-              </div>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/about">About Us</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="/contact">Contact Us</a>
-            </li>
-            <li class="nav-item">
-              <!-- <a class="nav-link request-quote-nav" href="/realgeeks-buildout-form">Request Quote</a> -->
-            </li>
-          </ul>
-        </div>
-      </nav>
-    </div>
-    <a href="/realgeeks-buildout-form" class="home-bell"><span>Request a proposal</span></a>
-    <div id="our-packages">
-      <h1>Real Geeks Care Packages</h1>
-      <div class="container">
-        <div class="full-width-inner-section inner-section-10 widget-area" style="padding-bottom:0;">
-            <section id="text-43" class="widget widget_text">
-                <div class="widget-wrap">
-                    <div class="textwidget">
-                        <div class="pricing-table-container one-third first">
-                            <ul class="pricing-table-list">
-                                <li class="pricing-table-main-header">SILVER CARE PLAN</li>
-                                <li class="pricing-table-cost-header">$</li>
-                                <li class="pricing-table-cell">Real Geeks IDX & Search Updates: <small>Review and coordinate refreshing of MLS feed or MLS search as needed with Real Geeks and review searches after changes for accuracy.</small></li>
-                                <li class="pricing-table-cell">Design and Content Updates: <small>Up to 5 revision requests per month <a href="/revision-request-list">See List</a></small></li>
-                                <li class="pricing-table-cell">Manual Code Backup: <small>Manual backup of existing custom code so restoration can be made in the event of accidental changes.</small></li>
-                                <li class="pricing-table-cell pricing-table-cell-height-224">Priority Support: <small>Email reply within 24 hours daily and generally within an hour of your request. Guidance on general or specific questions in a timely manner, sharing topic-related resource files. Ensure compatibility of all custom code regardless of Real Geeks template changes.</small></li>
-                                <li class="pricing-table-button"><a class="button" href="/realgeeks-care-form">Request Care</a></li>
-                            </ul>
-                        </div>
-                        <div class="pricing-table-container one-third">
-                            <ul class="pricing-table-list">
-                                <li class="pricing-table-main-header">GOLD CARE PLAN</li>
-                                <li class="pricing-table-cost-header">$$</li>
-                                <li class="pricing-table-cell">All In Silver Care Plan</li>
-                                <li class="pricing-table-cell">Monitor Uptime and Respond Immediately to Site Down Notifications: <small>Real Geeks hosts your website however there may be instances when the server has issues of which they are unaware. We monitor your site 24/7 and send emergency requests to Real Geeks when your site or email go offline, prompting quick correction and website restoration.</small></li>
-                                <li class="pricing-table-cell">Site Health Checks: <small>Monthly review and repair of 404-page errors and broken links and website speed, with suggestions for improvement.</small></li>
-                                <li class="pricing-table-cell desktop-only"><br><br></li>
-                                <li class="pricing-table-cell desktop-only pricing-table-cell-height-79"><br></li>
-                                <li class="pricing-table-button"><a class="button" href="/realgeeks-care-form">Request Care</a></li>
-                            </ul>
-                        </div>
-                        <div class="pricing-table-container one-third">
-                            <ul class="pricing-table-list">
-                                <li class="pricing-table-main-header">PLATINUM CARE PLAN</li>
-                                <li class="pricing-table-cost-header">$$$</li>
-                                <li class="pricing-table-cell">All In Gold Care Plan</li>
-                                <li class="pricing-table-cell">Monthly Personal Consultation: <small>Monthly reports where we monitor and align your business goals with your website content, statistics, social media and ad campaigns.</small></li>
-                                <li class="pricing-table-cell">Data Tracking/Reporting: <small>Monthly website traffic tracking and keyword ranking report.</small></li>
-                                <li class="pricing-table-cell desktop-only"><br><br></li>
-                                <li class="pricing-table-cell desktop-only"><br><br></li>
-                                <li class="pricing-table-cell desktop-only"><br><br></li>
-                                <li class="pricing-table-button"><a class="button" href="/realgeeks-care-form">Request Care</a></li>
-                            </ul>
-                        </div>
-                        <!-- <div class="pricing-table-container one-third first">
-                            <ul class="pricing-table-list">
-                                <li class="pricing-table-main-header">Custom Plan</li>
-                                <li class="pricing-table-cost-header">$55/Hour</li>
-                                <li class="pricing-table-cell">Custom Pages</li>
-                                <li class="pricing-table-cell">Animations</li>
-                                <li class="pricing-table-cell">Custom Forms</li>
-                                <li class="pricing-table-button"><a class="button" href="/realgeeks-care-form">Request Buildout</a></li>
-                            </ul>
-                        </div> -->
+<div id="our-packages">
+  <h1>Real Geeks Care Packages</h1>
+  <div class="container">
+    <div class="full-width-inner-section inner-section-10 widget-area" style="padding-bottom:0;">
+        <section id="text-43" class="widget widget_text">
+            <div class="widget-wrap">
+                <div class="textwidget">
+                    <div class="pricing-table-container one-third first">
+                        <ul class="pricing-table-list">
+                            <li class="pricing-table-main-header">SILVER CARE PLAN</li>
+                            <li class="pricing-table-cost-header">$</li>
+                            <li class="pricing-table-cell">Real Geeks IDX & Search Updates: <small>Review and coordinate refreshing of MLS feed or MLS search as needed with Real Geeks and review searches after changes for accuracy.</small></li>
+                            <li class="pricing-table-cell">Design and Content Updates: <small>Up to 5 revision requests per month <a href="/revision-request-list">See List</a></small></li>
+                            <li class="pricing-table-cell">Manual Code Backup: <small>Manual backup of existing custom code so restoration can be made in the event of accidental changes.</small></li>
+                            <li class="pricing-table-cell pricing-table-cell-height-224">Priority Support: <small>Email reply within 24 hours daily and generally within an hour of your request. Guidance on general or specific questions in a timely manner, sharing topic-related resource files. Ensure compatibility of all custom code regardless of Real Geeks template changes.</small></li>
+                            <li class="pricing-table-button"><a class="button" href="/realgeeks-care-form">Request Care</a></li>
+                        </ul>
                     </div>
+                    <div class="pricing-table-container one-third">
+                        <ul class="pricing-table-list">
+                            <li class="pricing-table-main-header">GOLD CARE PLAN</li>
+                            <li class="pricing-table-cost-header">$$</li>
+                            <li class="pricing-table-cell">All In Silver Care Plan</li>
+                            <li class="pricing-table-cell">Monitor Uptime and Respond Immediately to Site Down Notifications: <small>Real Geeks hosts your website however there may be instances when the server has issues of which they are unaware. We monitor your site 24/7 and send emergency requests to Real Geeks when your site or email go offline, prompting quick correction and website restoration.</small></li>
+                            <li class="pricing-table-cell">Site Health Checks: <small>Monthly review and repair of 404-page errors and broken links and website speed, with suggestions for improvement.</small></li>
+                            <li class="pricing-table-cell desktop-only"><br><br></li>
+                            <li class="pricing-table-cell desktop-only pricing-table-cell-height-79"><br></li>
+                            <li class="pricing-table-button"><a class="button" href="/realgeeks-care-form">Request Care</a></li>
+                        </ul>
+                    </div>
+                    <div class="pricing-table-container one-third">
+                        <ul class="pricing-table-list">
+                            <li class="pricing-table-main-header">PLATINUM CARE PLAN</li>
+                            <li class="pricing-table-cost-header">$$$</li>
+                            <li class="pricing-table-cell">All In Gold Care Plan</li>
+                            <li class="pricing-table-cell">Monthly Personal Consultation: <small>Monthly reports where we monitor and align your business goals with your website content, statistics, social media and ad campaigns.</small></li>
+                            <li class="pricing-table-cell">Data Tracking/Reporting: <small>Monthly website traffic tracking and keyword ranking report.</small></li>
+                            <li class="pricing-table-cell desktop-only"><br><br></li>
+                            <li class="pricing-table-cell desktop-only"><br><br></li>
+                            <li class="pricing-table-cell desktop-only"><br><br></li>
+                            <li class="pricing-table-button"><a class="button" href="/realgeeks-care-form">Request Care</a></li>
+                        </ul>
+                    </div>
+                    <!-- <div class="pricing-table-container one-third first">
+                        <ul class="pricing-table-list">
+                            <li class="pricing-table-main-header">Custom Plan</li>
+                            <li class="pricing-table-cost-header">$55/Hour</li>
+                            <li class="pricing-table-cell">Custom Pages</li>
+                            <li class="pricing-table-cell">Animations</li>
+                            <li class="pricing-table-cell">Custom Forms</li>
+                            <li class="pricing-table-button"><a class="button" href="/realgeeks-care-form">Request Buildout</a></li>
+                        </ul>
+                    </div> -->
                 </div>
-            </section>
-        </div>
-      </div>
+            </div>
+        </section>
     </div>
-    <footer id="footer" role="contentinfo">
-      <div class="container">
-        <div class="inner">
-           <nav id="footer-navigation">
-              <ul class="menu">
-                <li class="menu-item menu-item-type-post_type menu-item-object-page">
-                  <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
-                </li>
-                <li class="menu-item menu-item-type-post_type menu-item-object-page">
-                  <a class="nav-link" href="/portfolio">Portfolio</a>
-                </li>
-                <li class="menu-item menu-item-type-post_type menu-item-object-page">
-                  <a class="nav-link" href="/reviews">Reviews</a>
-                </li>
-                <li class="menu-item menu-item-type-post_type menu-item-object-page">
-                  <a class="nav-link" href="/pricing">Pricing</a>
-                </li>
-                <li class="menu-item menu-item-type-post_type menu-item-object-page">
-                  <a class="nav-link" href="/about">About Us</a>
-                </li>
-                <li class="menu-item menu-item-type-post_type menu-item-object-page">
-                  <a class="nav-link" href="/contact">Contact Us</a>
-                </li>
-                <li class="menu-item menu-item-type-post_type menu-item-object-page">
-                  <a class="nav-link" href="/realgeeks-buildout-form">Request Quote</a>
-                </li>
-            </ul>
-           </nav>
-           <div class="vcard" itemscope="" itemtype="http://schema.org/LocalBusiness">
-              <img class="logo lazyloaded" itemprop="logo" src="./assets/RE-Site-Builders-logo/profile.png" onerror="this.onerror=null; this.src='./assets/RE-Site-Builders-logo/profile.png'" data-lazy-src="./assets/RE-Site-Builders-logo/profile.png" data-was-processed="true">
-              <noscript><img class="logo" itemprop="logo" src="./assets/RE-Site-Builders-logo/profile.png" onerror="this.onerror=null; this.src='./assets/RE-Site-Builders-logo/profile.png'"></noscript>
-              <p class="tel" itemprop="telephone"><a href="mailto:rauof@rauof.com">Email Us</a></p>
-              <p class="fn" itemprop="name"><a class="url" href="/" itemprop="url">Real Geeks Website Designer</a></p>
-              <p class="adr" itemprop="address" itemscope=""> <span class="street-address" itemprop="streetAddress"> The Fifth Settlement </span><br> <span class="locality" itemprop="addressLocality">Cairo</span>, <span class="region" itemprop="addressRegion">Egypt</span> <span class="postal-code" itemprop="postalCode">62518</span></p>
-              <p class="hours" itemprop="openingHours">Monday - Friday<br> 9:00 am - 5:30 pm</p>
-           </div>
-           <div id="site-description">
-              <h3>Professional Real Geeks Website Designer</h3>
-              <p>Rauof specializes in creating stunning Real Geeks website Designs that work great on all devices, To command audience’s attention, engage them, AND motivate them to take an action.</p>
-           </div>
-           <ul class="social-links">
-              <li class="facebook"><a href="https://www.linkedin.com/in/abdelrauof/" class="fa fa-linkedin"><span>Facebook</span></a></li>
-              <li class="twitter"><a href="https://github.com/abdelrauof97" class="fa fa-github"><span>Github</span></a></li>
-              <!-- <li class="google-plus"><a href=""><span>Google+</span></a></li> -->
-           </ul>
-           <div id="site-legal">
-              <p class="copyright">© 2019 Real Geeks Website Designer</p>
-           </div>
-        </div>
-      </div>
-    </footer>
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-    <script src="assets/scripts/script.js"></script>
-
-    <script>
-      $('#tooltip1').tooltip(options);
-    </script>
-  </body>
-</html>
+  </div>
+</div>
