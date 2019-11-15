@@ -1,17 +1,20 @@
 ---
 layout: page
-title: Request a Real Geeks Care Package
-pageDescription: To request a Care Package for your Real Geeks website. please contact me at rauof@rauof.com
+title: Real Geeks Website Revamp Quote
+pageDescription: Request a quote for your real geeks website revamp.
 keywords:
-  - Request Real Geeks website Care Packages
-  - Real Geeks Website Maintenance Pricing
+  - Real Geeks website revamp quote
+  - revamp you realgeeks website
+  - website maintenance pricing
+  - real estate web design revamp quote
+  - Real Geeks Website Designer pricing
   - the fifth settlement
   - cairo
   - egypt
 ---
 
 <div id="realgeeks-buildout-form">
-  <h1>Request a Care Package</h1>
+  <h1>Request a Free Quote</h1>
   <div class="container">
 
     <script type="text/javascript">var submitted=false;</script>
@@ -21,10 +24,10 @@ keywords:
       <div class="form-group">
         <label for="exampleFormControlSelect1" id="input_2_1" class="medium gfield_select" aria-required="true" aria-invalid="false">what would be the package?</label>
         <select name="entry.1187276124" class="form-control" name="Package">
-          <option value="Silver Care Package- $60/month">Silver Care Package- $</option>
-          <option value="Gold Care Package- $130/month">Gold Care Package- $$</option>
-          <option value="Platinum Care Package- $250/month">Platinum Care Package- $$$</option>
-          <option value="Custom Care Package- $55/hour">Custom Care Package</option>
+          <option value="Silver Package- $800">Silver Package- $</option>
+          <option value="Gold Package- $1,200">Gold Package- $$</option>
+          <option value="Platinum Package- $1,500">Platinum Package- $$$</option>
+          <option value="Custom Package- $55/hour">Custom Package</option>
         </select>
       </div>
       <div class="row">
