@@ -1,3 +1,20 @@
+---
+layout: page
+title: Real Geeks Care Packages
+pageDescription: View our Real Geeks care  packages and see how we can help you with your real estate website.
+keywords:
+  - Real Geeks website Care packages
+  - Real Geeks website maintenance
+  - website maintenance pricing
+  - website maintenance packages
+  - our packages
+  - real estate web design pricing
+  - Real Geeks Website Designer pricing
+  - the fifth settlement
+  - cairo
+  - egypt
+---
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
