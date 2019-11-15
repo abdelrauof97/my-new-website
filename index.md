@@ -14,7 +14,6 @@ keywords:
   - egypt
 ---
 
-<a href="/realgeeks-buildout-form" class="home-bell"><span>Request a proposal</span></a>
 <div id="hero-section-wrapper" style="background: #d5d5d2;">
   <section id="hero-section" class="vertical-center">
     <div class="container">
