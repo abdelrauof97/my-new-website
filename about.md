@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: About Rauof
 pageDescription: Rauof is an expert real estate site builder, he is a top rated at Upwork and completed over 50 projects with 100% Job Satisfication.
 keywords:

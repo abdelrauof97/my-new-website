@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Contact
 pageDescription: Contact us now to revamp your real geeks website at rauof@rauof.com
 keywords:
