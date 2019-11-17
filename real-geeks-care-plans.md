@@ -41,10 +41,11 @@ keywords:
                             <li class="pricing-table-cell">Monitor Uptime and Respond Immediately to Site Down Notifications: <small>Real Geeks hosts your website however there may be instances when the server has issues of which they are unaware. We monitor your site 24/7 and send emergency requests to Real Geeks when your site or email go offline, prompting quick correction and website restoration.</small></li>
                             <li class="pricing-table-cell">Site Health Checks: <small>Monthly review and repair of 404-page errors and broken links and website speed, with suggestions for improvement.</small></li>
                             <li class="pricing-table-cell desktop-only"><br><br></li>
+                             <li class="pricing-table-cell desktop-only pricing-table-cell-height-79"><br></li>
                             <li class="pricing-table-button"><a class="button" href="/realgeeks-care-form">Request Care</a></li>
                         </ul>
                     </div>
-                    <!-- <div class="pricing-table-container one-third">
+                    <div class="pricing-table-container one-third">
                         <ul class="pricing-table-list">
                             <li class="pricing-table-main-header">PLATINUM CARE PLAN</li>
                             <li class="pricing-table-cost-header">$$$</li>
@@ -56,7 +57,7 @@ keywords:
                             <li class="pricing-table-cell desktop-only"><br><br></li>
                             <li class="pricing-table-button"><a class="button" href="/realgeeks-care-form">Request Care</a></li>
                         </ul>
-                    </div> -->
+                    </div>
                     <!-- <div class="pricing-table-container one-third first">
                         <ul class="pricing-table-list">
                             <li class="pricing-table-main-header">Custom Plan</li>

@@ -668,8 +668,8 @@ section.content-section {
 #our-packages .button,.entry-content a.button,.textwidget a.button{background-color:#5b76d8;border-radius:50px;border:none;color:#fff;cursor:pointer;font-size:14px;font-size:1.4rem;font-weight:500;letter-spacing:0.5px;padding:20px 30px;text-transform:uppercase;white-space:normal;width:auto;}
 #our-packages .button:focus,.button:hover,.entry-content a.button:focus,.entry-content a.button:hover,.textwidget a.button:focus,.textwidget a.button:hover{background-color:#fff;border:none;color:#444;text-decoration:none;}
 #our-packages .button{display:inline-block;}
-#our-packages .one-third{float:left;}
-#our-packages .one-third{width:50%;padding: 0 5%;}
+#our-packages .one-third{float:left;margin-left:2.564102564102564%;}
+#our-packages .one-third{width:31.623931623931625%;}
 #our-packages .first{clear:both;margin-left:0;}
 #our-packages .widget{word-wrap:break-word;}
 #our-packages :focus{color:#232525;outline:#ddd solid 1px;}
