@@ -239,7 +239,7 @@ keywords:
             <div class="row">
                <div class="col col-sm-6">
                   <h2 style="margin-bottom: 21px;">Our RG Website Design Service</h2>
-                  <p>We know what it’s like to have a standard real geeks template that slows you down.</p>
+                  <p>We know what it’s like to have a basic Real Estate website design that slows you down.</p>
                   <p style="margin-bottom: 30px;"><strong>But it doesn’t have to be that way</strong>.</p>
                   <p>We’ve helped tens of real estate professionals build momentum with their brand.</p>
                   <div style="font-size: .7em; margin-top: 30px; color: #ddd; font-style: italic;">Check out our <a style="text-decoration: underline;color:#fff;" href="https://www.upwork.com/freelancers/~0167347e9a9fdae758" rel="noopener">40 reviews &amp; 5-star rating</a> on upwork.com.</div>
