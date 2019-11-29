@@ -182,7 +182,7 @@ keywords:
               </div>
           </div>
           <div class="jsx-1623677582 eatr-review-card-template-spotlight-text">
-              <div class="jsx-1623677582 eatr-review-card-template-spotlight-title"Abdelrauof is a pleasure to work with!</div>
+              <div class="jsx-1623677582 eatr-review-card-template-spotlight-title">Abdelrauof is a pleasure to work with!</div>
               <div class="jsx-1039373937 eatr-review-card-component">
                   <div class="jsx-1039373937 eatr-review-card-container">
                       <div class="jsx-1039373937">
