@@ -348,33 +348,19 @@ keywords:
 <section class="customSection customCommunities" style="padding-top:0px;">
     <div class="customCommunities-content">
         <ul class="small-block-grid-1 medium-block-grid-3 large-block-grid-3 text-center">
+        {% for portfolio in site.portfolio %}
+          {% if portfolio.tags contains featured %}
             <li>
-                <div class="community-container"><img src="{{site.url}}/public/assets/photos/portfolio-website-photos/carolinas-scr.png" alt="portfolio example Carolinas website Screenshot" width="400" height="300">
+                <div class="community-container"><img src="{{site.url}}{{ portfolio.heroImage }}" alt="portfolio example {{ portfolio.title }} website Screenshot" width="400" height="300">
                     <div class="community-description">
-                        <h3>Carolinas</h3>
+                        <h3>{{ portfolio.title }}</h3>
                     </div>
                     <div class="community-overlay"></div>
-                    <div class="community-link-overlay"><a href="https://www.carolinas.house/">&nbsp;</a></div>
+                    <div class="community-link-overlay"><a href="{{ portfolio.url | prepend: site.baseurl }}">&nbsp;</a></div>
                 </div>
             </li>
-            <li>
-                <div class="community-container"><img src="{{site.url}}/public/assets/photos/portfolio-website-photos/downtownchicagorealestate-scr.png" alt="portfolio example Downtown Chicago Real Estate website Screenshot" width="400" height="300">
-                    <div class="community-description">
-                        <h3>Downtown Chicago</h3>
-                    </div>
-                    <div class="community-overlay"></div>
-                    <div class="community-link-overlay"><a href="https://www.downtownchicagorealestate.com/">&nbsp;</a></div>
-                </div>
-            </li>
-            <li>
-                <div class="community-container"><img src="{{site.url}}/public/assets/photos/portfolio-website-photos/thechadwilsongroup-scr.png" alt="portfolio example The Chad Wilson Group website Screenshot" width="400" height="300">
-                    <div class="community-description">
-                        <h3>The Chad Wilson</h3>
-                    </div>
-                    <div class="community-overlay"></div>
-                    <div class="community-link-overlay"><a href="https://www.thechadwilsongroup.com/">&nbsp;</a></div>
-                </div>
-            </li>
+          {% endif %}
+        {% endfor %}
         </ul>
         <a href="/realgeeks-buildout-form" class="request-quote">Request a Free Quote</a>
     </div>
