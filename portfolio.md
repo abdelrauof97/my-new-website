@@ -26,7 +26,7 @@ keywords:
                           <h3>{{ portfolio.title }}</h3>
                       </div>
                       <div class="community-overlay"></div>
-                      <div class="community-link-overlay"><a href="{{ portfolio.url }}">&nbsp;</a></div>
+                      <div class="community-link-overlay"><a href="{{ portfolio.url | prepend: site.baseurl }}">&nbsp;</a></div>
                   </div>
               </li>
           {% endfor %}
