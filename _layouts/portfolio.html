@@ -11,14 +11,13 @@ layout: default
         <a class="request-quote" href="{{ page.portfolioSiteUrl }}" target="_blank">Visit {{ page.title }}</a>
       </div>
       <div class="col col-sm-4 related">
-        <h3>Related Portfolio</h3>
+        <h3>Portfolio</h3>
         <ul class="related-posts">
-          {% for post in site.related_portfolios limit:50 %}
+          {% for portfolio in site.portfolio %}
             <li>
               <h5>
-                <a href="{{ post.url }}">
-                  {{ post.title }}
-                  <!-- <small>{{ post.date | date_to_string }}</small> -->
+                <a href="{{ portfolio.url }}">
+                  {{ portfolio.title }}
                 </a>
               </h5>
             </li>
