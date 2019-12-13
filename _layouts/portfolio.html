@@ -11,9 +11,9 @@ layout: default
         <a class="request-quote" href="{{ page.portfolioSiteUrl }}" target="_blank">Visit {{ page.title }}</a>
       </div>
       <div class="col col-sm-4 related">
-        <h3>Related Posts</h3>
+        <h3>Related Portfolio</h3>
         <ul class="related-posts">
-          {% for post in site.related_posts limit:3 %}
+          {% for post in site.related_portfolios limit:50 %}
             <li>
               <h5>
                 <a href="{{ post.url }}">
@@ -24,6 +24,19 @@ layout: default
             </li>
           {% endfor %}
         </ul>
+        <!-- <h3>Related Posts</h3>
+        <ul class="related-posts">
+          {% for post in site.related_posts limit:3 %}
+            <li>
+              <h5>
+                <a href="{{ post.url }}">
+                  {{ post.title }}
+                  <small>{{ post.date | date_to_string }}</small>
+                </a>
+              </h5>
+            </li>
+          {% endfor %}
+        </ul> -->
       </div>
     </div>
   </div>
