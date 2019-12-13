@@ -1,6 +1,6 @@
 ---
 layout: portfolio
 title: Christine Hancock
-portfolioSiteUrl: christinehancock.com
+portfolioSiteUrl: "http://www.christinehancock.com"
 heroImage: /public/assets/photos/portfolio-website-photos/downtownchicagorealestate-scr.png
 ---
