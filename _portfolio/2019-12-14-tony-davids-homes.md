@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: portfolio
 title: Tony Davids Homes
 portfolioSiteUrl: https://www.tonydavidshomes.com/
 heroImage: /public/assets/photos/portfolio-website-photos/tonydavidshomes-scr.png
@@ -9,6 +9,6 @@ heroImage: /public/assets/photos/portfolio-website-photos/tonydavidshomes-scr.pn
   <h1>{{ page.title }}</h1>
   <div class="container">
     <img src="{{ site.url }}{{page.heroImage }}" />
-    <a class="request-quote" href="{{ page.portfolioSiteUrl }}">Visit {{ page.title }}</a>
+    <a class="request-quote" href="{{ page.portfolioSiteUrl }}" target="_blank">Visit {{ page.title }}</a>
   </div>
 </div>
