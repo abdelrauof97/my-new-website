@@ -6,6 +6,11 @@
 permalink:        pretty
 # relative_permalinks: true
 
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+
 # Setup
 title:            'Real Geeks Website Designer'
 tagline:          'Boost Your Sales on RealGeeks'
