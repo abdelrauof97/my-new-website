@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Chandler Crouch
-portfolioSiteUrl: https://www.chandlercrouch.com/
-heroImage: /public/assets/photos/portfolio-website-photos/chandlercrouch-scr.png
+title: Realty Bureau
+portfolioSiteUrl: https://realtybureau.realgeeks.com/
+heroImage: /public/assets/photos/portfolio-website-photos/realtybureau-scr.png
 ---
 
 <div id="our-portfolio">

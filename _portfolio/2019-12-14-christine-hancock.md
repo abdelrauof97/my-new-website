@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Chandler Crouch
-portfolioSiteUrl: https://www.chandlercrouch.com/
-heroImage: /public/assets/photos/portfolio-website-photos/chandlercrouch-scr.png
+title: Christine Hancock
+portfolioSiteUrl: christinehancock.com
+heroImage: /public/assets/photos/portfolio-website-photos/downtownchicagorealestate-scr.png
 ---
 
 <div id="our-portfolio">

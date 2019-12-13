@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Chandler Crouch
-portfolioSiteUrl: https://www.chandlercrouch.com/
-heroImage: /public/assets/photos/portfolio-website-photos/chandlercrouch-scr.png
+title: Tony Davids Homes
+portfolioSiteUrl: https://www.tonydavidshomes.com/
+heroImage: /public/assets/photos/portfolio-website-photos/tonydavidshomes-scr.png
 ---
 
 <div id="our-portfolio">

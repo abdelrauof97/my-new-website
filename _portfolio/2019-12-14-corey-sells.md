@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Chandler Crouch
-portfolioSiteUrl: https://www.chandlercrouch.com/
-heroImage: /public/assets/photos/portfolio-website-photos/chandlercrouch-scr.png
+title: Corey Sells
+portfolioSiteUrl: https://coreysells.realgeeks.com/
+heroImage: /public/assets/photos/portfolio-website-photos/coreysells-scr.png
 ---
 
 <div id="our-portfolio">

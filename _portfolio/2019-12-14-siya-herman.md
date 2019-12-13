@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Chandler Crouch
-portfolioSiteUrl: https://www.chandlercrouch.com/
-heroImage: /public/assets/photos/portfolio-website-photos/chandlercrouch-scr.png
+title: Siya Herman
+portfolioSiteUrl: https://www.siyaherman.ca/
+heroImage: /public/assets/photos/portfolio-website-photos/siyaherman-scr.png
 ---
 
 <div id="our-portfolio">

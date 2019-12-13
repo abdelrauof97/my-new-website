@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Chandler Crouch
-portfolioSiteUrl: https://www.chandlercrouch.com/
-heroImage: /public/assets/photos/portfolio-website-photos/chandlercrouch-scr.png
+title: Edmond Real Estate
+portfolioSiteUrl: https://www.edmond.realestate/
+heroImage: /public/assets/photos/portfolio-website-photos/edmond-realestate-scr.png
 ---
 
 <div id="our-portfolio">
