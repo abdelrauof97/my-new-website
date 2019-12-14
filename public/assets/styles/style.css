@@ -750,7 +750,7 @@ a.home-bell {
 	position: fixed;
 	right: 6%;
 	bottom: 0;
-	z-index: 16;
+	z-index: 100;
 	background-size: 38px 34px;
 	outline: none;
 	margin-bottom: -1px;
