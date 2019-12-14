@@ -33,7 +33,7 @@ keywords:
             <div class="service-container" style="max-width: 1150px; margin: 20px auto 20px auto;">
                 <div class="row">
                     <div class="col col-sm-6" style="flex: auto;">
-                      <a href="/portfolio/2019-12-14-carolinas/" target="_blank"><img src="{{site.url}}/public/assets/photos/carolinas-home.png" alt="Carolinas Home Page screenshot" class="wp-image-1273 hero-img" width="100%" height="auto" style="max-width: 500px;display:block;margin: auto;"></a>
+                      <a href="/portfolio/2019-12-14-carolinas/"><img src="{{site.url}}/public/assets/photos/carolinas-home.png" alt="Carolinas Home Page screenshot" class="wp-image-1273 hero-img" width="100%" height="auto" style="max-width: 500px;display:block;margin: auto;"></a>
                     </div>
                     <div class="col col-sm-6">
                       <h2 style="margin-top: 0px;margin-bottom:30px;">A Well Designed RG Website Can Leverage Your Company Success</h2>
