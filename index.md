@@ -349,7 +349,7 @@ keywords:
     <div class="customCommunities-content">
         <ul class="small-block-grid-1 medium-block-grid-3 large-block-grid-3 text-center">
         {% for portfolio in site.portfolio %}
-          {% if portfolio.tags contains featured %}
+          {% if portfolio.tags contains "featured" %}
             <li>
                 <div class="community-container"><img src="{{site.url}}{{ portfolio.heroImage }}" alt="portfolio example {{ portfolio.title }} website Screenshot" width="400" height="300">
                     <div class="community-description">
