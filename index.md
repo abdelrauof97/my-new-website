@@ -67,7 +67,7 @@ keywords:
                   <div style="font-size: .7em; margin-top: 30px; color: #ddd; font-style: italic;">Check out our <a style="text-decoration: underline;color:#fff;" href="https://www.upwork.com/freelancers/~0167347e9a9fdae758" rel="noopener">40 reviews &amp; 5-star rating</a> on upwork.com.</div>
                </div>
                <div class="col col-sm-6 ">
-                  <a href="https://www.upwork.com/freelancers/~0167347e9a9fdae758" rel="noopener"><img style="margin: 30px auto 0 auto; display: block;border-radius: 50%;" src="{{site.url}}/public/assets/photos/upwork-top-rated.png" data-lazy-src="{{site.url}}/public/assets/photos/upwork-top-rated.png" class="lazyloaded" data-was-processed="true"></a>
+                  <a rel="noopener noreferrer"><img style="margin: 30px auto 0 auto; display: block;border-radius: 50%;" src="{{site.url}}/public/assets/photos/upwork-top-rated.png" alt="Upwork Top Rated Badge" data-lazy-src="{{site.url}}/public/assets/photos/upwork-top-rated.png" class="lazyloaded" data-was-processed="true"></a>
                   <noscript><img style="margin: 30px auto 0 auto;" src="{{site.url}}/public/assets/photos/upwork-top-rated.png" /></noscript>
                </div>
             </div>
