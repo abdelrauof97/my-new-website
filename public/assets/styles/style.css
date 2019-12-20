@@ -482,7 +482,7 @@ section.content-section {
   width: 100%;
 }
 .request-quote {
-  background: #5b76d8;
+  background: #f97c7c;
   display: block;
   width: 290px;
   border-radius: 30px;
@@ -494,7 +494,7 @@ section.content-section {
   transition: all .5s ease;
 }
 .request-quote:hover {
-  background: #f97c7c;
+  background: #5b76d8;
   color: #fff;
   text-decoration: none;
 }
