@@ -42,7 +42,7 @@ keywords:
                           <li>Unique website built to your specifications.</li>
                           <li>Fast and neat website load.</li>
                           <li>Optimised for your business.</li>
-                          <li>Affective marketing campaigns.</li>
+                          <li>Effective marketing campaigns.</li>
                           <li>More Gained sales opportunities.</li>
                       </ul>
                       <div style="height: 4px; width: 60px; background-color: #999; margin-bottom: 30px;"></div>
