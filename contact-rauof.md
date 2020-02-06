@@ -18,7 +18,7 @@ keywords:
 
     <script type="text/javascript">var submitted=false;</script>
     <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
-    onload="if(submitted) {window.location='thank-you';}"></iframe>
+    onload="if(submitted) {window.location='/thank-you';}"></iframe>
 
     <form class="contact-form" action="https://docs.google.com/forms/d/e/1FAIpQLSeaTjEkYNOGu3mpi2jGwRKos0_1u1P25rS-S1sdB9qw4-_awg/formResponse" target="hidden_iframe" onsubmit="submitted=true;" method="POST">
       <div class="row">

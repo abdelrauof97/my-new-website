@@ -18,7 +18,7 @@ keywords:
   <div class="container">
 
     <script type="text/javascript">var submitted=false;</script>
-    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='thank-you';}"></iframe>
+    <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {window.location='/thank-you';}"></iframe>
 
     <form class="contact-form" action="https://docs.google.com/forms/d/e/1FAIpQLSeeXS5wa0xEYT6Mip9nZrmOSos5EFDwoY5n7dZq8x7BVlLKYw/formResponse" target="hidden_iframe" onsubmit="submitted=true;" method="POST">
       <div class="form-group">

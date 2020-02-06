@@ -15,7 +15,7 @@ keywords:
   <p>Your Custom Home Valuation Landing Page will be based off the same layout as www.surreyhomes.ca/home-valuation-new/ – Any additional work will be billed at our standard rate of $55 an hour. We will notify you to get your approval before any additional work is done.</p><br>
   <script type="text/javascript">var submitted=false;</script>
   <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
-  onload="if(submitted) {window.location='thank-you';}"></iframe>
+  onload="if(submitted) {window.location='/thank-you';}"></iframe>
 
   <form class="contact-form" action="https://docs.google.com/forms/d/e/1FAIpQLSeaTjEkYNOGu3mpi2jGwRKos0_1u1P25rS-S1sdB9qw4-_awg/formResponse" target="hidden_iframe" onsubmit="submitted=true;" method="POST">
     <div class="row">
