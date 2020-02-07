@@ -406,6 +406,9 @@ section.content-section {
   #our-portfolio h1 {
     padding: 60px 0;
   }
+  #our-portfolio .customSection {
+    flex: none;
+  }
 }
 #our-portfolio .portfolio-website-card {
   background: #fff;
