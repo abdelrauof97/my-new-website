@@ -10,6 +10,9 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
+  blog:
+    output: true
+    permalink: /blog/:path/
 
 # Setup
 title:            'Real Geeks Website Designer'
