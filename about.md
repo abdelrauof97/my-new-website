@@ -19,7 +19,7 @@ keywords:
         <p>If you want a new website or already have a Real Estate site and would like for me to evaluate it and send you a quote on what we think it will take to get it to where you want it, you could <a href="/contact-rauof">Contact me</a></p>
         </div>
       <div class="col-sm-4">
-        <img src="{{site.url}}/public/assets/photos/personal-photo.jpeg" style="width: 100%;"/>
+        <img src="{{site.url}}/public/assets/photos/p3u86ayxel1eswkc.jpg" style="width: 100%;"/>
       </div>
     </div>
   </div>
