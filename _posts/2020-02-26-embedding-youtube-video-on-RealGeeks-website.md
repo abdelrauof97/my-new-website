@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Embedding youtube video on RealGeeks website
+heroImage: /public/assets/photos/posts/embedding-youtube-video-on-RealGeeks-website/youtube-video-embed-code-example.png
 ---
 
 <h2>How to embed youtube video on RealGeeks website</h2>
