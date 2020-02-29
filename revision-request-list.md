@@ -4,9 +4,6 @@ title: Real Geeks Revision Request List
 pageDescription: Choose From Our Real Geeks Revision Request List. please contact me at rauof@rauof.com
 keywords:
   - Real Geeks website Revision Request List
-  - the fifth settlement
-  - cairo
-  - egypt
 ---
 
 <div id="our-packages">

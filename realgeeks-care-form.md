@@ -5,9 +5,6 @@ pageDescription: To request a Care Package for your Real Geeks website. please c
 keywords:
   - Request Real Geeks website Care Packages
   - Real Geeks Website Maintenance Pricing
-  - the fifth settlement
-  - cairo
-  - egypt
 ---
 
 <div id="realgeeks-buildout-form">

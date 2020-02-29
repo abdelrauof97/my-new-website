@@ -8,9 +8,6 @@ keywords:
   - real estate web design portfolio
   - Rauof Portfolio
   - web design portfolio
-  - the fifth settlement
-  - cairo
-  - egypt
 ---
 
 <div id="our-portfolio">

@@ -8,9 +8,6 @@ keywords:
   - website maintenance pricing
   - real estate web design revamp quote
   - Real Geeks Website Designer pricing
-  - the fifth settlement
-  - cairo
-  - egypt
 ---
 
 <div id="realgeeks-buildout-form">

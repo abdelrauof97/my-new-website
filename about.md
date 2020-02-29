@@ -7,9 +7,6 @@ keywords:
   - about abdelrauof mohammed
   - real estate website builder
   - upwork top rated website designer
-  - the fifth settlement
-  - cairo
-  - egypt
 ---
 
 <div id="about-us">

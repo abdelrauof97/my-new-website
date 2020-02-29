@@ -9,9 +9,6 @@ keywords:
   - our packages
   - real estate website design pricing
   - Real Geeks Website Designer pricing
-  - the fifth settlement
-  - cairo
-  - egypt
 ---
 
 <div id="our-packages">

@@ -4,9 +4,6 @@ title: Request home valuation landing page
 pageDescription: Do you want a new Request valuation landing page? contact me at rauof@rauof.com
 keywords:
   - Request Real Geeks website custom homve valuation
-  - the fifth settlement
-  - cairo
-  - egypt
 ---
 
 <div id="contact-us">

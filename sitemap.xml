@@ -16,6 +16,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://rauof.com/blog</loc>
+    <lastmod>2020-02-29</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://rauof.com/contact</loc>
     <lastmod>2019-06-17</lastmod>
     <priority>0.7</priority>
@@ -28,6 +33,11 @@
   <url>
     <loc>https://rauof.com/realgeeks-buildout-form</loc>
     <lastmod>2019-08-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://rauof.com/2020/02/29/embedding-youtube-video-on-RealGeeks-website/</loc>
+    <lastmod>2020-02-29</lastmod>
     <priority>0.7</priority>
   </url>
 </urlset>

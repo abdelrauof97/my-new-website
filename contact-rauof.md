@@ -6,9 +6,6 @@ keywords:
   - contact rauof
   - call rauof
   - contact web designer
-  - the fifth settlement
-  - cairo
-  - egypt
 ---
 
 

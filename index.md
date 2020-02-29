@@ -9,9 +9,6 @@ keywords:
   - real estate website design, real geeks website redesign
   - real geeks virutal assistant
   - real geeks website design freelancer
-  - real estate web design fifth settlement
-  - cairo
-  - egypt
 ---
 
 <div id="hero-section-wrapper" style="background: #d5d5d2;">
