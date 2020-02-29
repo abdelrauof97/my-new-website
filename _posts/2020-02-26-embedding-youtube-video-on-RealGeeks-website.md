@@ -21,4 +21,4 @@ heroImage: /public/assets/photos/posts/embedding-youtube-video-on-RealGeeks-webs
 <h2>Changing Size of the youtube video</h2>
 <p>You could be changing the height and width of the youtube video. in the example above width is set to 1440 and height is set to 629, you could change those values to better fit your website and page.</p>
 
-<p>Need help with your website? <a href="/contact-rauof/">Contact Us Now</a>!</p>
+<p>Need help with your website? <a href="/contact-rauof/">Contact Us Now!</a></p>
