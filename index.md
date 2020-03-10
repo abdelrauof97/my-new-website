@@ -11,7 +11,7 @@ keywords:
   - real geeks website design freelancer
 ---
 
-<div id="hero-section-wrapper" style="background: #d5d5d2;">
+<div id="hero-section-wrapper">
   <section id="hero-section" class="vertical-center">
     <div class="container">
       <div class="row">

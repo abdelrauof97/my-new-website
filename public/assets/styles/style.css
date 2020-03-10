@@ -83,11 +83,13 @@ a {
 }
 #hero-section h1 {
   max-width: 600px;
+  color:#fff;
 }
 #hero-section h4 {
   margin-top: 30px;
   max-width: 100%;
   font-family: 'Hind Guntur', sans-serif;
+  color:#fff;
 }
 @media(max-width: 700px){
   #hero-section {
