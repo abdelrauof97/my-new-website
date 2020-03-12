@@ -71,9 +71,8 @@ a {
 @media(min-width: 700px){
   #hero-section-wrapper {
     padding-top: 84px;
-    background: linear-gradient(270deg,rgba(0, 0, 0, 0.2),rgba(0,0,0, 0.8)), url(https://rauof.com/public/assets/photos/20200218_170842.jpeg) right top no-repeat;
-    background-size: 157%;
-    background-position: 0% -5%;
+    background: linear-gradient(270deg,rgba(0, 0, 0, 0.5),rgba(0,0,0, 0.5)), url(https://rauof.com/public/assets/photos/20200218_170842.jpeg) center center no-repeat;
+    background-size: cover;
   }
 }
 @media(max-width: 700px){
