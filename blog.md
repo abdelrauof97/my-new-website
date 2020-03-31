@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Blog
-pageDescription: View our extensive real Geeks custom design Blog and see how we can help you on your next web project.
+pageDescription: View our extensive Real Estate custom design Blog and see how we can help you on your next web project.
 keywords:
-  - custom real geeks website designs posts
-  - Real Geeks Website Designer Blog
+  - custom Real Estate website designs posts
+  - Real Estate Website Designer Blog
   - real estate web design blog
   - Rauof blog
   - web design blog

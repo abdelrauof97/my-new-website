@@ -3,8 +3,8 @@ layout: page
 title: Portfolio
 pageDescription: View our extensive real estate web design portfolio and see how we can help you on your next web project.
 keywords:
-  - custom real geeks website designs
-  - Real Geeks Website Designer Portfolio
+  - custom Real Estate website designs
+  - Real Estate Website Designer Portfolio
   - real estate web design portfolio
   - Rauof Portfolio
   - web design portfolio

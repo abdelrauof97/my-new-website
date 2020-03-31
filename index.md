@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Home
-pageDescription: Do you want to design you Real Geeks website and turn it from standard to luxury and unique website? please contact me at rauof@rauof.com
+pageDescription: Do you want to design you Real Estate website and turn it from standard to luxury and unique website? please contact me at rauof@rauof.com
 keywords:
-  - real geeks website designer
-  - real geeks website design
-  - Real Geeks website revamp
-  - real estate website design, real geeks website redesign
-  - real geeks virutal assistant
-  - real geeks website design freelancer
+  - Real Estate website designer
+  - Real Estate website design
+  - Real Estate website revamp
+  - real estate website design, Real Estate website redesign
+  - Real Estate virutal assistant
+  - Real Estate website design freelancer
 ---
 
 <div id="hero-section-wrapper">
@@ -16,7 +16,7 @@ keywords:
     <div class="container">
       <div class="row">
         <div class="col col-sm-7">
-          <h1>Compelling, Visually Motivating and Engaging Real Geeks Website Design.</h1>
+          <h1>Compelling, Visually Motivating and Engaging Real Estate Website Design.</h1>
           <h4>The ultimate goal(s) of your site should be to command your audience’s attention, engage them, AND motivate them to take an action.<br><br>★ Abdelrauof is a joy to work with! He is quick, efficient and the right price. Thank you!" - Upwork Client ★</h4>
           <a href="/realgeeks-buildout-form" class="request-quote">Request a Free Quote</a>
         </div>
@@ -33,7 +33,7 @@ keywords:
                       <a href="/portfolio/2019-12-02-carolinas/"><img src="{{site.url}}/public/assets/photos/carolinas-home.png" alt="Carolinas Home Page screenshot" class="wp-image-1273 hero-img" width="100%" height="auto" style="max-width: 500px;display:block;margin: auto;"></a>
                     </div>
                     <div class="col col-sm-6">
-                      <h2 style="margin-top: 0px;margin-bottom:30px;">A Well Designed RG Website Can Leverage Your Company Success</h2>
+                      <h2 style="margin-top: 0px;margin-bottom:30px;">A Well Designed Real Estate Website Can Leverage Your Company Success</h2>
                       <p><strong>Not to mention all the benefits.</strong></p>
                       <ul style="margin: 15px 0px 30px 0px;">
                           <li>Unique website built to your specifications.</li>
@@ -44,7 +44,7 @@ keywords:
                       </ul>
                       <div style="height: 4px; width: 60px; background-color: #999; margin-bottom: 30px;"></div>
                       <p>Custom website design benefits your website and business in many ways. In fact, 48 percent of a survey’s respondents cited website design as their most important factor in determining a website’s credibility.</p>
-                      <p><strong>Your brand should benefit from the benefits by having a well designed Real Geeks website.</strong></p>
+                      <p><strong>Your brand should benefit from the benefits by having a well designed Real Estate website.</strong></p>
                     </div>
                 </div>
             </div>
@@ -57,7 +57,7 @@ keywords:
          <div style="max-width: 1150px; margin: 40px auto 40px auto;">
             <div class="row">
                <div class="col col-sm-6">
-                  <h2 style="margin-bottom: 21px;">Our RG Website Design Service</h2>
+                  <h2 style="margin-bottom: 21px;">Our Website Design Service</h2>
                   <p>We know what it’s like to have a basic Real Estate website design that slows you down.</p>
                   <p style="margin-bottom: 30px;"><strong>But it doesn’t have to be that way</strong>.</p>
                   <p>We’ve helped tens of real estate professionals build momentum with their brand.</p>
@@ -429,7 +429,7 @@ keywords:
                 <div class="service-highlights one-fourth first">
                     <img src="{{site.url}}/public/assets/photos/signup-icon.png" alt="">
                     <h3>Sign Up</h3>
-                    <p>Sign up with <a href="http://www.realgeeks.com/" rel="noopener noreferrer">Real Geeks</a> get approved by your MLS, and we’ll be ready to start your buildout. </p>
+                    <p>Sign up with <a href="http://www.realgeeks.com/" rel="noopener noreferrer">Real Estate</a> get approved by your MLS, and we’ll be ready to start your buildout. </p>
                 </div>
 
                 <div class="service-highlights one-fourth two-of-two">

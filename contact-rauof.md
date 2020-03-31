@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Rauof
-pageDescription: Contact us now to revamp your real geeks website at rauof@rauof.com
+pageDescription: Contact us now to revamp your Real Estate website at rauof@rauof.com
 keywords:
   - contact rauof
   - call rauof

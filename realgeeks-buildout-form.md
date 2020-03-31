@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Real Geeks Website Revamp Quote
-pageDescription: Request a quote for your real geeks website revamp.
+title: Real Estate Website Revamp Quote
+pageDescription: Request a quote for your Real Estate website revamp.
 keywords:
-  - Real Geeks website revamp quote
+  - Real Estate website revamp quote
   - revamp you realgeeks website
   - website maintenance pricing
   - real estate web design revamp quote
-  - Real Geeks Website Designer pricing
+  - Real Estate Website Designer pricing
 ---
 
 <div id="realgeeks-buildout-form">

@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Our Packages
-pageDescription: View our Real Geeks design buildout packages and see how we can help you on your next web project.
+pageDescription: View our Real Estate design buildout packages and see how we can help you on your next web project.
 keywords:
-  - Real Geeks website design buildout pricing
-  - Real Geeks custom design packages
-  - Real Geeks website revamp pricing
+  - Real Estate website design buildout pricing
+  - Real Estate custom design packages
+  - Real Estate website revamp pricing
   - our packages
   - real estate website design pricing
-  - Real Geeks Website Designer pricing
+  - Real Estate Website Designer pricing
 ---
 
 <div id="our-packages">
