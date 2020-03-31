@@ -1,4 +1,3 @@
-#Redirect from old domain to new domain with full path and query string:
-Options +FollowSymLinks
 RewriteEngine On
-RewriteRule ^(.*) http://www.newdomain.com%{REQUEST_URI} [R=302,NC]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.html [NC,L]
