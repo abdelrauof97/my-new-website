@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Embedding a PDF on RealGeeks website
-heroImage: /public/assets/photos/posts/embedding-a-pdf-on-RealGeeks-website/embedding-pdf-file-code-on-desired-page.png
+heroImage: /public/assets/photos/posts/embedding-a-pdf-on-RealGeeks-website/showing-pdf-file-on-desired-page.png
 ---
 
 <h2>How to embed a PDF on RealGeeks website</h2>
@@ -23,10 +23,10 @@ heroImage: /public/assets/photos/posts/embedding-a-pdf-on-RealGeeks-website/embe
 
 <h2>Adding code to the desired page</h2>
 <p>go to the page where you want to add the code at the admin panel and click on <code class="language-plaintext highlighter-rouge"><></code> to open the backend editor</p>
-<img src="{{ site.url }}/public/assets/photos/posts/embedding-a-pdf-on-RealGeeks-website/showing-pdf-file-on-desired-page.png" alt="showing pdf file on desired page"/>
+<img src="{{ site.url }}/public/assets/photos/posts/embedding-a-pdf-on-RealGeeks-website/embedding-pdf-file-code-on-desired-page.png" alt="embedding pdf file code on desired page"/>
 
 <h2>The PDF should show now on the new page</h2>
-<img src="{{ site.url }}/public/assets/photos/posts/embedding-a-pdf-on-RealGeeks-website/embedding-pdf-file-code-on-desired-page.png" alt="embedding pdf file code on desired page"/>
+<img src="{{ site.url }}/public/assets/photos/posts/embedding-a-pdf-on-RealGeeks-website/showing-pdf-file-on-desired-page.png" alt="showing pdf file on desired page"/>
 
 <h2>Changing Size of the youtube video</h2>
 <p>You could be changing the height and width of the embed PDF frame. in the example above width is set to 725 and height is set to 900, you could change those values to better fit the youtube video in your website and page.</p>
