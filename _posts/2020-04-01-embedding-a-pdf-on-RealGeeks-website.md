@@ -9,7 +9,8 @@ heroImage: /public/assets/photos/posts/embedding-a-pdf-on-RealGeeks-website/show
 <p>First you need to go to upload the PDF you want to embed by going into the admin panel choose file browser and upload the new PDF.</p>
 <img src="{{ site.url }}/public/assets/photos/posts/embedding-a-pdf-on-RealGeeks-website/uploading-pdf-file-on-filebrowser.png" alt="uploading pdf file on filebrowser"/>
 
-<h2>That is how the embed code would look like</h2>
+<h2>The embed code</h2>
+<p>that is the embed code you need to insert on the desired page but first you need to get the URL of the PDF file</p>
 {% highlight html %}
 <!-- change YOUR_PDF_URL to the URL of your PDF file  -->
 <iframe width="725" height="900" src="YOUR_PDF_URL" frameborder="0"></iframe>
