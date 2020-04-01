@@ -29,7 +29,7 @@ heroImage: /public/assets/photos/posts/embedding-a-pdf-on-RealGeeks-website/show
 <!-- <h2>The PDF should show now on the new page</h2>
 <img src="{{ site.url }}/public/assets/photos/posts/embedding-a-pdf-on-RealGeeks-website/showing-pdf-file-on-desired-page.png" alt="showing pdf file on desired page"/> -->
 
-<h2>Changing Size of the youtube video</h2>
+<h2>Changing Size of the PDF frame</h2>
 <p>You could be changing the height and width of the embed PDF frame. in the example above width is set to 725 and height is set to 900, you could change those values to better fit the youtube video in your website and page.</p>
 
 <p>Do you have any questions? <a href="/contact-rauof/">Contact Us Now!</a></p>
