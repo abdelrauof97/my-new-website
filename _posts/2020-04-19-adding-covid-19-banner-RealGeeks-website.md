@@ -10,13 +10,13 @@ heroImage: /public/assets/photos/posts/adding-covid-19-banner-RealGeeks-website/
 
 {% highlight html %}
 <script>// <![CDATA[
-
+document.addEventListener("DOMContentLoaded", function(event) {
 document.write("<style>.miranda-wrapper{margin-top:50px;}nav.top-nav{top:50px !important;}.alert-banner{position:fixed; height:50px; background:#173863; width:100%; top:0; text-align:center; z-index:100;}.alert-banner a.info { background-color: #c61130; color:#fff; font-size: 24px; padding: 8px 30px; border-radius:4px; border:none; box-shadow: 0 2px 7px -4px #000; margin:0 20px; width:220px; height:43px;} .alert-banner a.info:focus { background-color: #c61130; border:none; } .alert-banner a.info:hover { background-color: #CC1433; color: #fff; transform: scale(1.1); transition: all ease 500ms;} .alert-banner p {font-size:18px; color:#fff; margin-top:10px;}.alert-banner a {color:#fff; text-decoration:underline; font-weight:bold; font-size:18px; padding:0 10px;}.alert-banner a:hover {color:#e6e6e6;}@media only screen and (max-width: 46em) and (min-width: 450px) {nav.top-nav{top:60px !important;}}@media only screen and (max-width: 46em){.miranda-wrapper{margin-top:60px;}.alert-banner{height:60px;}.alert-banner p {font-size:18px; line-height:1.2; margin-top:5px;}}@media only screen and (max-width: 450px){nav.top-nav{top:0 !important;}}</style>");
 
 $bannertext = ' <div class="alert-banner"><p><i style="padding-right:10px;" class="fa fa-exclamation-triangle"></i> Due to the COVID-19 Outbreak we are now offering Virtual Services! <a href="/virtual-services/">Learn&nbsp;More</a></p></div> ';
 
 $('.miranda-wrapper').before($bannertext);
-
+});
 // ]]></script>
 {% endhighlight %}
 
