@@ -845,3 +845,10 @@ a.home-bell {
 .portfolio-body img {
     max-width: 100%;
 }
+.reviews {
+    background: #14181c;
+}
+div.eapps-widget {
+  max-width: 1140px;
+  margin: auto;
+}
