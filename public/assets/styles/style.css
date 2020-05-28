@@ -853,3 +853,19 @@ div.eapps-widget {
   margin: auto;
   padding: 30px 0;
 }
+
+
+.page.not-found {
+  padding: 250px 0 200px;
+  text-align: center;
+  max-width: 700px;
+  margin: auto;
+}
+.page.not-found h1 {
+    margin-bottom: 20px;
+}
+@media(max-width:700px){
+  .page.not-found {
+    padding: 50px 0 50px;
+  }
+}
