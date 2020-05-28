@@ -591,7 +591,7 @@ section.content-section {
 .customSection{padding-right:5%;padding-left:5%;width:100%;padding-top:40px;padding-bottom:50px;}
 .customSection li{padding:20px!important;}
 .customCommunities-content{max-width:1170px;margin:auto;}
-.customCommunities-content img{display:block;width:100%;height:auto;}
+.customCommunities-content img{display:block;width:100%;height:auto;box-shadow: 0px 0px 10px #c5c5c5;}
 .customCommunities hr{margin:10px 0;}
 .customCommunities li{padding:10px;}
 .community-container{position:relative;margin:auto;max-width:500px;background:#000;}
