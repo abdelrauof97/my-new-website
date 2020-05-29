@@ -17,7 +17,7 @@ keywords:
       <section class="col col-sm-8 customSection customCommunities" style="padding-top:0px;">
           <div class="customCommunities-content">
               <ul class="small-block-grid-1 text-center">
-              {% for portfolio in site.portfolio %}
+              {% for portfolio in site.portfolio | sort: ‘priority’ %}
                   <li>
                       <div class="community-container"><img src="{{site.url}}{{ portfolio.heroImage }}" alt="portfolio example {{ portfolio.title }} website Screenshot" width="400" height="300">
                           <div class="community-description">
