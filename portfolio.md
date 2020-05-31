@@ -34,7 +34,7 @@ keywords:
       <div class="col col-sm-4 related">
         <h3>Portfolio</h3>
         <ul class="related-posts">
-          {% for portfolio in site.portfolio %}
+          {% for portfolio in site.portfolio reversed %}
             <li>
               <h5>
                 <a href="{{ portfolio.url }}">
