@@ -16,9 +16,9 @@ keywords:
 .table-plan td{border:#eee 2px solid;padding:10px;vertical-align:middle;}
 .table-plan .text-center{text-align:center;}
 .orange strong,.green strong,.blue strong{display:block;font-size:25px;margin-bottom:-8px;}
-.orange,.green,.blue{background:#e96656;padding:25px!important;text-align:center;line-height:36px;color:#fff;}
+.orange,.green,.blue{background:#f76a6b;padding:25px!important;text-align:center;line-height:36px;color:#fff;}
 .green{background:#34d293;}
-.blue{background:#3ab0e2;}
+.blue{background:#5b76d8;}
 .table-plan td strong{font-size:18px;}
 .table-plan h3{line-height:32px;}
 strong{font-weight:700;}
@@ -87,8 +87,8 @@ td{padding:6px 10px 6px 0;border-top:1px solid #ededed;}
                         <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
                     </tr>
                     <tr>
-                        <td><strong>Design and Content Updates:</strong> Up to 3 revision requests per month (*tracked in 20 minute increments).</td>
-                        <td class="text-center"></td>
+                        <td><strong>Design and Content Updates:</strong> Up to 5 revision requests per month (*tracked in 20 minute increments).</td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
                         <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
                         <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
                     </tr>
@@ -109,7 +109,7 @@ td{padding:6px 10px 6px 0;border-top:1px solid #ededed;}
                     <tr>
                         <td><strong>Site Health Checks:</strong> Monthly review and repair of 404-page errors and broken links and website speed, with suggestions for improvement.</td>
                         <td></td>
-                        <td class="text-center"></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
                         <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
                     </tr>
                     <tr>
@@ -125,7 +125,7 @@ td{padding:6px 10px 6px 0;border-top:1px solid #ededed;}
                         <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
                     </tr>
                     <tr>
-                        <td><strong>Custom Content Marketing:</strong> Includes weekly blogging and 2 community pages per month.</td>
+                        <td><strong>SEO maintain:</strong> Includes weekly checks and continuously update SEO related stuff on the website to make sure content could be scraped and understood by search engines.</td>
                         <td></td>
                         <td></td>
                         <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
