@@ -68,8 +68,8 @@ td{padding:6px 10px 6px 0;border-top:1px solid #ededed;}
                     <tr>
                         <td width="62%"></td>
                         <td class="orange" width="12%"><strong>STANDARD</strong> Care Package $69<small>/month</small></td>
-                        <td class="green" width="13%"><strong>ENHANCED</strong> Care Package $149<small>/month</small></td>
-                        <td class="blue" width="13%"><strong>ADVANCED</strong> Care Package $699<small>/month</small></td>
+                        <td class="green" width="13%"><strong>ENHANCED</strong> Care Package $119<small>/month</small></td>
+                        <td class="blue" width="13%"><strong>ADVANCED</strong> Care Package $199<small>/month</small></td>
                     </tr>
                     <tr>
                         <td>
@@ -77,58 +77,58 @@ td{padding:6px 10px 6px 0;border-top:1px solid #ededed;}
                             and website restoration.
                         </td>
                         <td class="text-center" valign="middle"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
-                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
-                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
                     </tr>
                     <tr>
                         <td><strong>Manual Code Backup:</strong> Manual backup of existing custom code so restoration can be made in the event of accidental changes.</td>
-                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
-                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
-                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
                     </tr>
                     <tr>
                         <td><strong>Design and Content Updates:</strong> Up to 5 revision requests per month (*tracked in 20 minute increments).</td>
-                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
-                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
-                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
                     </tr>
                     <tr>
                         <td>
                             <strong>Priority Support:</strong> Email reply within 24 hours daily and generally within an hour of your request. Guidance on general or specific questions in a timely manner, sharing topic-related resource files.
                         </td>
                         <td class="text-center"></td>
-                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
-                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
                     </tr>
                     <tr>
                         <td><strong>Monitor Uptime and Respond Immediately to Site Down Notifications:</strong> Real Geeks hosts your website however there may be instances when the server has issues of which they are unaware.</td>
                         <td></td>
-                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
-                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
                     </tr>
                     <tr>
                         <td><strong>Site Health Checks:</strong> Monthly review and repair of 404-page errors and broken links and website speed, with suggestions for improvement.</td>
                         <td></td>
-                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
-                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
                     </tr>
-                    <tr>
+                    <!-- <tr>
                         <td><strong>Monthly Personal Consultation:</strong> Monthly phone or video calls where we monitor and align your business goals with your website content, statistics, social media and ad campaigns.</td>
                         <td></td>
                         <td></td>
-                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
-                    </tr>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
+                    </tr> -->
                     <tr>
                         <td><strong>Data Tracking/Reporting:</strong> Monthly website traffic tracking and keyword ranking report.</td>
                         <td></td>
                         <td></td>
-                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
                     </tr>
                     <tr>
-                        <td><strong>SEO maintain:</strong> Includes weekly checks and continuously update SEO related stuff on the website to make sure content could be scraped and understood by search engines.</td>
+                        <td><strong>SEO Maintenance:</strong> Includes weekly checks and continuously update SEO related stuff on the website to make sure content could be scraped and understood by search engines.</td>
                         <td></td>
                         <td></td>
-                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
                     </tr>
                 </tbody>
             </table>
