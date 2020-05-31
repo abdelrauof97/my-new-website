@@ -11,63 +11,130 @@ keywords:
   - real estate web design pricing
   - Real Geeks Website Designer pricing
 ---
-
+<style>
+.table-plan img{text-align:center;width:25px;}
+.table-plan td{border:#eee 2px solid;padding:10px;vertical-align:middle;}
+.table-plan .text-center{text-align:center;}
+.orange strong,.green strong,.blue strong{display:block;font-size:25px;margin-bottom:-8px;}
+.orange,.green,.blue{background:#e96656;padding:25px!important;text-align:center;line-height:36px;color:#fff;}
+.green{background:#34d293;}
+.blue{background:#3ab0e2;}
+.table-plan td strong{font-size:18px;}
+.table-plan h3{line-height:32px;}
+strong{font-weight:700;}
+small{font-size:80%;}
+img{border:0;}
+table{border-collapse:collapse;border-spacing:0;}
+td{padding:0;}
+*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+:before,:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+img{vertical-align:middle;}
+h3{font-family:inherit;font-weight:500;line-height:1.1;color:inherit;}
+h3{margin-top:20px;margin-bottom:10px;}
+h3{font-size:24px;}
+small{font-size:85%;}
+.text-center{text-align:center;}
+table{max-width:100%;background-color:transparent;}
+div,h3,small,strong,table,tbody,tr,td{margin:0;padding:0;border:0;outline:0;font-family:inherit;font-weight:inherit;font-style:inherit;vertical-align:baseline;}
+*,*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+table{border-spacing:0;border-collapse:separate;}
+td{font-weight:normal;text-align:left;}
+*,*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;}
+::selection{color:#fff;background:#fc6d6d;}
+::-moz-selection{color:#fff;background:#fc6d6d;}
+*::-webkit-input-placeholder{color:#999!important;opacity:1!important;}
+*:-moz-placeholder{color:#999!important;opacity:1!important;}
+*::-moz-placeholder{color:#999!important;opacity:1!important;}
+*:-ms-input-placeholder{color:#999!important;opacity:1!important;}
+h3{clear:both;}
+strong{font-weight:bold;}
+small{font-size:75%;}
+h3{display:block;clear:both;margin:0;margin-bottom:10px;padding:0;border:0;font:inherit;font-size:100%;vertical-align:baseline;}
+h3{font-size:24px;}
+img{max-width:100%;height:auto;}
+table{width:100%;margin:0 0 20px;border-bottom:1px solid #ededed;border-spacing:0;border-collapse:collapse;font-size:14px;line-height:2;}
+td{font-weight:normal;text-align:left;}
+td{padding:6px 10px 6px 0;border-top:1px solid #ededed;}
+.green,.blue{-webkit-transition:all 0.2s ease-in-out;transition:all 0.2s ease-in-out;}
+*:focus{outline:0;}
+</style>
 <div id="our-packages">
   <h1>Real Geeks Care Packages</h1>
   <div class="container">
-    <div class="full-width-inner-section inner-section-10 widget-area" style="padding-bottom:0;">
-        <section id="text-43" class="widget widget_text">
-            <div class="widget-wrap">
-                <div class="textwidget">
-                    <div class="pricing-table-container one-third first">
-                        <ul class="pricing-table-list">
-                            <li class="pricing-table-main-header">SILVER CARE PLAN</li>
-                            <li class="pricing-table-cost-header">$</li>
-                            <li class="pricing-table-cell">Real Geeks IDX & Search Updates: <small>Review and coordinate refreshing of MLS feed or MLS search as needed with Real Geeks and review searches after changes for accuracy.</small></li>
-                            <li class="pricing-table-cell">Design and Content Updates: <small>Up to 5 revision requests per month <a href="/revision-request-list">See List</a></small></li>
-                            <li class="pricing-table-cell">Manual Code Backup: <small>Manual backup of existing custom code so restoration can be made in the event of accidental changes.</small></li>
-                            <li class="pricing-table-cell pricing-table-cell-height-224">Priority Support: <small>Email reply within 24 hours daily and generally within an hour of your request. Guidance on general or specific questions in a timely manner, sharing topic-related resource files. Ensure compatibility of all custom code regardless of Real Geeks template changes.</small></li>
-                            <li class="pricing-table-button"><a class="button" href="/realgeeks-care-form">Request Care</a></li>
-                        </ul>
-                    </div>
-                    <div class="pricing-table-container one-third">
-                        <ul class="pricing-table-list">
-                            <li class="pricing-table-main-header">GOLD CARE PLAN</li>
-                            <li class="pricing-table-cost-header">$$</li>
-                            <li class="pricing-table-cell">All In Silver Care Plan</li>
-                            <li class="pricing-table-cell">Monitor Uptime and Respond Immediately to Site Down Notifications: <small>Real Geeks hosts your website however there may be instances when the server has issues of which they are unaware. We monitor your site 24/7 and send emergency requests to Real Geeks when your site or email go offline, prompting quick correction and website restoration.</small></li>
-                            <li class="pricing-table-cell">Site Health Checks: <small>Monthly review and repair of 404-page errors and broken links and website speed, with suggestions for improvement.</small></li>
-                            <li class="pricing-table-cell desktop-only"><br><br></li>
-                             <li class="pricing-table-cell desktop-only pricing-table-cell-height-79"><br></li>
-                            <li class="pricing-table-button"><a class="button" href="/realgeeks-care-form">Request Care</a></li>
-                        </ul>
-                    </div>
-                    <div class="pricing-table-container one-third">
-                        <ul class="pricing-table-list">
-                            <li class="pricing-table-main-header">PLATINUM CARE PLAN</li>
-                            <li class="pricing-table-cost-header">$$$</li>
-                            <li class="pricing-table-cell">All In Gold Care Plan</li>
-                            <li class="pricing-table-cell">Monthly Personal Consultation: <small>Monthly reports where we monitor and align your business goals with your website content, statistics, social media and ad campaigns.</small></li>
-                            <li class="pricing-table-cell">Data Tracking/Reporting: <small>Monthly website traffic tracking and keyword ranking report.</small></li>
-                            <li class="pricing-table-cell desktop-only"><br><br></li>
-                            <li class="pricing-table-cell desktop-only"><br><br></li>
-                            <li class="pricing-table-cell desktop-only"><br><br></li>
-                            <li class="pricing-table-button"><a class="button" href="/realgeeks-care-form">Request Care</a></li>
-                        </ul>
-                    </div>
-                    <!-- <div class="pricing-table-container one-third first">
-                        <ul class="pricing-table-list">
-                            <li class="pricing-table-main-header">Custom Plan</li>
-                            <li class="pricing-table-cost-header">$55/Hour</li>
-                            <li class="pricing-table-cell">Custom Pages</li>
-                            <li class="pricing-table-cell">Animations</li>
-                            <li class="pricing-table-cell">Custom Forms</li>
-                            <li class="pricing-table-button"><a class="button" href="/realgeeks-care-form">Request Buildout</a></li>
-                        </ul>
-                    </div> -->
-                </div>
-            </div>
-        </section>
+    <div class="table-plan" style="overflow-x: auto;">
+        <div style="overflow-x: auto;">
+            <table border="0" width="100%">
+                <tbody>
+                    <tr>
+                        <td width="62%"></td>
+                        <td class="orange" width="12%"><strong>STANDARD</strong> Care Package $69<small>/month</small></td>
+                        <td class="green" width="13%"><strong>ENHANCED</strong> Care Package $149<small>/month</small></td>
+                        <td class="blue" width="13%"><strong>ADVANCED</strong> Care Package $699<small>/month</small></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <strong>Monthly Maintenance:</strong> Includes 30 minutes per month of team troubleshooting. We monitor your site 24/7 and send emergency requests to your host should the site go offline, prompting quick correction
+                            and website restoration.
+                        </td>
+                        <td class="text-center" valign="middle"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Manual Code Backup:</strong> Manual backup of existing custom code so restoration can be made in the event of accidental changes.</td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Design and Content Updates:</strong> Up to 3 revision requests per month (*tracked in 20 minute increments).</td>
+                        <td class="text-center"></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <strong>Priority Support:</strong> Email reply within 24 hours daily and generally within an hour of your request. Guidance on general or specific questions in a timely manner, sharing topic-related resource files.
+                        </td>
+                        <td class="text-center"></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Monitor Uptime and Respond Immediately to Site Down Notifications:</strong> Real Geeks hosts your website however there may be instances when the server has issues of which they are unaware.</td>
+                        <td></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Site Health Checks:</strong> Monthly review and repair of 404-page errors and broken links and website speed, with suggestions for improvement.</td>
+                        <td></td>
+                        <td class="text-center"></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Monthly Personal Consultation:</strong> Monthly phone or video calls where we monitor and align your business goals with your website content, statistics, social media and ad campaigns.</td>
+                        <td></td>
+                        <td></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Data Tracking/Reporting:</strong> Monthly website traffic tracking and keyword ranking report.</td>
+                        <td></td>
+                        <td></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                    </tr>
+                    <tr>
+                        <td><strong>Custom Content Marketing:</strong> Includes weekly blogging and 2 community pages per month.</td>
+                        <td></td>
+                        <td></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="" width="48" height="51" /></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <h3>If you’d rather be closing leads than maintaining your website, our maintenance care packages might be the perfect fit!</h3>
+        <h3>Review the options above and contact us to learn how you can get started today!</h3>
     </div>
   </div>
 </div>
