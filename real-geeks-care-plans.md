@@ -87,7 +87,7 @@ td{padding:6px 10px 6px 0;border-top:1px solid #ededed;}
                         <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
                     </tr>
                     <tr>
-                        <td><strong>Design and Content Updates:</strong> Up to 5 revision requests per month (Max 60 minutes for all requests).</td>
+                        <td><strong>Design and Content Updates:</strong> Up to 10 revision requests per month (*tracked in 20 minute increments).</td>
                         <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
                         <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
                         <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
