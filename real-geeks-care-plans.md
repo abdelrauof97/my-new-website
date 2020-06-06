@@ -67,9 +67,9 @@ td{padding:6px 10px 6px 0;border-top:1px solid #ededed;}
                 <tbody>
                     <tr>
                         <td width="62%"></td>
-                        <td class="orange" width="12%"><strong>STANDARD</strong> Care Package $69<small>/month</small></td>
-                        <td class="green" width="13%"><strong>ENHANCED</strong> Care Package $119<small>/month</small></td>
-                        <td class="blue" width="13%"><strong>ADVANCED</strong> Care Package $199<small>/month</small></td>
+                        <td class="orange" width="12%"><strong>STANDARD</strong> Care Package $59<small>/month</small></td>
+                        <td class="green" width="13%"><strong>ENHANCED</strong> Care Package $99<small>/month</small></td>
+                        <td class="blue" width="13%"><strong>ADVANCED</strong> Care Package $149<small>/month</small></td>
                     </tr>
                     <tr>
                         <td>
@@ -87,7 +87,7 @@ td{padding:6px 10px 6px 0;border-top:1px solid #ededed;}
                         <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
                     </tr>
                     <tr>
-                        <td><strong>Design and Content Updates:</strong> Up to 5 revision requests per month (*tracked in 20 minute increments).</td>
+                        <td><strong>Design and Content Updates:</strong> Up to 5 revision requests per month (Max 60 minutes for all requests).</td>
                         <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
                         <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
                         <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
