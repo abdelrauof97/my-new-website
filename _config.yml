@@ -14,21 +14,56 @@ collections:
     output: true
     permalink: /blog/:path/
 
-# Setup
-title:            'Realty Webmaster'
-tagline:          'Boost Your Sales on RealGeeks'
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Realty Webmaster
+email: rauof@realtywebmaster.com
 description:      '<a href="/about">Rauof</a> is a software engineer, you can hire him for your web project, ask him, or say hi by <a href="mailto:abdelrauof97@gmail.com">Email</a>, or follow him on <a href="https://www.linkedin.com/in/abdelrauof/">LinkedIn</a>'
-url:              https://rauof.com
-baseurl:          /
 
-author:
-  name:           'Abdelrauof Mohammed'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
 
-paginate:         5
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
 
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/abdelrauof97
-twitter:            https://twitter.com/AbdelrauofM
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

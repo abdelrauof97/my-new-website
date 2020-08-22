@@ -1,0 +1,309 @@
+I"P9<div id="our-portfolio">
+  <h1>Our Portfolio</h1>
+  <div class="container">
+    <div class="row">
+      <section class="col col-sm-8 customSection customCommunities" style="padding-top:0px;">
+          <div class="customCommunities-content">
+              <ul class="small-block-grid-1 text-center">
+              
+                  <li>
+                      <div class="community-container"><img src="http://localhost:4000/public/assets/photos/portfolio-website-photos/cshorehomes-scr.png" alt="portfolio example Connecticut Shore Homes website Screenshot" width="400" height="300" />
+                          <div class="community-description">
+                              <h3>Connecticut Shore Homes</h3>
+                          </div>
+                          <div class="community-overlay"></div>
+                          <div class="community-link-overlay"><a href="/portfolio/2020-07-01-cshorehomes/">&nbsp;</a></div>
+                      </div>
+                  </li>
+              
+                  <li>
+                      <div class="community-container"><img src="http://localhost:4000/public/assets/photos/portfolio-website-photos/southcaliforniahomes-scr.png" alt="portfolio example South California Homes website Screenshot" width="400" height="300" />
+                          <div class="community-description">
+                              <h3>South California Homes</h3>
+                          </div>
+                          <div class="community-overlay"></div>
+                          <div class="community-link-overlay"><a href="/portfolio/2020-06-20-southcaliforniahomes/">&nbsp;</a></div>
+                      </div>
+                  </li>
+              
+                  <li>
+                      <div class="community-container"><img src="http://localhost:4000/public/assets/photos/portfolio-website-photos/whyjasonsegon-scr.png" alt="portfolio example Why Jason Segon website Screenshot" width="400" height="300" />
+                          <div class="community-description">
+                              <h3>Why Jason Segon</h3>
+                          </div>
+                          <div class="community-overlay"></div>
+                          <div class="community-link-overlay"><a href="/portfolio/2020-06-01-whyjasonsegon/">&nbsp;</a></div>
+                      </div>
+                  </li>
+              
+                  <li>
+                      <div class="community-container"><img src="http://localhost:4000/public/assets/photos/portfolio-website-photos/findwacohomes-scr.png" alt="portfolio example Find Waco Homes website Screenshot" width="400" height="300" />
+                          <div class="community-description">
+                              <h3>Find Waco Homes</h3>
+                          </div>
+                          <div class="community-overlay"></div>
+                          <div class="community-link-overlay"><a href="/portfolio/2020-05-15-findwacohomes/">&nbsp;</a></div>
+                      </div>
+                  </li>
+              
+                  <li>
+                      <div class="community-container"><img src="http://localhost:4000/public/assets/photos/portfolio-website-photos/wolfpackhomes-scr.png" alt="portfolio example Wolf Pack Homes website Screenshot" width="400" height="300" />
+                          <div class="community-description">
+                              <h3>Wolf Pack Homes</h3>
+                          </div>
+                          <div class="community-overlay"></div>
+                          <div class="community-link-overlay"><a href="/portfolio/2020-05-01-wolfpackhomes/">&nbsp;</a></div>
+                      </div>
+                  </li>
+              
+                  <li>
+                      <div class="community-container"><img src="http://localhost:4000/public/assets/photos/portfolio-website-photos/pickivicki-scr.png" alt="portfolio example PickiVicki Homes website Screenshot" width="400" height="300" />
+                          <div class="community-description">
+                              <h3>PickiVicki Homes</h3>
+                          </div>
+                          <div class="community-overlay"></div>
+                          <div class="community-link-overlay"><a href="/portfolio/2020-01-01-pickivickihomes-real-estate/">&nbsp;</a></div>
+                      </div>
+                  </li>
+              
+                  <li>
+                      <div class="community-container"><img src="http://localhost:4000/public/assets/photos/portfolio-website-photos/tonydavidshomes-scr.png" alt="portfolio example Tony Davids Homes website Screenshot" width="400" height="300" />
+                          <div class="community-description">
+                              <h3>Tony Davids Homes</h3>
+                          </div>
+                          <div class="community-overlay"></div>
+                          <div class="community-link-overlay"><a href="/portfolio/2019-12-14-tony-davids-homes/">&nbsp;</a></div>
+                      </div>
+                  </li>
+              
+                  <li>
+                      <div class="community-container"><img src="http://localhost:4000/public/assets/photos/portfolio-website-photos/siyaherman-scr.png" alt="portfolio example Siya Herman website Screenshot" width="400" height="300" />
+                          <div class="community-description">
+                              <h3>Siya Herman</h3>
+                          </div>
+                          <div class="community-overlay"></div>
+                          <div class="community-link-overlay"><a href="/portfolio/2019-12-14-siya-herman/">&nbsp;</a></div>
+                      </div>
+                  </li>
+              
+                  <li>
+                      <div class="community-container"><img src="http://localhost:4000/public/assets/photos/portfolio-website-photos/realtybureau-scr.png" alt="portfolio example Realty Bureau website Screenshot" width="400" height="300" />
+                          <div class="community-description">
+                              <h3>Realty Bureau</h3>
+                          </div>
+                          <div class="community-overlay"></div>
+                          <div class="community-link-overlay"><a href="/portfolio/2019-12-14-realty-bureau/">&nbsp;</a></div>
+                      </div>
+                  </li>
+              
+                  <li>
+                      <div class="community-container"><img src="http://localhost:4000/public/assets/photos/portfolio-website-photos/coreysells-scr.png" alt="portfolio example Corey Sells website Screenshot" width="400" height="300" />
+                          <div class="community-description">
+                              <h3>Corey Sells</h3>
+                          </div>
+                          <div class="community-overlay"></div>
+                          <div class="community-link-overlay"><a href="/portfolio/2019-12-14-corey-sells/">&nbsp;</a></div>
+                      </div>
+                  </li>
+              
+                  <li>
+                      <div class="community-container"><img src="http://localhost:4000/public/assets/photos/portfolio-website-photos/chandlercrouch-scr.png" alt="portfolio example Chandler Crouch website Screenshot" width="400" height="300" />
+                          <div class="community-description">
+                              <h3>Chandler Crouch</h3>
+                          </div>
+                          <div class="community-overlay"></div>
+                          <div class="community-link-overlay"><a href="/portfolio/2019-12-05-chandler-crouch/">&nbsp;</a></div>
+                      </div>
+                  </li>
+              
+                  <li>
+                      <div class="community-container"><img src="http://localhost:4000/public/assets/photos/portfolio-website-photos/edmond-realestate-scr.png" alt="portfolio example Edmond Real Estate website Screenshot" width="400" height="300" />
+                          <div class="community-description">
+                              <h3>Edmond Real Estate</h3>
+                          </div>
+                          <div class="community-overlay"></div>
+                          <div class="community-link-overlay"><a href="/portfolio/2019-12-04-edmond-real-estate/">&nbsp;</a></div>
+                      </div>
+                  </li>
+              
+                  <li>
+                      <div class="community-container"><img src="http://localhost:4000/public/assets/photos/portfolio-website-photos/downtownchicagorealestate-scr.png" alt="portfolio example Christine Hancock website Screenshot" width="400" height="300" />
+                          <div class="community-description">
+                              <h3>Christine Hancock</h3>
+                          </div>
+                          <div class="community-overlay"></div>
+                          <div class="community-link-overlay"><a href="/portfolio/2019-12-03-christine-hancock/">&nbsp;</a></div>
+                      </div>
+                  </li>
+              
+                  <li>
+                      <div class="community-container"><img src="http://localhost:4000/public/assets/photos/portfolio-website-photos/carolinas-scr.png" alt="portfolio example Carolinas website Screenshot" width="400" height="300" />
+                          <div class="community-description">
+                              <h3>Carolinas</h3>
+                          </div>
+                          <div class="community-overlay"></div>
+                          <div class="community-link-overlay"><a href="/portfolio/2019-12-02-carolinas/">&nbsp;</a></div>
+                      </div>
+                  </li>
+              
+                  <li>
+                      <div class="community-container"><img src="http://localhost:4000/public/assets/photos/portfolio-website-photos/curb-scr.png" alt="portfolio example CURB Real Estate website Screenshot" width="400" height="300" />
+                          <div class="community-description">
+                              <h3>CURB Real Estate</h3>
+                          </div>
+                          <div class="community-overlay"></div>
+                          <div class="community-link-overlay"><a href="/portfolio/2019-12-01-curb-real-estate.md/">&nbsp;</a></div>
+                      </div>
+                  </li>
+              
+                  <li>
+                      <div class="community-container"><img src="http://localhost:4000/public/assets/photos/portfolio-website-photos/bcrealestate-scr.png" alt="portfolio example BC Real Estate website Screenshot" width="400" height="300" />
+                          <div class="community-description">
+                              <h3>BC Real Estate</h3>
+                          </div>
+                          <div class="community-overlay"></div>
+                          <div class="community-link-overlay"><a href="/portfolio/2019-12-01-bc-real-estate/">&nbsp;</a></div>
+                      </div>
+                  </li>
+              
+              </ul>
+          </div>
+      </section>
+      <div class="col col-sm-4 related">
+        <h3>Portfolio</h3>
+        <ul class="related-posts">
+          
+            <li>
+              <h5>
+                <a href="/portfolio/2020-07-01-cshorehomes/">
+                  Connecticut Shore Homes
+                </a>
+              </h5>
+            </li>
+          
+            <li>
+              <h5>
+                <a href="/portfolio/2020-06-20-southcaliforniahomes/">
+                  South California Homes
+                </a>
+              </h5>
+            </li>
+          
+            <li>
+              <h5>
+                <a href="/portfolio/2020-06-01-whyjasonsegon/">
+                  Why Jason Segon
+                </a>
+              </h5>
+            </li>
+          
+            <li>
+              <h5>
+                <a href="/portfolio/2020-05-15-findwacohomes/">
+                  Find Waco Homes
+                </a>
+              </h5>
+            </li>
+          
+            <li>
+              <h5>
+                <a href="/portfolio/2020-05-01-wolfpackhomes/">
+                  Wolf Pack Homes
+                </a>
+              </h5>
+            </li>
+          
+            <li>
+              <h5>
+                <a href="/portfolio/2020-01-01-pickivickihomes-real-estate/">
+                  PickiVicki Homes
+                </a>
+              </h5>
+            </li>
+          
+            <li>
+              <h5>
+                <a href="/portfolio/2019-12-14-tony-davids-homes/">
+                  Tony Davids Homes
+                </a>
+              </h5>
+            </li>
+          
+            <li>
+              <h5>
+                <a href="/portfolio/2019-12-14-siya-herman/">
+                  Siya Herman
+                </a>
+              </h5>
+            </li>
+          
+            <li>
+              <h5>
+                <a href="/portfolio/2019-12-14-realty-bureau/">
+                  Realty Bureau
+                </a>
+              </h5>
+            </li>
+          
+            <li>
+              <h5>
+                <a href="/portfolio/2019-12-14-corey-sells/">
+                  Corey Sells
+                </a>
+              </h5>
+            </li>
+          
+            <li>
+              <h5>
+                <a href="/portfolio/2019-12-05-chandler-crouch/">
+                  Chandler Crouch
+                </a>
+              </h5>
+            </li>
+          
+            <li>
+              <h5>
+                <a href="/portfolio/2019-12-04-edmond-real-estate/">
+                  Edmond Real Estate
+                </a>
+              </h5>
+            </li>
+          
+            <li>
+              <h5>
+                <a href="/portfolio/2019-12-03-christine-hancock/">
+                  Christine Hancock
+                </a>
+              </h5>
+            </li>
+          
+            <li>
+              <h5>
+                <a href="/portfolio/2019-12-02-carolinas/">
+                  Carolinas
+                </a>
+              </h5>
+            </li>
+          
+            <li>
+              <h5>
+                <a href="/portfolio/2019-12-01-curb-real-estate.md/">
+                  CURB Real Estate
+                </a>
+              </h5>
+            </li>
+          
+            <li>
+              <h5>
+                <a href="/portfolio/2019-12-01-bc-real-estate/">
+                  BC Real Estate
+                </a>
+              </h5>
+            </li>
+          
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+:ET
