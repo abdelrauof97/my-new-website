@@ -71,13 +71,13 @@ a {
 @media(min-width: 700px){
   #hero-section-wrapper {
     padding-top: 84px;
-    background: linear-gradient(270deg,rgba(0, 0, 0, 0.5),rgba(0,0,0, 0.5)), url(https://rauof.com/public/assets/photos/neibr-back.jpeg) center center no-repeat;
+    background: linear-gradient(270deg,rgba(0, 0, 0, 0.5),rgba(0,0,0, 0.5)), url(/public/assets/photos/sphinx.jpg) center center no-repeat;
     background-size: cover;
   }
 }
 @media(max-width: 700px){
   #hero-section-wrapper {
-    background: linear-gradient(270deg,rgba(0, 0, 0, 0.5),rgba(0,0,0, 0.5)), url(https://rauof.com/public/assets/photos/neibr-back.jpeg) center center no-repeat;
+    background: linear-gradient(270deg,rgba(0, 0, 0, 0.5),rgba(0,0,0, 0.5)), url(/public/assets/photos/sphinx.jpg) center center no-repeat;
     background-size: cover;
   }
 }
