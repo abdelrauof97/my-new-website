@@ -1,17 +1,4 @@
----
-layout: page
-title: Real Geeks Care Packages
-pageDescription: View our Real Geeks care  packages and see how we can help you with your real estate website.
-keywords:
-  - Real Geeks website Care packages
-  - Real Geeks website maintenance
-  - website maintenance pricing
-  - website maintenance packages
-  - our packages
-  - real estate web design pricing
-  - Real Geeks Website Designer pricing
----
-<style>
+I"¥%<style>
 .table-plan img{text-align:center;width:25px;}
 .table-plan td{border:#eee 2px solid;padding:10px;vertical-align:middle;}
 .table-plan .text-center{text-align:center;}
@@ -58,6 +45,7 @@ td{padding:6px 10px 6px 0;border-top:1px solid #ededed;}
 .green,.blue{-webkit-transition:all 0.2s ease-in-out;transition:all 0.2s ease-in-out;}
 *:focus{outline:0;}
 </style>
+
 <div id="our-packages">
   <h1>Real Geeks Care Packages</h1>
   <div class="container">
@@ -138,3 +126,4 @@ td{padding:6px 10px 6px 0;border-top:1px solid #ededed;}
     </div>
   </div>
 </div>
+:ET
