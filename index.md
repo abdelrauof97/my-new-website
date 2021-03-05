@@ -18,7 +18,7 @@ keywords:
         <div class="col col-sm-7">
           <h1>Compelling, Visually Motivating and Engaging Real Estate Website Design.</h1>
           <h4>The ultimate goal(s) of your site should be to command your audience’s attention, engage them, AND motivate them to take an action.<br><br>★ Abdelrauof is a joy to work with! He is quick, efficient and the right price. Thank you!" - Upwork Client ★</h4>
-          <a href="/realgeeks-buildout-form" class="request-quote">Request a Free Quote</a>
+          <a href="/request-website-buildout" class="request-quote">Request a Free Quote</a>
         </div>
       </div>
     </div>
@@ -129,6 +129,6 @@ keywords:
           {% endif %}
         {% endfor %}
         </ul>
-        <a href="/realgeeks-buildout-form" class="request-quote">Request a Free Quote</a>
+        <a href="/request-website-buildout" class="request-quote">Request a Free Quote</a>
     </div>
 </section>
