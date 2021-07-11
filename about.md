@@ -20,7 +20,7 @@ keywords:
   <div class="container">
   <div class="row" style="max-width: 1000px;margin: auto;">
       <div class="col-sm-6">
-        <img class="personalImage" src="/public/assets/photos/pxsfofks8osokc0w.jpg" style="width: 100%;/* max-height: 600px; */object-fit: cover;object-position: 50% 60%;border-radius: 50%;">
+        <img class="personalImage" src="/public/assets/photos/business-photo.jpg" style="width: 100%;/* max-height: 600px; */object-fit: cover;object-position: 50% 60%;border-radius: 50%;">
       </div>
       <div class="col-sm-6">
         <br>
