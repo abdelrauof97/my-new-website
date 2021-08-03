@@ -90,6 +90,7 @@ td{padding:6px 10px 6px 0;border-top:1px solid #ededed;}
                         <td><strong>Design and Content Updates:</strong> Up to 10 revision requests per month (*tracked in 20 minute increments).</td>
                         <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
                         <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
                     </tr>
                     <tr>
                         <td>
@@ -103,10 +104,12 @@ td{padding:6px 10px 6px 0;border-top:1px solid #ededed;}
                         <td><strong>Monitor Uptime and Respond Immediately to Site Down Notifications:</strong> Real Geeks hosts your website however there may be instances when the server has issues of which they are unaware.</td>
                         <td></td>
                         <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
                     </tr>
                     <tr>
                         <td><strong>Site Health Checks:</strong> Monthly review and repair of 404-page errors and broken links and website speed, with suggestions for improvement.</td>
                         <td></td>
+                        <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
                         <td class="text-center"><img class="alignnone size-full wp-image-490" src="/public/assets/photos/check-1.jpg" alt="check correct" width="48" height="51" /></td>
                     </tr>
                     <!-- <tr>
