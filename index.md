@@ -16,8 +16,8 @@ keywords:
     <div class="container">
       <div class="row">
         <div class="col col-sm-7">
-          <h1>Compelling, Visually Motivating and Engaging Real Estate Website Design.</h1>
-          <h4>The ultimate goal(s) of your site should be to command your audience’s attention, engage them, AND motivate them to take an action.<br><br>★ Abdelrauof is a joy to work with! He is quick, efficient and the right price. Thank you!" - Upwork Client ★</h4>
+          <h1>We are here to make the Egyption real estate at the top</h1>
+          <h4>The ultimate goal(s) of us to empowering the small business and real estate indviduals Get the same tools & technology used by top real estate companies <br><br>– all in one affordable solution designed for individual agents & small teams.</h4>
           <a href="/request-website-buildout" class="request-quote">Request a Free Quote</a>
         </div>
       </div>
