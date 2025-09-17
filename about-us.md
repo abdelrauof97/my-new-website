@@ -27,10 +27,33 @@ keywords:
         <h2>Rauof Mohammed</h2>
         <h3>Founder & CEO</h3>
         <br>
-        <p>Realty Webmaster is an Egypt-based agency focused on helping Real Estate brands sell more effectively online with web design. With clients that include Carolina Homes and a long list of successful work in real estate web design, Realty Webmaster has already made a name for itself as a go-to source for expert web design.</p>
-        <p>When their client was searching for a way to create a fresh website without alienating existing customers, Realty Webmaster leveraged their industry expertise to deliver a targeted web design strategy that would meet their clients KPIs and boost their bottom line along the way. The result was stellar client feedback and a successful engagement that led to future work.</p>
+        <p>I’m Rauof, the Owner and Director of Realty Webmaster. With years of extensive experience in the real estate markets of Canada and the United States, I’ve seen firsthand how top companies leverage technology to dominate the industry.</p>
+
+        <p>Now, I’m bringing that same level of expertise and innovation to Egypt, with a vision to empower individual agents and small real estate teams.</p>
+
+        <h2>Our Mission</h2>
+
+        <p>Our mission is simple:</p>
+        <p>👉 To level the playing field by providing affordable, world-class solutions that give independent real estate professionals the same competitive edge as the biggest firms.</p>
+
+        <p>We believe every agent deserves the tools, support, and technology to grow their business, close more deals, and achieve their goals without being held back by high costs or limited resources.</p>
+
+        <p>Why Choose Realty Webmaster?</p>
+
+        <p>✅ International Expertise – Built on experience in North American markets.<br>
+
+        ✅ Affordable Solutions – Designed to fit the budgets of individual agents in Egypt.<br>
+
+        ✅ Growth-Oriented – Every feature is made to help you generate leads and compete.<br>
+
+        ✅ Personal Commitment – This isn’t just business; it’s my mission to see you succeed.</p>
+
+        <p>Our Promise</p>
+
+        <p>At Realty Webmaster, we promise to deliver not just software, but a partnership.
+        We’ll equip you with the tools and strategies to compete with top companies, while giving you the personalized support you need to thrive in Egypt’s growing real estate market.</p>
         <p>If you want a new website or already have a Real Estate site and would like for me to evaluate it and send you a quote on what we think it will take to get it to where you want it, you could <a href="/contact-rauof">Contact me</a></p>
       </div>
     </div>
   </div>
-</div> 
+</div>
