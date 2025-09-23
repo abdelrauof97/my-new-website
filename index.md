@@ -54,7 +54,7 @@ keywords:
       <div class="inner">
          <div style="max-width: 1150px; margin: 40px auto 40px auto;">
             <div class="row">
-               <div class="col col-sm-6">
+               <div class="col col-sm-12">
                   <h2 style="margin-bottom: 21px;">MLS Power + Growth</h2>
                   <p>Join the Force. Unlock Global Power.</p>
 
@@ -65,9 +65,6 @@ keywords:
                   <p>By joining forces with other realtors, you don’t just compete — you lead. Together, we create a marketplace where individuals and small businesses can outperform even the biggest companies.</p>
 
                   <p>With MLS and global tools, your growth has no limits.</p>
-               </div>
-               <div class="col col-sm-6 ">
-                  <a rel="noopener noreferrer"><img style="margin: 30px auto 0 auto; display: block;border-radius: 50%;" src="{{site.url}}/public/assets/photos/upwork-top-rated.png" alt="Upwork Top Rated Badge" data-lazy-src="{{site.url}}/public/assets/photos/upwork-top-rated.png" class="lazyloaded" data-was-processed="true"></a>
                </div>
             </div>
          </div>
