@@ -13,12 +13,15 @@ keywords:
 
 <div id="hero-section-wrapper">
   <section id="hero-section" class="vertical-center">
-    <div class="container">
+    <div class="container" style="max-width: 1350px;">
       <div class="row">
-        <div class="col col-sm-7">
+        <div class="col col-sm-6">
           <h1>We are here to make the Egyption real estate at the top</h1>
           <h4>The ultimate goal(s) of us to empowering the small business and real estate indviduals Get the same tools & technology used by top real estate companies <br><br>– all in one affordable solution designed for individual agents & small teams.</h4>
           <a href="/request-website-buildout" class="request-quote">Request a Free Quote</a>
+        </div>
+        <div class="col col-sm-6">
+            <img src="/public/assets/photos/home-hero.webp" style="width: 100%;">
         </div>
       </div>
     </div>
@@ -33,18 +36,13 @@ keywords:
                       <a href="/portfolio/2019-12-02-carolinas/"><img src="{{site.url}}/public/assets/photos/carolinas-home.png" alt="Carolinas Home Page screenshot" class="wp-image-1273 hero-img" width="100%" height="auto" style="max-width: 500px;display:block;margin: auto;"></a>
                     </div>
                     <div class="col col-sm-6">
-                      <h2 style="margin-top: 0px;margin-bottom:30px;">A Well Designed Real Estate Website Can Leverage Your Company Success</h2>
-                      <p><strong>Not to mention all the benefits.</strong></p>
-                      <ul style="margin: 15px 0px 30px 0px;">
-                          <li>Unique website built to your specifications.</li>
-                          <li>Fast and neat website load.</li>
-                          <li>Optimised for your business.</li>
-                          <li>Effective marketing campaigns.</li>
-                          <li>More Gained sales opportunities.</li>
-                      </ul>
-                      <div style="height: 4px; width: 60px; background-color: #999; margin-bottom: 30px;"></div>
-                      <p>Custom website design benefits your website and business in many ways. In fact, 48 percent of a survey’s respondents cited website design as their most important factor in determining a website’s credibility.</p>
-                      <p><strong>Your brand should benefit from the benefits by having a well designed Real Estate website.</strong></p>
+                      <h2 style="margin-top: 0px;margin-bottom:30px;">Fair Tools, Big Edge</h2>
+                      <p>One Platform. Equal Tools. Greater Power.</p>
+                      <p>At Realty WebMaster, we believe in fairness. Every realtor on our platform — whether an individual or a small office — gets access to the same powerful tools and resources.</p>
+                      <p>No one gets left behind. No one gets “less.” We all share the same advanced technology, the same opportunities, and the same chance to succeed.</p>
+                      <p>And here’s the best part: with this shared strength, you gain an edge over any company outside the platform — no matter how big they are.</p>
+                      <p>Together, we level the playing field and give realtors the power to outpace even the largest competitors.</p>
+                      <!-- <div style="height: 4px; width: 60px; background-color: #999; margin-bottom: 30px;"></div> -->
                     </div>
                 </div>
             </div>
