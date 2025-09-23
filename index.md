@@ -18,10 +18,10 @@ keywords:
         <div class="col col-sm-6">
           <h1>We are here to make the Egyption real estate at the top</h1>
           <h4>The ultimate goal(s) of us to empowering the small business and real estate indviduals Get the same tools & technology used by top real estate companies <br><br>– all in one affordable solution designed for individual agents & small teams.</h4>
-          <a href="/request-website-buildout" class="request-quote">Request a Free Quote</a>
+          <a href="/request-website-buildout" class="request-quote">Get a Demo!</a>
         </div>
         <div class="col col-sm-6">
-            <img src="/public/assets/photos/home-hero.webp" style="width: 100%;">
+            <img src="/public/assets/photos/home-hero.webp" style="width: 100%;    min-width: 250px;">
         </div>
       </div>
     </div>
@@ -42,6 +42,7 @@ keywords:
                       <p>No one gets left behind. No one gets “less.” We all share the same advanced technology, the same opportunities, and the same chance to succeed.</p>
                       <p>And here’s the best part: with this shared strength, you gain an edge over any company outside the platform — no matter how big they are.</p>
                       <p>Together, we level the playing field and give realtors the power to outpace even the largest competitors.</p>
+                      <a href="/request-website-buildout" class="request-quote">Get a Demo!</a>
                       <!-- <div style="height: 4px; width: 60px; background-color: #999; margin-bottom: 30px;"></div> -->
                     </div>
                 </div>
@@ -65,6 +66,8 @@ keywords:
                   <p>By joining forces with other realtors, you don’t just compete — you lead. Together, we create a marketplace where individuals and small businesses can outperform even the biggest companies.</p>
 
                   <p>With MLS and global tools, your growth has no limits.</p>
+
+                  <a href="/request-website-buildout" class="request-quote">Get a Demo!</a>
                </div>
             </div>
          </div>
@@ -156,6 +159,8 @@ keywords:
       </ul>
       <p><strong>One platform. All the tools. Maximum advantage.</strong></p>
     </aside>
+
+    <a href="/request-website-buildout" class="request-quote">Get a Demo!</a>
   </div>
 </section>
 
@@ -177,6 +182,6 @@ keywords:
           {% endif %}
         {% endfor %}
         </ul>
-        <a href="/request-website-buildout" class="request-quote">Request a Free Quote</a>
+        <a href="/request-website-buildout" class="request-quote">Get a Demo!</a>
     </div>
 </section> -->
