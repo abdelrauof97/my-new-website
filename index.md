@@ -38,7 +38,7 @@ keywords:
                     <div class="col col-sm-6">
                       <h2 style="margin-top: 0px;margin-bottom:30px;">Fair Tools, Big Edge</h2>
                       <p>One Platform. Equal Tools. Greater Power.</p>
-                      <p>At Realty WebMaster, we believe in fairness. Every realtor on our platform — whether an individual or a small office — gets access to the same powerful tools and resources.</p>
+                      <p>At RTH, we believe in fairness. Every realtor on our platform — whether an individual or a small office — gets access to the same powerful tools and resources.</p>
                       <p>No one gets left behind. No one gets “less.” We all share the same advanced technology, the same opportunities, and the same chance to succeed.</p>
                       <p>And here’s the best part: with this shared strength, you gain an edge over any company outside the platform — no matter how big they are.</p>
                       <p>Together, we level the playing field and give realtors the power to outpace even the largest competitors.</p>
@@ -58,7 +58,7 @@ keywords:
                   <h2 style="margin-bottom: 21px;">MLS Power + Growth</h2>
                   <p>Join the Force. Unlock Global Power.</p>
 
-                  <p>At Realty WebMaster, joining our platform means gaining access to the best worldwide real estate tools designed to help you grow.</p>
+                  <p>At RTH, joining our platform means gaining access to the best worldwide real estate tools designed to help you grow.</p>
 
                   <p>At the heart of it is the MLS system — connecting you with a powerful network of realtors who share listings, opportunities, and resources. This collaboration gives you an unmatched advantage: more properties to offer, more buyers to reach, and the ability to close deals much faster.</p>
 
@@ -77,7 +77,7 @@ keywords:
   <div class="container">
     <header>
       <h1>Everything a Realtor Needs to Compete &amp; Win</h1>
-      <p>When you join <strong>Realty WebMaster</strong>, you’re not just getting a tool — you’re unlocking a complete system built for realtors only.</p>
+      <p>When you join <strong>RTH</strong>, you’re not just getting a tool — you’re unlocking a complete system built for realtors only.</p>
     </header>
 
     <article id="mls-access" class="rwm-block">
