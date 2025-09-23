@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Rauof
+title: OUR TEAM
 pageDescription: Rauof is an expert real estate site builder, he is a top rated at Upwork and completed over 50 projects with 100% Job Satisfication.
 keywords:
   - about rauof
@@ -8,21 +8,14 @@ keywords:
   - real estate website builder
   - upwork top rated website designer
 ---
-<style>
-@media(min-width:700px){
-  .personalImage{
-    margin-top:100px;
-  }
-}
-</style>
 <div id="about-us">
-  <h1>About Rauof</h1>
-  <div class="container">
-  <div class="row" style="max-width: 1000px;margin: auto;">
-      <div class="col-sm-6">
-        <img class="personalImage" src="/public/assets/photos/business-photo.jpg" style="width: 100%;/* max-height: 600px; */object-fit: cover;object-position: 50% 60%;border-radius: 50%;">
+  <h1>OUR TEAM</h1>
+  <div class="container max-width-auto" style="padding:0;">
+  <div class="row max-width-auto" style="max-width: 1000px;margin: auto;">
+      <div class="col-sm-6" style="padding:0;">
+        <img class="personalImage" src="/public/assets/photos/business-photo.jpg">
       </div>
-      <div class="col-sm-6">
+      <div class="col-sm-6"  style="padding: 50px 20px;">
         <br>
         <h2>Rauof Mohammed</h2>
         <h3>Founder & CEO</h3>

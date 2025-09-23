@@ -73,88 +73,90 @@ keywords:
 </section>
 
 
-<section style="background:url(/public/assets/photos/photo-1582738411706-bfc8e691d1c2.jpeg) no-repeat;background-size:cover;" id="rwm-overview" class="container p-h-70 rwm-section">
-  <header>
-    <h1>Everything a Realtor Needs to Compete &amp; Win</h1>
-    <p>When you join <strong>Realty WebMaster</strong>, you’re not just getting a tool — you’re unlocking a complete system built for realtors only.</p>
-  </header>
+<section id="rwm-overview" class="p-h-70 rwm-section">
+  <div class="container">
+    <header>
+      <h1>Everything a Realtor Needs to Compete &amp; Win</h1>
+      <p>When you join <strong>Realty WebMaster</strong>, you’re not just getting a tool — you’re unlocking a complete system built for realtors only.</p>
+    </header>
 
-  <article id="mls-access" class="rwm-block">
-    <h2>1. <strong>MLS Access</strong> – The Power of Shared Listings</h2>
-    <p>The <strong>Multiple Listing Service (MLS)</strong> connects you to a pool of competitive realtors who share property listings and opportunities.</p>
-    <ul>
-      <li>Offer buyers a <strong>much wider inventory</strong> than your own listings.</li>
-      <li>Earn seller trust with network-wide exposure.</li>
-      <li>Close deals faster through professional cooperation.</li>
-      <li>Compete as part of a stronger force — not alone.</li>
-    </ul>
-  </article>
+    <article id="mls-access" class="rwm-block">
+      <h2>1. <strong>MLS Access</strong> – The Power of Shared Listings</h2>
+      <p>The <strong>Multiple Listing Service (MLS)</strong> connects you to a pool of competitive realtors who share property listings and opportunities.</p>
+      <ul>
+        <li>Offer buyers a <strong>much wider inventory</strong> than your own listings.</li>
+        <li>Earn seller trust with network-wide exposure.</li>
+        <li>Close deals faster through professional cooperation.</li>
+        <li>Compete as part of a stronger force — not alone.</li>
+      </ul>
+    </article>
 
-  <article id="idx" class="rwm-block">
-    <h2>2. <strong>Top IDX Integration</strong> – Display All Properties in Your Area</h2>
-    <p><strong>IDX</strong> (Internet Data Exchange) brings MLS listings directly to your website so visitors see a complete, up-to-date market view.</p>
-    <ul>
-      <li>Auto-display every property for sale in your area.</li>
-      <li>Match the data depth of the biggest portals.</li>
-      <li>Keep visitors browsing longer and convert more leads.</li>
-      <li>Become a trusted, comprehensive source of listings.</li>
-    </ul>
-  </article>
+    <article id="idx" class="rwm-block">
+      <h2>2. <strong>Top IDX Integration</strong> – Display All Properties in Your Area</h2>
+      <p><strong>IDX</strong> (Internet Data Exchange) brings MLS listings directly to your website so visitors see a complete, up-to-date market view.</p>
+      <ul>
+        <li>Auto-display every property for sale in your area.</li>
+        <li>Match the data depth of the biggest portals.</li>
+        <li>Keep visitors browsing longer and convert more leads.</li>
+        <li>Become a trusted, comprehensive source of listings.</li>
+      </ul>
+    </article>
 
-  <article id="crm" class="rwm-block">
-    <h2>3. <strong>Smart CRM</strong> – Manage &amp; Nurture Your Leads</h2>
-    <p>A realtor-focused <strong>CRM</strong> that captures, organizes, and follows up with leads automatically.</p>
-    <ul>
-      <li>Auto-capture leads from site, ads, and calls.</li>
-      <li>Track interactions, notes, and next actions.</li>
-      <li>Reminders so you never miss a follow-up.</li>
-      <li>Segment buyers, sellers, and investors for tailored outreach.</li>
-    </ul>
-  </article>
+    <article id="crm" class="rwm-block">
+      <h2>3. <strong>Smart CRM</strong> – Manage &amp; Nurture Your Leads</h2>
+      <p>A realtor-focused <strong>CRM</strong> that captures, organizes, and follows up with leads automatically.</p>
+      <ul>
+        <li>Auto-capture leads from site, ads, and calls.</li>
+        <li>Track interactions, notes, and next actions.</li>
+        <li>Reminders so you never miss a follow-up.</li>
+        <li>Segment buyers, sellers, and investors for tailored outreach.</li>
+      </ul>
+    </article>
 
-  <article id="ads" class="rwm-block">
-    <h2>4. <strong>Ad Management Hub</strong> – Create &amp; Run Ads in One Place</h2>
-    <p>Plan, launch, and optimize <strong>Facebook, Instagram, and Google</strong> campaigns from a single dashboard.</p>
-    <ul>
-      <li>Ready-to-use real estate ad templates.</li>
-      <li>Real-time performance and ROI tracking.</li>
-      <li>Spend smarter with clear insights.</li>
-      <li>Save time and keep your pipeline full.</li>
-    </ul>
-  </article>
+    <article id="ads" class="rwm-block">
+      <h2>4. <strong>Ad Management Hub</strong> – Create &amp; Run Ads in One Place</h2>
+      <p>Plan, launch, and optimize <strong>Facebook, Instagram, and Google</strong> campaigns from a single dashboard.</p>
+      <ul>
+        <li>Ready-to-use real estate ad templates.</li>
+        <li>Real-time performance and ROI tracking.</li>
+        <li>Spend smarter with clear insights.</li>
+        <li>Save time and keep your pipeline full.</li>
+      </ul>
+    </article>
 
-  <article id="seo-site" class="rwm-block">
-    <h2>5. <strong>SEO-Optimized Website</strong> – Rank on Google &amp; Get Found</h2>
-    <p>A fast, mobile-friendly site engineered for <strong>SEO</strong> so clients discover you organically.</p>
-    <ul>
-      <li>Clean structure and keywords to rank higher.</li>
-      <li>Speed-optimized, mobile-first pages.</li>
-      <li>Organic traffic without relying only on ads.</li>
-      <li>Each listing is indexable for maximum visibility.</li>
-    </ul>
-  </article>
+    <article id="seo-site" class="rwm-block">
+      <h2>5. <strong>SEO-Optimized Website</strong> – Rank on Google &amp; Get Found</h2>
+      <p>A fast, mobile-friendly site engineered for <strong>SEO</strong> so clients discover you organically.</p>
+      <ul>
+        <li>Clean structure and keywords to rank higher.</li>
+        <li>Speed-optimized, mobile-first pages.</li>
+        <li>Organic traffic without relying only on ads.</li>
+        <li>Each listing is indexable for maximum visibility.</li>
+      </ul>
+    </article>
 
-  <article id="mastermind" class="rwm-block">
-    <h2>6. <strong>Realtor Mastermind Group</strong> – Grow Together</h2>
-    <p>A private community of ambitious realtors sharing strategies, referrals, and support.</p>
-    <ul>
-      <li>Learn what top performers do to close faster.</li>
-      <li>Swap ideas, scripts, and winning playbooks.</li>
-      <li>Collaborate on deals across the network.</li>
-      <li>Stay accountable and keep momentum.</li>
-    </ul>
-  </article>
+    <article id="mastermind" class="rwm-block">
+      <h2>6. <strong>Realtor Mastermind Group</strong> – Grow Together</h2>
+      <p>A private community of ambitious realtors sharing strategies, referrals, and support.</p>
+      <ul>
+        <li>Learn what top performers do to close faster.</li>
+        <li>Swap ideas, scripts, and winning playbooks.</li>
+        <li>Collaborate on deals across the network.</li>
+        <li>Stay accountable and keep momentum.</li>
+      </ul>
+    </article>
 
-  <aside id="advantage" class="rwm-aside">
-    <h3>Why It Works</h3>
-    <p>With <strong>MLS + IDX + CRM + Ads + SEO + Mastermind</strong> working together, you:</p>
-    <ul>
-      <li>Gain the same edge as big companies.</li>
-      <li>Multiply your opportunities and visibility.</li>
-      <li>Close deals faster and scale sustainably.</li>
-    </ul>
-    <p><strong>One platform. All the tools. Maximum advantage.</strong></p>
-  </aside>
+    <aside id="advantage" class="rwm-aside">
+      <h3>Why It Works</h3>
+      <p>With <strong>MLS + IDX + CRM + Ads + SEO + Mastermind</strong> working together, you:</p>
+      <ul>
+        <li>Gain the same edge as big companies.</li>
+        <li>Multiply your opportunities and visibility.</li>
+        <li>Close deals faster and scale sustainably.</li>
+      </ul>
+      <p><strong>One platform. All the tools. Maximum advantage.</strong></p>
+    </aside>
+  </div>
 </section>
 
 <!-- <h3 style="text-align: center;padding: 50px 0 0;">Picked examples from our portfolio</h3>
