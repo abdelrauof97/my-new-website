@@ -72,45 +72,92 @@ keywords:
    </div>
 </section>
 
-<div class="reviews">
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-f3da87bf-d9d7-487c-8406-581482b45d41"></div>
-</div>
 
-<!-- <h3 style="text-align: center;padding: 50px;">IT’S A SIMPLE FOUR STEP PROCESS.</h3>
-<div class="shadow-section full-width-inner-section inner-section-8 widget-area">
-    <section id="text-37" class="widget widget_text">
-        <div class="widget-wrap">
-            <div class="textwidget">
-                <div class="service-highlights one-fourth first">
-                    <img src="{{site.url}}/public/assets/photos/signup-icon.png" alt="">
-                    <h3>Sign Up</h3>
-                    <p>Sign up with <a href="http://www.realgeeks.com/" rel="noopener noreferrer">Real Estate</a> get approved by your MLS, and we’ll be ready to start your buildout. </p>
-                </div>
+<section id="rwm-overview" class="container rwm-section">
+  <header>
+    <h1>Everything a Realtor Needs to Compete &amp; Win</h1>
+    <p>When you join <strong>Realty WebMaster</strong>, you’re not just getting a tool — you’re unlocking a complete system built for realtors only.</p>
+  </header>
 
-                <div class="service-highlights one-fourth two-of-two">
-                    <img src="{{site.url}}/public/assets/photos/phone-icon.png" alt="">
-                    <h3>Discovery Call</h3>
-                    <p>This is an in depth discussion of your marketing strategy, and how we can best tailor your website around it. </p>
-                </div>
+  <article id="mls-access" class="rwm-block">
+    <h2>1. <strong>MLS Access</strong> – The Power of Shared Listings</h2>
+    <p>The <strong>Multiple Listing Service (MLS)</strong> connects you to a pool of competitive realtors who share property listings and opportunities.</p>
+    <ul>
+      <li>Offer buyers a <strong>much wider inventory</strong> than your own listings.</li>
+      <li>Earn seller trust with network-wide exposure.</li>
+      <li>Close deals faster through professional cooperation.</li>
+      <li>Compete as part of a stronger force — not alone.</li>
+    </ul>
+  </article>
 
-                <div class="service-highlights one-fourth">
-                    <img src="{{site.url}}/public/assets/photos/buildout-icon.png" alt="">
-                    <h3>Initial Buildout</h3>
-                    <p>About a week after our discovery call, your website will be ready for you to review and provide feedback on.</p>
-                </div>
+  <article id="idx" class="rwm-block">
+    <h2>2. <strong>Top IDX Integration</strong> – Display All Properties in Your Area</h2>
+    <p><strong>IDX</strong> (Internet Data Exchange) brings MLS listings directly to your website so visitors see a complete, up-to-date market view.</p>
+    <ul>
+      <li>Auto-display every property for sale in your area.</li>
+      <li>Match the data depth of the biggest portals.</li>
+      <li>Keep visitors browsing longer and convert more leads.</li>
+      <li>Become a trusted, comprehensive source of listings.</li>
+    </ul>
+  </article>
 
-                <div class="service-highlights one-fourth two-of-two">
-                    <img src="{{site.url}}/public/assets/photos/checkmark-icon.png" alt="">
-                    <h3>Final Edits</h3>
-                    <p>During final edits, we’ll correspond back and fourth until your site is perfected and ready to go live.</p>
-                </div>
-            </div>
-        </div>
-    </section>
-</div> -->
+  <article id="crm" class="rwm-block">
+    <h2>3. <strong>Smart CRM</strong> – Manage &amp; Nurture Your Leads</h2>
+    <p>A realtor-focused <strong>CRM</strong> that captures, organizes, and follows up with leads automatically.</p>
+    <ul>
+      <li>Auto-capture leads from site, ads, and calls.</li>
+      <li>Track interactions, notes, and next actions.</li>
+      <li>Reminders so you never miss a follow-up.</li>
+      <li>Segment buyers, sellers, and investors for tailored outreach.</li>
+    </ul>
+  </article>
 
-<h3 style="text-align: center;padding: 50px 0 0;">Picked examples from our portfolio</h3>
+  <article id="ads" class="rwm-block">
+    <h2>4. <strong>Ad Management Hub</strong> – Create &amp; Run Ads in One Place</h2>
+    <p>Plan, launch, and optimize <strong>Facebook, Instagram, and Google</strong> campaigns from a single dashboard.</p>
+    <ul>
+      <li>Ready-to-use real estate ad templates.</li>
+      <li>Real-time performance and ROI tracking.</li>
+      <li>Spend smarter with clear insights.</li>
+      <li>Save time and keep your pipeline full.</li>
+    </ul>
+  </article>
+
+  <article id="seo-site" class="rwm-block">
+    <h2>5. <strong>SEO-Optimized Website</strong> – Rank on Google &amp; Get Found</h2>
+    <p>A fast, mobile-friendly site engineered for <strong>SEO</strong> so clients discover you organically.</p>
+    <ul>
+      <li>Clean structure and keywords to rank higher.</li>
+      <li>Speed-optimized, mobile-first pages.</li>
+      <li>Organic traffic without relying only on ads.</li>
+      <li>Each listing is indexable for maximum visibility.</li>
+    </ul>
+  </article>
+
+  <article id="mastermind" class="rwm-block">
+    <h2>6. <strong>Realtor Mastermind Group</strong> – Grow Together</h2>
+    <p>A private community of ambitious realtors sharing strategies, referrals, and support.</p>
+    <ul>
+      <li>Learn what top performers do to close faster.</li>
+      <li>Swap ideas, scripts, and winning playbooks.</li>
+      <li>Collaborate on deals across the network.</li>
+      <li>Stay accountable and keep momentum.</li>
+    </ul>
+  </article>
+
+  <aside id="advantage" class="rwm-aside">
+    <h3>Why It Works</h3>
+    <p>With <strong>MLS + IDX + CRM + Ads + SEO + Mastermind</strong> working together, you:</p>
+    <ul>
+      <li>Gain the same edge as big companies.</li>
+      <li>Multiply your opportunities and visibility.</li>
+      <li>Close deals faster and scale sustainably.</li>
+    </ul>
+    <p><strong>One platform. All the tools. Maximum advantage.</strong></p>
+  </aside>
+</section>
+
+<!-- <h3 style="text-align: center;padding: 50px 0 0;">Picked examples from our portfolio</h3>
 <section class="customSection customCommunities" style="padding-top:0px;">
     <div class="customCommunities-content">
         <ul class="small-block-grid-1 medium-block-grid-3 large-block-grid-3 text-center">
@@ -130,4 +177,4 @@ keywords:
         </ul>
         <a href="/request-website-buildout" class="request-quote">Request a Free Quote</a>
     </div>
-</section>
+</section> -->
