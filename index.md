@@ -55,15 +55,19 @@ keywords:
          <div style="max-width: 1150px; margin: 40px auto 40px auto;">
             <div class="row">
                <div class="col col-sm-6">
-                  <h2 style="margin-bottom: 21px;">Our Website Design Service</h2>
-                  <p>We know what it’s like to have a basic Real Estate website design that slows you down.</p>
-                  <p style="margin-bottom: 30px;"><strong>But it doesn’t have to be that way</strong>.</p>
-                  <p>We’ve helped tens of real estate professionals build momentum with their brand.</p>
-                  <div style="font-size: .7em; margin-top: 30px; color: #ddd; font-style: italic;">Check out our <a style="text-decoration: underline;color:#fff;" href="https://www.upwork.com/freelancers/~0167347e9a9fdae758" target="_blank" rel="noopener noreferrer">40 reviews &amp; 5-star rating</a> on upwork.com.</div>
+                  <h2 style="margin-bottom: 21px;">MLS Power + Growth</h2>
+                  <p>Join the Force. Unlock Global Power.</p>
+
+                  <p>At Realty WebMaster, joining our platform means gaining access to the best worldwide real estate tools designed to help you grow.</p>
+
+                  <p>At the heart of it is the MLS system — connecting you with a powerful network of realtors who share listings, opportunities, and resources. This collaboration gives you an unmatched advantage: more properties to offer, more buyers to reach, and the ability to close deals much faster.</p>
+
+                  <p>By joining forces with other realtors, you don’t just compete — you lead. Together, we create a marketplace where individuals and small businesses can outperform even the biggest companies.</p>
+
+                  <p>With MLS and global tools, your growth has no limits.</p>
                </div>
                <div class="col col-sm-6 ">
                   <a rel="noopener noreferrer"><img style="margin: 30px auto 0 auto; display: block;border-radius: 50%;" src="{{site.url}}/public/assets/photos/upwork-top-rated.png" alt="Upwork Top Rated Badge" data-lazy-src="{{site.url}}/public/assets/photos/upwork-top-rated.png" class="lazyloaded" data-was-processed="true"></a>
-                  <noscript><img style="margin: 30px auto 0 auto;" src="{{site.url}}/public/assets/photos/upwork-top-rated.png" /></noscript>
                </div>
             </div>
          </div>
