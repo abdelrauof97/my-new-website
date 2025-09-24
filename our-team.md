@@ -45,7 +45,7 @@ keywords:
 
         <p>At RTH, we promise to deliver not just software, but a partnership.
         We’ll equip you with the tools and strategies to compete with top companies, while giving you the personalized support you need to thrive in Egypt’s growing real estate market.</p>
-        <a href="/request-website-buildout" class="request-quote">Get a Demo!</a>
+        <a href="/request-website-buildout" class="request-quote">Request a Demo!</a>
       </div>
     </div>
   </div>
