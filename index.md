@@ -21,7 +21,7 @@ keywords:
           <a href="/request-website-buildout" class="request-quote">Request a Demo!</a>
         </div>
         <div class="col col-sm-6">
-            <img src="/public/assets/photos/home-hero.webp" style="width: 100%;    min-width: 250px;">
+            <img src="/public/assets/photos/home-hero.webp" style="width: 100%;min-width: 250px;margin-top:50px;">
         </div>
       </div>
     </div>
