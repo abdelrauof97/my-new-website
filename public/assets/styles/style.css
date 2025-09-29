@@ -612,10 +612,10 @@ section.content-section {
 .customCommunities hr{margin:10px 0;}
 .customCommunities li{padding:10px;}
 .community-container{position:relative;margin:auto;max-width:500px;background:#000;}
-.community-overlay{position:absolute;top:0;bottom:0;left:0;right:0;height:100%;width:100%;opacity:0;transition:.5s ease;background-color:#223373;}
+.community-overlay{position:absolute;top:0;bottom:0;left:0;right:0;height:100%;width:100%;opacity:0.85;transition:.5s ease;background-color:#000;}
 .community-link-overlay{position:absolute;top:0;bottom:0;left:0;right:0;height:100%;width:100%;opacity:0;z-index:98;}
 .community-link-overlay a{display:block;height:100%;width:100%;}
-.community-description{position:absolute;width:100%;text-align:center;top:50%;left:0;transform:translate(0, -50%);-ms-transform:translate(0, -50%);z-index:97;padding:5px;}
+.community-description{position:absolute;width:100%;text-align:center;top:50%;left:0;transform:translate(0, -50%);-ms-transform:translate(0, -50%);z-index:97;padding:5px;padding: 40px;}
 .community-description h3{font-family:'Lato', sans-serif!important;text-transform:uppercase;color:white!important;font-size:24px!important;font-weight:600;text-shadow:5px 5px 20px #000;}
 .community-container:hover .community-description h3{color: #E4223A!important;}
 @media only screen and (min-width:30em) and (max-width: 46em){

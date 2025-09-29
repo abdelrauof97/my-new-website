@@ -14,7 +14,7 @@ keywords:
   <h1>Our Blog</h1>
   <div class="container">
     <div class="row">
-      <section class="col col-sm-8 customSection customCommunities" style="padding-top:0px;">
+      <section class="col-sm-8 customSection customCommunities" style="padding-top:0px;">
           <div class="customCommunities-content">
               <ul class="small-block-grid-1 text-center">
               {% for post in site.posts %}
@@ -31,7 +31,7 @@ keywords:
               </ul>
           </div>
       </section>
-      <div class="col col-sm-4 related">
+      <div class="col-sm-4 related">
         <h3>Posts</h3>
         <ul class="related-posts">
           {% for post in site.posts %}
