@@ -1,5 +1,4 @@
-# robots.txt
 User-agent: *
-Disallow: /thank-you
+Disallow:
 
-Sitemap: https://rauof.com/sitemap.xml
+Sitemap: https://www.realtortothrive.com/sitemap.xml
