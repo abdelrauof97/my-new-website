@@ -8,7 +8,7 @@ sitemap:
   {% for post in site.posts %}
     {% unless post.published == false %}
     <url>
-      <loc>https://lipdoctor.ca{{ post.url }}</loc>
+      <loc>https://realtortothrive.com{{ post.url }}</loc>
       {% if post.sitemap.lastmod %}
         <lastmod>{{ post.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
       {% elsif post.date %}
@@ -30,9 +30,9 @@ sitemap:
     {% endunless %}
   {% endfor %}
   {% for page in site.pages %}
-    {% unless page.sitemap.exclude == "yes" or page.url == "/assets/main.css" or page.url == "/feed.xml" %}
+    {% unless page.sitemap.search == "exclude" or page.url == "/assets/main.css" or page.url == "/thank-you" %}
     <url>
-      <loc>https://lipdoctor.ca{{ page.url | remove: "index.html" }}</loc>
+      <loc>https://realtortothrive.com{{ page.url | remove: "index.html" }}</loc>
       {% if page.sitemap.lastmod %}
         <lastmod>{{ page.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
       {% elsif page.date %}
