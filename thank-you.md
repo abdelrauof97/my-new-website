@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thank You!
-search: exclude
+sitemapsearch: exclude
 ---
 
 <div id="reviews">

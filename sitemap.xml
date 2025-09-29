@@ -30,7 +30,7 @@ sitemap:
     {% endunless %}
   {% endfor %}
   {% for page in site.pages %}
-    {% unless page.sitemap.search == "exclude" or page.url == "/assets/main.css" or page.url == "/thank-you" %}
+    {% unless page.sitemapsearch == "exclude" or page.url == "/assets/main.css" or page.url == "/thank-you" %}
     <url>
       <loc>https://realtortothrive.com{{ page.url | remove: "index.html" }}</loc>
       {% if page.sitemap.lastmod %}
