@@ -1,12 +1,8 @@
 ---
 layout: page
-title: OUR TEAM
-pageDescription: Rauof is an expert real estate site builder, he is a top rated at Upwork and completed over 50 projects with 100% Job Satisfication.
-keywords:
-  - about rauof
-  - about abdelrauof mohammed
-  - real estate website builder
-  - upwork top rated website designer
+title: Meet Our Team — RealtorToThrive MLS & Real Estate Experts in Egypt
+pageDescription: Get to know the experts behind RealtorToThrive. Our team of MLS, IDX, and CRM specialists is dedicated to empowering realtors in Egypt with world-class tools and support.
+keywords: our team RealtorToThrive, RealtorToThrive experts, RealtorToThrive Egypt team, MLS Egypt experts, IDX Egypt specialists, real estate CRM experts, real estate technology Egypt, realtor support team, real estate growth team, real estate professionals Egypt
 ---
 <div id="about-us">
   <h1>OUR TEAM</h1>

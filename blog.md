@@ -1,13 +1,8 @@
 ---
 layout: page
-title: Blog
-pageDescription: View our extensive Real Estate custom design Blog and see how we can help you on your next web project.
-keywords:
-  - custom Real Estate website designs posts
-  - Real Estate Website Designer Blog
-  - real estate web design blog
-  - Rauof blog
-  - web design blog
+title: Real Estate Blog — MLS, IDX & Realtor Growth Insights | RealtorToThrive
+pageDescription: Read the latest real estate insights, MLS news, IDX integration tips, and growth strategies for realtors in Egypt. Stay ahead with RealtorToThrive’s expert blog.
+keywords: real estate blog Egypt, MLS Egypt blog, IDX blog, RealtorToThrive blog, real estate CRM blog, real estate growth strategies, realtor marketing Egypt, property tech Egypt, real estate tips Egypt, real estate IDX news, MLS updates Egypt, real estate lead generation blog
 ---
 
 <div id="our-portfolio">

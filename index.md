@@ -1,14 +1,8 @@
 ---
 layout: default
-title: Home
-pageDescription: Do you want to design you Real Estate website and turn it from standard to luxury and unique website? please contact me at rauof@rauof.com
-keywords:
-  - Real Estate website designer
-  - Real Estate website design
-  - Real Estate website revamp
-  - real estate website design, Real Estate website redesign
-  - Real Estate virutal assistant
-  - Real Estate website design freelancer
+title: RealtorToThrive — MLS Egypt, IDX & CRM for Realtors in Egypt
+pageDescription: RealtorToThrive gives Egyptian realtors MLS access, IDX listings on your site, a smart CRM, ad tools and SEO-ready websites—an affordable all-in-one platform.
+keywords: MLS Egypt, MLS for realtors Egypt, IDX Egypt, IDX website Egypt, real estate CRM Egypt, realtor CRM, real estate website Egypt, real estate marketing Egypt, property listings Egypt, MLS integration, IDX integration, lead management real estate, all-in-one real estate platform, realtor tools Egypt, small team real estate tools, Realtor To Thrive
 ---
 
 <div id="hero-section-wrapper">
