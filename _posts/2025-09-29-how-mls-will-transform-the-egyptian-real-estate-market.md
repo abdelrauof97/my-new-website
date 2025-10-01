@@ -6,6 +6,8 @@ heroImage: /public/assets/photos/Transforming Egypts Real Estate Market.png
 
 
 <h2>How MLS Will Transform the Egyptian Real Estate Market</h2>
+<img src="{{site.url}}{{ page.heroImage }}" alt="How MLS Will Transform Egypts Real Estate Market "/>
+
 <h4>A New Era for Realtors in Egypt</h4>
 
 <p>The Egyptian real estate market has always been one of the most active and promising in the region. Families are constantly looking for homes, investors are searching for opportunities, and developers are pushing new projects every year. Yet despite this activity, the market suffers from one major issue: fragmentation and lack of transparency.</p>
@@ -54,7 +56,7 @@ heroImage: /public/assets/photos/Transforming Egypts Real Estate Market.png
 
 <h4>4. Data and Analytics for Growth</h4>
 
-<p>Another massive advantage of MLS is the data it generates. For the first time in Egypt, we will have:</p>
+<h6>Another massive advantage of MLS is the data it generates. For the first time in Egypt, we will have:</h6>
 <ul><li>Real transaction history.</li>
 <li>Price trends by area.</li>
 <li>Demand insights for neighborhoods.</li>
@@ -90,7 +92,7 @@ heroImage: /public/assets/photos/Transforming Egypts Real Estate Market.png
 
 <h4>7. The Challenges Ahead</h4>
 
-<p>Of course, adopting MLS in Egypt will not be without challenges:</p>
+<h6>Of course, adopting MLS in Egypt will not be without challenges:</h6>
 
 <ul><li>Many unlicensed brokers may resist the change.</li>
 <li>Realtors will need training to use MLS effectively.</li>
@@ -102,10 +104,10 @@ heroImage: /public/assets/photos/Transforming Egypts Real Estate Market.png
 
 <p>The launch of MLS in Egypt is more than a technical update — it’s the start of a new real estate era. For the first time, realtors will have the tools to compete fairly, win client trust, and operate on the same level as global professionals.</p>
 
-<p>At Realtor to Thrive, we believe MLS will empower every Egyptian realtor with:</p>
+<h6>At Realtor to Thrive, we believe MLS will empower every Egyptian realtor with:</h6>
 
-<li>A world-class property platform.</li>
+<ul><li>A world-class property platform.</li>
 <li>Integrated IDX websites.</li>
 <li>CRM systems to manage leads.</li>
-<li>Marketing tools to close deals faster.</li>
+<li>Marketing tools to close deals faster.</li></u>
 <p>This is your chance to lead the change, not just watch it happen. Together, we can bring the Egyptian market into the future.</p>
