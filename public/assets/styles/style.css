@@ -914,3 +914,11 @@ div.eapps-widget {
 .max-width-auto{
   max-width: none!important;
 }
+
+
+/* on the blog posts */
+@media(max-width:700px){
+  #our-portfolio .row {
+    display: block;
+  }
+}
