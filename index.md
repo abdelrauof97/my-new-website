@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RealtorToThrive — MLS Egypt, IDX & CRM for Realtors in Egypt
+title: RealtorToThrive — MLS , IDX & CRM for Realtors in USA, CA
 pageDescription: RealtorToThrive gives Egyptian realtors MLS access, IDX listings on your site, a smart CRM, ad tools and SEO-ready websites—an affordable all-in-one platform.
 keywords: MLS Egypt, MLS for realtors Egypt, IDX Egypt, IDX website Egypt, real estate CRM Egypt, realtor CRM, real estate website Egypt, real estate marketing Egypt, property listings Egypt, MLS integration, IDX integration, lead management real estate, all-in-one real estate platform, realtor tools Egypt, small team real estate tools, Realtor To Thrive
 ---
@@ -10,9 +10,9 @@ keywords: MLS Egypt, MLS for realtors Egypt, IDX Egypt, IDX website Egypt, real 
     <div class="container" style="max-width: 1350px;">
       <div class="row">
         <div class="col col-sm-6">
-          <h1>We are here to make the Egyption real estate at the top</h1>
-          <h4>The ultimate goal(s) of us to empowering the small business and real estate indviduals Get the same tools & technology used by top real estate companies <br><br>– all in one affordable solution designed for individual agents & small teams.</h4>
-          <a href="/request-website-buildout" class="request-quote">Request a Demo!</a>
+          <h1>Your Real Estate Website — Reimagined for Conversion</h1>
+          <h4>If you’re using Real Geeks or similar platforms, this is your upgrade. A faster, cleaner, conversion-focused website built to generate more leads — not just look busy. <br><br>– all in one affordable solution designed for individual agents & small teams.</h4>
+          <a href="/request-website-buildout" class="request-quote">Upgrade my Website!</a>
         </div>
         <div class="col col-sm-6">
             <img src="/public/assets/photos/home-hero.webp" style="width: 100%;min-width: 250px;margin-top:50px;">
