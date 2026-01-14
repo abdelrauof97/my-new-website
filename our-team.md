@@ -16,27 +16,11 @@ keywords: our team RealtorToThrive, RealtorToThrive experts, RealtorToThrive Egy
         <h2>Rauof Mohammed</h2>
         <h3>Founder & CEO</h3>
         <br>
-        <p>I’m Rauof, the Owner and Director of RTH. With years of extensive experience in the real estate markets of Canada and the United States, I’ve seen firsthand how top companies leverage technology to dominate the industry.</p>
+        <p>I’m Rauof Mohammed, Founder and CEO of RTH. I work exclusively with real estate agents and teams across Canada and the United States, helping them transform standard Real Geeks websites into luxury, high-performing digital platforms.</p>
 
-        <p>Now, I’m bringing that same level of expertise and innovation to Egypt, with a vision to empower individual agents and small real estate teams.</p>
+        <p>At RTH, we don’t use templates or shortcuts. Every Real Geeks site is carefully redesigned to reflect your brand, improve user experience, and maximize lead conversion. Our focus is simple: clean design, strong structure, and SEO optimization that actually works in competitive North American markets.</p>
 
-        <h2>Our Mission</h2>
-
-        <p>Our mission is simple:</p>
-        <p>👉 To level the playing field by providing affordable, world-class solutions that give independent real estate professionals the same competitive edge as the biggest firms.</p>
-
-        <p>We believe every agent deserves the tools, support, and technology to grow their business, close more deals, and achieve their goals without being held back by high costs or limited resources.</p>
-
-        <p>Why Choose RTH?</p>
-
-        <p>✅ International Expertise – Built on experience in North American markets.<br>
-
-        ✅ Affordable Solutions – Designed to fit the budgets of individual agents in Egypt.<br>
-
-        ✅ Growth-Oriented – Every feature is made to help you generate leads and compete.<br>
-
-        ✅ Personal Commitment – This isn’t just business; it’s my mission to see you succeed.</p>
-
+        <p>The result is a website that doesn’t just look great—it works as a serious business asset, helping agents stand out, attract better leads, and convert more clients.</p>
         <p>Our Promise</p>
 
         <p>At RTH, we promise to deliver not just software, but a partnership.

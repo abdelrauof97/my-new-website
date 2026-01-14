@@ -439,12 +439,16 @@ section.content-section {
 
 #our-portfolio {
     padding: 0 0 100px;
+    background: #000;
+    color: #fff;
 }
 #our-portfolio h1 {
   text-align: center;
   margin-bottom: 30px;
   padding: 130px 0 60px;
   background: #E4223A;
+  background: linear-gradient(270deg,rgba(0, 0, 0, 0.85),rgba(0,0,0, 0.85)), url(/public/assets/photos/sphinx.jpg) center center no-repeat;
+  background-size: cover;
   color: #fff;
   font-weight: 700;
   margin-bottom: 70px;
@@ -559,12 +563,16 @@ section.content-section {
 #contact-us {
   padding: 0 0 100px;
   min-height: 100vh;
+  background: #000;
+  color: #fff;
 }
 #contact-us h1 {
   text-align: center;
   margin-bottom: 30px;
   padding: 130px 0 60px;
   background: #E4223A;
+  background: linear-gradient(270deg,rgba(0, 0, 0, 0.85),rgba(0,0,0, 0.85)), url(/public/assets/photos/sphinx.jpg) center center no-repeat;
+  background-size: cover;
   color: #fff;
   font-weight: 700;
   margin-bottom: 70px;
@@ -590,12 +598,16 @@ section.content-section {
 
 #about-us {
   padding: 0 0 0;
+  background: #000;
+  color: #fff;
 }
 #about-us h1 {
   text-align: center;
   margin-bottom: 30px;
   padding: 130px 0 60px;
   background: #E4223A;
+  background: linear-gradient(270deg,rgba(0, 0, 0, 0.85),rgba(0,0,0, 0.85)), url(/public/assets/photos/sphinx.jpg) center center no-repeat;
+  background-size: cover;
   color: #fff;
   font-weight: 700;
   margin-bottom: 0;
@@ -746,12 +758,16 @@ section.content-section {
 #realgeeks-buildout-form {
   padding: 0 0 100px;
   min-height: 100vh;
+  background: #000;
+  color: #fff;
 }
 #realgeeks-buildout-form h1 {
   text-align: center;
   margin-bottom: 30px;
   padding: 130px 0 60px;
   background: #E4223A;
+  background: linear-gradient(270deg,rgba(0, 0, 0, 0.85),rgba(0,0,0, 0.85)), url(/public/assets/photos/sphinx.jpg) center center no-repeat;
+  background-size: cover;
   color: #fff;
   font-weight: 700;
   margin-bottom: 70px;
