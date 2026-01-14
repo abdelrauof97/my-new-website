@@ -5,18 +5,31 @@ pageDescription: RealtorToThrive gives Egyptian realtors MLS access, IDX listing
 keywords: MLS Egypt, MLS for realtors Egypt, IDX Egypt, IDX website Egypt, real estate CRM Egypt, realtor CRM, real estate website Egypt, real estate marketing Egypt, property listings Egypt, MLS integration, IDX integration, lead management real estate, all-in-one real estate platform, realtor tools Egypt, small team real estate tools, Realtor To Thrive
 ---
 
+
 <div id="hero-section-wrapper">
   <section id="hero-section" class="vertical-center">
     <div class="container" style="max-width: 1350px;">
       <div class="row">
         <div class="col col-sm-6">
-          <h1>Your Real Estate Website — Reimagined for Conversion</h1>
-          <h4>If you’re using Real Geeks or similar platforms, this is your upgrade. A faster, cleaner, conversion-focused website built to generate more leads — not just look busy. <br><br>– all in one affordable solution designed for individual agents & small teams.</h4>
-          <a href="/request-website-buildout" class="request-quote">Upgrade my Website!</a>
+          <span class="hero-sub-title">Premium Design Doesn’t Have to Be Expensive</span>
+          <h4 class="hero-title">Luxury real estate websites <span class="hero-title-extened">at an affordable price</span><br><br><span class="discribtion-text">Our global team structure allows us to offer
+top-tier design and performance — for a fraction of the usual cost.</span></h4>
+          <div class="btn-container">
+          <a href="/request-website-buildout" class="view-ex">View Examples</a>
+          <a href="/request-website-buildout" class="request-quote">Start Free</a>
+</div>
         </div>
-        <div class="col col-sm-6">
-            <img src="/public/assets/photos/home-hero.webp" style="width: 100%;min-width: 250px;margin-top:50px;">
-        </div>
+      
+  <div class="hero-mockup">
+  <div class="mockup-frame">
+    <img
+      src="https://images.unsplash.com/photo-1505761671935-60b3a7427bad"
+      alt="Website Preview">
+  </div>
+</div>
+
+
+
       </div>
     </div>
   </section>

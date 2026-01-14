@@ -5,7 +5,7 @@ h1, h2, h3, h4,h5, h6, label {
   font-family: 'Abril Fatface', cursive;
 }
 
-}
+
 * {
   box-sizing: border-box;
 }
@@ -953,3 +953,128 @@ div.eapps-widget {
     display: block;
   }
 }
+
+
+
+
+
+/*hero section updated*/
+.hero-sub-title {
+  font-family: 'Bilbo Swash Caps', cursive;
+  font-size: 32px;
+  color: #a91111;
+}
+
+.hero-title {
+  font-family: 'Ubuntu', sans-serif !important; 
+  font-size: 56px; 
+  color: #8b8787 !important;
+  line-height: 1.2;
+}
+
+
+.hero-title-extened {
+  font-family: 'Ubuntu', sans-serif !important; 
+  font-size: 56px !important; 
+  color: #a91111 !important;
+  line-height: 1.2; 
+}
+
+
+.discribtion-text {
+  display: block;
+ line-height: 1.4;
+  color: #8b8787 ;
+  font-weight: 600;
+  font-size: 20px;
+  
+  
+}
+
+
+
+.btn-container {
+  display: flex;
+  justify-content: flex-start !important;
+  
+  gap: 25px;
+ 
+}
+
+.request-quote,
+.view-ex {
+    font-family: 'Ubuntu', sans-serif !important; 
+font-weight: 500 ;
+  background: #a91111;
+  display: block;
+  width: 200px;
+  border-radius: 30px;
+  font-size: 20px;
+  line-height: 60px;
+  color: #c0bcbc;
+  text-align: center;
+  margin: 50px 0 0;
+  padding-bottom:0 ;
+  transition: all .5s ease;
+  border: none;
+  box-shadow: 0px 0px 0px #333;
+}
+.view-ex:hover,.request-quote:hover {
+  background: #fff;
+  color: #a91111;
+  transition: all .5s ease;
+  text-decoration: none;
+}
+
+
+
+.hero-mockup {
+  position: relative;
+  width: 520px;
+  height: 360px;
+  perspective: 1200px;
+}
+
+/* الإطار */
+.mockup-frame {
+  position: absolute;
+  inset: 0;
+  background: #0b1f2a;
+  border-radius: 16px;
+  overflow: hidden;
+
+  /* الميل */
+  transform: rotateY(-12deg) rotateX(2deg);
+  transform-origin: left center;
+
+  /* الظل */
+  box-shadow:
+    0 40px 80px rgba(0,0,0,0.35),
+    0 0 0 1px rgba(255,255,255,0.06);
+}
+
+/* الصورة */
+.mockup-frame img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Hover خفيف جدًا */
+.hero-mockup:hover .mockup-frame {
+  transform: rotateY(-9deg) rotateX(1deg);
+}
+
+/* Responsive */
+@media (max-width: 991px) {
+  .hero-mockup {
+    width: 100%;
+    height: 280px;
+  }
+
+  .mockup-frame {
+    transform: none;
+  }
+}
+
+
