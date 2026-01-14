@@ -89,14 +89,11 @@ a {
 @media(min-width: 700px){
   #hero-section-wrapper {
     padding-top: 84px;
-    background: linear-gradient(270deg,rgba(0, 0, 0, 0.85),rgba(0,0,0, 0.85)), url(/public/assets/photos/sphinx.jpg) center center no-repeat;
-    background-size: cover;
   }
 }
 @media(max-width: 700px){
   #hero-section-wrapper {
-    background: linear-gradient(270deg,rgba(0, 0, 0, 0.85),rgba(0,0,0, 0.85)), url(/public/assets/photos/sphinx.jpg) center center no-repeat;
-    background-size: cover;
+
   }
 }
 #hero-section {
@@ -446,9 +443,6 @@ section.content-section {
   text-align: center;
   margin-bottom: 30px;
   padding: 130px 0 60px;
-  background: #E4223A;
-  background: linear-gradient(270deg,rgba(0, 0, 0, 0.85),rgba(0,0,0, 0.85)), url(/public/assets/photos/sphinx.jpg) center center no-repeat;
-  background-size: cover;
   color: #fff;
   font-weight: 700;
   margin-bottom: 70px;
@@ -515,7 +509,6 @@ section.content-section {
   text-align: center;
   margin-bottom: 30px;
   padding: 130px 0 60px;
-  background: #E4223A;
   color: #fff;
   font-weight: 700;
   margin-bottom: 70px;
@@ -570,9 +563,6 @@ section.content-section {
   text-align: center;
   margin-bottom: 30px;
   padding: 130px 0 60px;
-  background: #E4223A;
-  background: linear-gradient(270deg,rgba(0, 0, 0, 0.85),rgba(0,0,0, 0.85)), url(/public/assets/photos/sphinx.jpg) center center no-repeat;
-  background-size: cover;
   color: #fff;
   font-weight: 700;
   margin-bottom: 70px;
@@ -605,9 +595,6 @@ section.content-section {
   text-align: center;
   margin-bottom: 30px;
   padding: 130px 0 60px;
-  background: #E4223A;
-  background: linear-gradient(270deg,rgba(0, 0, 0, 0.85),rgba(0,0,0, 0.85)), url(/public/assets/photos/sphinx.jpg) center center no-repeat;
-  background-size: cover;
   color: #fff;
   font-weight: 700;
   margin-bottom: 0;
@@ -709,7 +696,6 @@ section.content-section {
   text-align: center;
   margin-bottom: 30px;
   padding: 130px 0 60px;
-  background: #E4223A;
   color: #fff;
   font-weight: 700;
   margin-bottom: 70px;
@@ -765,9 +751,6 @@ section.content-section {
   text-align: center;
   margin-bottom: 30px;
   padding: 130px 0 60px;
-  background: #E4223A;
-  background: linear-gradient(270deg,rgba(0, 0, 0, 0.85),rgba(0,0,0, 0.85)), url(/public/assets/photos/sphinx.jpg) center center no-repeat;
-  background-size: cover;
   color: #fff;
   font-weight: 700;
   margin-bottom: 70px;
@@ -966,18 +949,18 @@ div.eapps-widget {
 }
 
 .hero-title {
-  font-family: 'Ubuntu', sans-serif !important; 
-  font-size: 56px; 
+  font-family: 'Ubuntu', sans-serif !important;
+  font-size: 56px;
   color: #8b8787 !important;
   line-height: 1.2;
 }
 
 
 .hero-title-extened {
-  font-family: 'Ubuntu', sans-serif !important; 
-  font-size: 56px !important; 
+  font-family: 'Ubuntu', sans-serif !important;
+  font-size: 56px !important;
   color: #a91111 !important;
-  line-height: 1.2; 
+  line-height: 1.2;
 }
 
 
@@ -987,8 +970,8 @@ div.eapps-widget {
   color: #8b8787 ;
   font-weight: 600;
   font-size: 20px;
-  
-  
+
+
 }
 
 
@@ -996,14 +979,14 @@ div.eapps-widget {
 .btn-container {
   display: flex;
   justify-content: flex-start !important;
-  
+
   gap: 25px;
- 
+
 }
 
 .request-quote,
 .view-ex {
-    font-family: 'Ubuntu', sans-serif !important; 
+    font-family: 'Ubuntu', sans-serif !important;
 font-weight: 500 ;
   background: #a91111;
   display: block;
@@ -1078,3 +1061,50 @@ font-weight: 500 ;
 }
 
 
+
+
+
+/* for backaground transition */
+.bg {
+  animation:slide 3s ease-in-out infinite alternate;
+  background-image: linear-gradient(-60deg, #000 50%, #1a1b1c 50%);
+  bottom:0;
+  left:-50%;
+  opacity:.5;
+  position:fixed;
+  right:-50%;
+  top:0;
+  z-index:-1;
+}
+
+.bg2 {
+  animation-direction:alternate-reverse;
+  animation-duration:4s;
+}
+
+.bg3 {
+  animation-duration:5s;
+}
+
+.content {
+  background-color:rgba(255,255,255,.8);
+  border-radius:.25em;
+  box-shadow:0 0 .25em rgba(0,0,0,.25);
+  box-sizing:border-box;
+  left:50%;
+  padding:10vmin;
+  position:fixed;
+  text-align:center;
+  top:50%;
+  transform:translate(-50%, -50%);
+}
+
+
+@keyframes slide {
+  0% {
+    transform:translateX(-25%);
+  }
+  100% {
+    transform:translateX(25%);
+  }
+}

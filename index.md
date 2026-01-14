@@ -19,11 +19,11 @@ top-tier design and performance — for a fraction of the usual cost.</span></h4
           <a href="/request-website-buildout" class="request-quote">Start Free</a>
 </div>
         </div>
-      
+
   <div class="hero-mockup">
   <div class="mockup-frame">
     <img
-      src="https://images.unsplash.com/photo-1505761671935-60b3a7427bad"
+      src="/public/assets/photos/portfolio-website-photos/downtownchicagorealestate-scr.png"
       alt="Website Preview">
   </div>
 </div>
