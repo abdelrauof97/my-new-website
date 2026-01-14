@@ -63,6 +63,9 @@ nav.navbar .dropdown-item {
 }
 .navbar-dark .navbar-nav .nav-link {
   color:#fff;
+  font-size:20px;
+  padding-right: 0.75rem;
+  padding-left: 0.75rem;
 }
 .navbar-dark .navbar-toggler {
   color:#fff;
@@ -125,11 +128,20 @@ a {
   #hero-section h4 {
     font-size: 20px;
   }
+  .navbar-dark .navbar-nav .nav-link {
+    font-size: 18px;
+  }
+  .navbar-collapse {
+    padding-top: 20px;
+  }
 }
 
 @media(min-width: 992px) {
   .navbar .navbar-brand {
     margin-right: 300px;
+  }
+  .navbar .navbar-brand {
+    scale: 1.25;
   }
   .navbar {
     width: fit-content;
@@ -144,8 +156,8 @@ a {
     z-index: 1000;
   }
   .navbar-original {
-    background: #151515 !important;
-    border-bottom: 5px solid #E4223A;
+    background: transparent !important;
+    /* border-bottom: 5px solid #E4223A; */
   }
   .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link, .navbar-light .navbar-brand  {
     color: #fff;
@@ -159,8 +171,8 @@ a {
   .navbar-original .navbar-light .navbar-nav .active>.nav-link {
     color: #f76a6b;
   }
-  .navbar-animated .navbar {
-    padding: .5rem 0;
+  .navbar-animated {
+    background: #151515 !important;
   }
 
   #hero-section {
@@ -216,7 +228,7 @@ section.content-section {
   }
 }
 
-.content-section.red.poly-texture h2, .content-section.red.poly-texture p {
+.content-section.red.poly-texture h2, .content-section.red.poly-texture p, .content-section.red.poly-texture ul {
   color: #fff;
 }
 
@@ -522,13 +534,13 @@ section.content-section {
 .request-quote {
   background: #E4223A;
   display: block;
-  width: 290px;
-  border-radius: 30px;
-  font-size: 23px;
-  line-height: 60px;
+  width: 215px;
+  border-radius: 10px;
+  font-size: 20px;
+  line-height: 50px;
   color: #fff;
   text-align: center;
-  margin: 50px auto 0;
+  margin: 50px 0 0;
   transition: all .5s ease;
   border: none;
   box-shadow: 0px 0px 19px #333;
@@ -754,10 +766,12 @@ section.content-section {
   border: solid 2px #E4223A;
   background: #E4223A;
   color: #fff;
-  border-radius: 0 30px;
   padding: 6px 20px;
   margin-left: 15px;
   width: fit-content;
+  font-size: 16px;
+  font-weight: 700;
+  border-radius: 7px;
 }
 .navbar-original .navbar-light .navbar-nav .nav-link.request-quote-nav {
   color: #fff;
@@ -888,8 +902,9 @@ div.eapps-widget {
 }
 
 #rwm-overview{
-  background:url(/public/assets/photos/photo-1582738411706-bfc8e691d1c2.jpeg) no-repeat;
+  background:url(/public/assets/photos/photo-1582738411706-bfc8e691d1c2.png) no-repeat;
   background-size:cover;
+  color: #fff;
 }
 
 

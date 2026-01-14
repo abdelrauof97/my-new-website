@@ -30,12 +30,21 @@ keywords: MLS Egypt, MLS for realtors Egypt, IDX Egypt, IDX website Egypt, real 
                       <a href="#"><img src="{{site.url}}/public/assets/photos/carolinas-home.png" alt="Carolinas Home Page screenshot" class="wp-image-1273 hero-img" width="100%" height="auto" style="max-width: 500px;display:block;margin: auto;"></a>
                     </div>
                     <div class="col col-sm-6">
-                      <h2 style="margin-top: 0px;margin-bottom:30px;">Fair Tools, Big Edge</h2>
-                      <p>One Platform. Equal Tools. Greater Power.</p>
-                      <p>At RTH, we believe in fairness. Every realtor on our platform — whether an individual or a small office — gets access to the same powerful tools and resources.</p>
-                      <p>No one gets left behind. No one gets “less.” We all share the same advanced technology, the same opportunities, and the same chance to succeed.</p>
-                      <p>And here’s the best part: with this shared strength, you gain an edge over any company outside the platform — no matter how big they are.</p>
-                      <p>Together, we level the playing field and give realtors the power to outpace even the largest competitors.</p>
+                      <h2 style="margin-top: 0px;margin-bottom:30px;">Want a luxury Real Geeks website without paying vanity-agency prices?</h2>
+
+                      <p>We specialize in crafting high-end, fully custom Real Geeks websites that look and feel premium — without the inflated costs. Why? Because we work with a carefully selected global team of elite designers and developers, allowing us to deliver exceptional quality at reasonable, transparent pricing.</p>
+
+                      <p><b>Have a vision? We’ll bring it to life with precision.</b></p>
+                      <p>No vision yet? We’ll design a refined, conversion-focused experience for you.</p>
+
+                      <ul>
+                        <li>No templates.</li>
+                        <li>No shortcuts.</li>
+                        <li>No bloated agency fees.</li>
+                      </ul>
+
+                      <p>Just tell me and I’ll tailor it exactly to your needs.</p>
+
                       <a href="/request-website-buildout" class="request-quote">Request a Demo!</a>
                       <!-- <div style="height: 4px; width: 60px; background-color: #999; margin-bottom: 30px;"></div> -->
                     </div>
@@ -50,16 +59,21 @@ keywords: MLS Egypt, MLS for realtors Egypt, IDX Egypt, IDX website Egypt, real 
          <div style="max-width: 1150px; margin: 40px auto 40px auto;">
             <div class="row">
                <div class="col col-sm-12">
-                  <h2 style="margin-bottom: 21px;">MLS Power + Growth</h2>
-                  <p>Join the Force. Unlock Global Power.</p>
+                  <h2 style="margin-bottom: 21px;">Craft Your Luxury Website</h2>
+                  <p>Whether you’re launching a new Real Geeks site, upgrading an existing one, or need SEO that’s built to last, you’re in the right place. Real Geeks clients across the U.S. and Canada trust us to deliver luxury design, smart performance, and real lead generation.</p>
 
-                  <p>At RTH, joining our platform means gaining access to the best worldwide real estate tools designed to help you grow.</p>
+                  <p>This isn’t about vanity pricing.</p>
+                  <p>It’s about premium results—done intelligently.</p>
 
-                  <p>At the heart of it is the MLS system — connecting you with a powerful network of realtors who share listings, opportunities, and resources. This collaboration gives you an unmatched advantage: more properties to offer, more buyers to reach, and the ability to close deals much faster.</p>
+                  <p>If you want:</p>
+                  <ul>
+                    <li>More luxury & exclusivity</li>
+                    <li>More sales-driven language</li>
+                    <li>Shorter hero-section version</li>
+                    <li>More direct comparison vs agencies</li>
+                  </ul>
 
-                  <p>By joining forces with other realtors, you don’t just compete — you lead. Together, we create a marketplace where individuals and small businesses can outperform even the biggest companies.</p>
-
-                  <p>With MLS and global tools, your growth has no limits.</p>
+                  <p>Just tell me and I’ll tailor it exactly to your brand.</p>
 
                   <a href="/request-website-buildout" class="request-quote">Request a Demo!</a>
                </div>
@@ -69,92 +83,28 @@ keywords: MLS Egypt, MLS for realtors Egypt, IDX Egypt, IDX website Egypt, real 
    </div>
 </section>
 
+<!-- Elfsight Trustpilot Reviews | Realty Webmaster trustpilot widget -->
+<script src="https://elfsightcdn.com/platform.js" async></script>
+<div class="elfsight-app-f3da87bf-d9d7-487c-8406-581482b45d41" data-elfsight-app-lazy></div>
 
 <section id="rwm-overview" class="p-h-70 rwm-section">
   <div class="container">
-    <header>
-      <h1>Everything a Realtor Needs to Compete &amp; Win</h1>
-      <p>When you join <strong>RTH</strong>, you’re not just getting a tool — you’re unlocking a complete system built for realtors only.</p>
-    </header>
+    <h2>The Smart Way to Get a Luxury Real Geeks Website</h2>
 
-    <article id="mls-access" class="rwm-block">
-      <h2>1. <strong>MLS Access</strong> – The Power of Shared Listings</h2>
-      <p>The <strong>Multiple Listing Service (MLS)</strong> connects you to a pool of competitive realtors who share property listings and opportunities.</p>
-      <ul>
-        <li>Offer buyers a <strong>much wider inventory</strong> than your own listings.</li>
-        <li>Earn seller trust with network-wide exposure.</li>
-        <li>Close deals faster through professional cooperation.</li>
-        <li>Compete as part of a stronger force — not alone.</li>
-      </ul>
-    </article>
+    <p>If you’re comparing options, this is the difference.</p>
 
-    <article id="idx" class="rwm-block">
-      <h2>2. <strong>Top IDX Integration</strong> – Display All Properties in Your Area</h2>
-      <p><strong>IDX</strong> (Internet Data Exchange) brings MLS listings directly to your website so visitors see a complete, up-to-date market view.</p>
-      <ul>
-        <li>Auto-display every property for sale in your area.</li>
-        <li>Match the data depth of the biggest portals.</li>
-        <li>Keep visitors browsing longer and convert more leads.</li>
-        <li>Become a trusted, comprehensive source of listings.</li>
-      </ul>
-    </article>
+    <p>We deliver high-end Real Geeks websites with exceptional design, SEO-ready structure, and real conversion strategy — without vanity pricing. Our model is simple: we collaborate with proven freelance specialists around the world to get the best talent for each task, keeping costs fair while quality stays elite.</p>
 
-    <article id="crm" class="rwm-block">
-      <h2>3. <strong>Smart CRM</strong> – Manage &amp; Nurture Your Leads</h2>
-      <p>A realtor-focused <strong>CRM</strong> that captures, organizes, and follows up with leads automatically.</p>
-      <ul>
-        <li>Auto-capture leads from site, ads, and calls.</li>
-        <li>Track interactions, notes, and next actions.</li>
-        <li>Reminders so you never miss a follow-up.</li>
-        <li>Segment buyers, sellers, and investors for tailored outreach.</li>
-      </ul>
-    </article>
+    <ul>
+      <li>No templates.</li>
+      <li>No bloated agency fees.</li>
+      <li>Just smart execution and premium results.</li>
+    </ul>
+    <p>If you want a Real Geeks website that looks luxurious, performs flawlessly, and actually makes financial sense — you’re in the right place.</p>
 
-    <article id="ads" class="rwm-block">
-      <h2>4. <strong>Ad Management Hub</strong> – Create &amp; Run Ads in One Place</h2>
-      <p>Plan, launch, and optimize <strong>Facebook, Instagram, and Google</strong> campaigns from a single dashboard.</p>
-      <ul>
-        <li>Ready-to-use real estate ad templates.</li>
-        <li>Real-time performance and ROI tracking.</li>
-        <li>Spend smarter with clear insights.</li>
-        <li>Save time and keep your pipeline full.</li>
-      </ul>
-    </article>
+    <p>Let’s build something better.</p>
 
-    <article id="seo-site" class="rwm-block">
-      <h2>5. <strong>SEO-Optimized Website</strong> – Rank on Google &amp; Get Found</h2>
-      <p>A fast, mobile-friendly site engineered for <strong>SEO</strong> so clients discover you organically.</p>
-      <ul>
-        <li>Clean structure and keywords to rank higher.</li>
-        <li>Speed-optimized, mobile-first pages.</li>
-        <li>Organic traffic without relying only on ads.</li>
-        <li>Each listing is indexable for maximum visibility.</li>
-      </ul>
-    </article>
-
-    <article id="mastermind" class="rwm-block">
-      <h2>6. <strong>Realtor Mastermind Group</strong> – Grow Together</h2>
-      <p>A private community of ambitious realtors sharing strategies, referrals, and support.</p>
-      <ul>
-        <li>Learn what top performers do to close faster.</li>
-        <li>Swap ideas, scripts, and winning playbooks.</li>
-        <li>Collaborate on deals across the network.</li>
-        <li>Stay accountable and keep momentum.</li>
-      </ul>
-    </article>
-
-    <aside id="advantage" class="rwm-aside">
-      <h3>Why It Works</h3>
-      <p>With <strong>MLS + IDX + CRM + Ads + SEO + Mastermind</strong> working together, you:</p>
-      <ul>
-        <li>Gain the same edge as big companies.</li>
-        <li>Multiply your opportunities and visibility.</li>
-        <li>Close deals faster and scale sustainably.</li>
-      </ul>
-      <p><strong>One platform. All the tools. Maximum advantage.</strong></p>
-    </aside>
-
-    <a href="/request-website-buildout" class="request-quote">Request a Demo!</a>
+    <a href="/request-website-buildout" class="request-quote">Upgrade Your Site!</a>
   </div>
 </section>
 
