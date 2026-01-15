@@ -945,12 +945,12 @@ div.eapps-widget {
 .hero-sub-title {
   font-family: 'Bilbo Swash Caps', cursive;
   font-size: 32px;
-  color: #a91111;
+  color: #E4223A;
 }
 
 .hero-title {
   font-family: 'Ubuntu', sans-serif !important;
-  font-size: 56px;
+  font-size: 50px;
   color: #8b8787 !important;
   line-height: 1.2;
 }
@@ -959,7 +959,7 @@ div.eapps-widget {
 .hero-title-extened {
   font-family: 'Ubuntu', sans-serif !important;
   font-size: 56px !important;
-  color: #a91111 !important;
+  color: #E4223A !important;
   line-height: 1.2;
 }
 
@@ -984,17 +984,17 @@ div.eapps-widget {
 
 }
 
-.request-quote,
-.view-ex {
+#hero-section-wrapper .request-quote,
+#hero-section-wrapper .view-ex {
     font-family: 'Ubuntu', sans-serif !important;
 font-weight: 500 ;
-  background: #a91111;
+  background: #E4223A;
   display: block;
   width: 200px;
-  border-radius: 30px;
+  border-radius: 10px;
   font-size: 20px;
   line-height: 60px;
-  color: #c0bcbc;
+  color: #fff;
   text-align: center;
   margin: 50px 0 0;
   padding-bottom:0 ;
@@ -1002,9 +1002,9 @@ font-weight: 500 ;
   border: none;
   box-shadow: 0px 0px 0px #333;
 }
-.view-ex:hover,.request-quote:hover {
+#hero-section-wrapper .view-ex:hover,#hero-section-wrapper .request-quote:hover {
   background: #fff;
-  color: #a91111;
+  color: #E4223A;
   transition: all .5s ease;
   text-decoration: none;
 }
@@ -1139,8 +1139,8 @@ font-weight: 500 ;
     gap: 15px;
   }
 
-  .request-quote,
-  .view-ex {
+  #hero-section-wrapper .request-quote,
+  #hero-section-wrapper .view-ex {
     width: 160px;
     font-size: 16px;
     line-height: 50px;
@@ -1151,16 +1151,30 @@ font-weight: 500 ;
     width: 100%;
     max-width: 420px;
     height: auto;
+    margin: 30px auto;
   }
 
   .mockup-frame {
     height: 260px;
     transform: none;
+    margin-top: 20px;
   }
 
   .mockup-frame img {
     height: 100%;
     width: 100%;
+  }
+
+  #hero-section-wrapper {
+    height: 850px;
+    padding: 50px 5px;
+  }
+  #hero-section-wrapper .vertical-center {
+    display: block;
+  }
+  .hero-title,
+  .hero-title-extened {
+    font-size: 7vw !important;
   }
 }
 
@@ -1168,14 +1182,16 @@ font-weight: 500 ;
 
 @media (max-width: 480px) {
 
-  .hero-title,
-  .hero-title-extened {
-    font-size: 28px !important;
-  }
 
-  .request-quote,
-  .view-ex {
+
+  #hero-section-wrapper .request-quote,
+  #hero-section-wrapper .view-ex {
     width: 100%;
     max-width: 260px;
+    margin-top: 20px;
   }
+  #hero-section .request-quote {
+    margin-top: 5px;
+  }
+
 }

@@ -94,7 +94,7 @@ top-tier design and performance — for a fraction of the usual cost.</span></h4
    </div>
 </section>
 
-<div class="" style="background:#000;padding: 70px 0;">
+<div class="" style="background:#000;padding: 70px 10px;;">
 <!-- Elfsight Trustpilot Reviews | Untitled Trustpilot Reviews -->
 <script src="https://elfsightcdn.com/platform.js" async></script>
 <div class="elfsight-app-fa4e2631-d93e-4bf2-9fdb-af3e7a53b741" data-elfsight-app-lazy></div>
