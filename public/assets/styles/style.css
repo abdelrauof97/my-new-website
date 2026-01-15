@@ -1108,3 +1108,74 @@ font-weight: 500 ;
     transform:translateX(25%);
   }
 }
+
+
+
+
+@media (max-width: 768px) {
+
+  /* منع الكسر العام */
+  #hero-section {
+    overflow: hidden;
+  }
+
+  /* تصغير العناوين فقط */
+  .hero-sub-title {
+    font-size: 24px;
+  }
+
+  .hero-title,
+  .hero-title-extened {
+    font-size: 34px !important;
+  }
+
+  .discribtion-text {
+    font-size: 18px;
+  }
+
+  /* الأزرار تفضل جنب بعض بس مرنة */
+  .btn-container {
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+
+  .request-quote,
+  .view-ex {
+    width: 160px;
+    font-size: 16px;
+    line-height: 50px;
+  }
+
+  /* الصورة متكسرش الشاشة */
+  .hero-mockup {
+    width: 100%;
+    max-width: 420px;
+    height: auto;
+  }
+
+  .mockup-frame {
+    height: 260px;
+    transform: none;
+  }
+
+  .mockup-frame img {
+    height: 100%;
+    width: 100%;
+  }
+}
+
+
+
+@media (max-width: 480px) {
+
+  .hero-title,
+  .hero-title-extened {
+    font-size: 28px !important;
+  }
+
+  .request-quote,
+  .view-ex {
+    width: 100%;
+    max-width: 260px;
+  }
+}

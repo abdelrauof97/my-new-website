@@ -27,9 +27,6 @@ top-tier design and performance — for a fraction of the usual cost.</span></h4
       alt="Website Preview">
   </div>
 </div>
-
-
-
       </div>
     </div>
   </section>
