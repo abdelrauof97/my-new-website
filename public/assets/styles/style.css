@@ -436,7 +436,7 @@ section.content-section {
 
 #our-portfolio {
     padding: 0 0 100px;
-    background: #000;
+    background: #001a1d;
     color: #fff;
 }
 #our-portfolio h1 {
@@ -556,7 +556,7 @@ section.content-section {
 #contact-us {
   padding: 0 0 100px;
   min-height: 100vh;
-  background: #000;
+  background: #001a1d;
   color: #fff;
 }
 #contact-us h1 {
@@ -588,7 +588,7 @@ section.content-section {
 
 #about-us {
   padding: 0 0 0;
-  background: #000;
+  background: #001a1d;
   color: #fff;
 }
 #about-us h1 {
@@ -744,7 +744,7 @@ section.content-section {
 #realgeeks-buildout-form {
   padding: 0 0 100px;
   min-height: 100vh;
-  background: #000;
+  background: #001a1d;
   color: #fff;
 }
 #realgeeks-buildout-form h1 {
