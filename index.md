@@ -40,9 +40,9 @@ top-tier design and performance — for a fraction of the usual cost.</span></h4
                       <a href="#"><img src="{{site.url}}/public/assets/photos/carolinas-home.png" alt="Carolinas Home Page screenshot" class="wp-image-1273 hero-img" width="100%" height="auto" style="max-width: 500px;display:block;margin: auto;"></a>
                     </div>
                     <div class="col col-sm-6">
-                      <h2 style="margin-top: 0px;margin-bottom:30px;">Want a luxury Real Geeks website without paying vanity-agency prices?</h2>
+                      <h2 style="margin-top: 0px;margin-bottom:30px;">Want a luxury REALTOR® website without paying vanity-agency prices?</h2>
 
-                      <p>We specialize in crafting high-end, fully custom Real Geeks websites that look and feel premium — without the inflated costs. Why? Because we work with a carefully selected global team of elite designers and developers, allowing us to deliver exceptional quality at reasonable, transparent pricing.</p>
+                      <p>We specialize in crafting high-end, fully custom REALTOR® websites that look and feel premium — without the inflated costs. Why? Because we work with a carefully selected global team of elite designers and developers, allowing us to deliver exceptional quality at reasonable, transparent pricing.</p>
 
                       <p><b>Have a vision? We’ll bring it to life with precision.</b></p>
                       <p>No vision yet? We’ll design a refined, conversion-focused experience for you.</p>
@@ -71,7 +71,7 @@ top-tier design and performance — for a fraction of the usual cost.</span></h4
             <div class="row">
                <div class="col col-sm-12">
                   <h2 style="margin-bottom: 21px;">Craft Your Luxury Website</h2>
-                  <p>Whether you’re launching a new Real Geeks site, upgrading an existing one, or need SEO that’s built to last, you’re in the right place. Real Geeks clients across the U.S. and Canada trust us to deliver luxury design, smart performance, and real lead generation.</p>
+                  <p>Whether you’re launching a new REALTOR® site, upgrading an existing one, or need SEO that’s built to last, you’re in the right place. REALTOR® clients across the U.S. and Canada trust us to deliver luxury design, smart performance, and real lead generation.</p>
 
                   <p>This isn’t about vanity pricing.</p>
                   <p>It’s about premium results—done intelligently.</p>
@@ -102,18 +102,18 @@ top-tier design and performance — for a fraction of the usual cost.</span></h4
 
 <section id="rwm-overview" class="p-h-70 rwm-section">
   <div class="container">
-    <h2>The Smart Way to Get a Luxury Real Geeks Website</h2>
+    <h2>The Smart Way to Get a Luxury REALTOR® Website</h2>
 
     <p>If you’re comparing options, this is the difference.</p>
 
-    <p>We deliver high-end Real Geeks websites with exceptional design, SEO-ready structure, and real conversion strategy — without vanity pricing. Our model is simple: we collaborate with proven freelance specialists around the world to get the best talent for each task, keeping costs fair while quality stays elite.</p>
+    <p>We deliver high-end REALTOR® websites with exceptional design, SEO-ready structure, and real conversion strategy — without vanity pricing. Our model is simple: we collaborate with proven freelance specialists around the world to get the best talent for each task, keeping costs fair while quality stays elite.</p>
 
     <ul>
       <li>No templates.</li>
       <li>No bloated agency fees.</li>
       <li>Just smart execution and premium results.</li>
     </ul>
-    <p>If you want a Real Geeks website that looks luxurious, performs flawlessly, and actually makes financial sense — you’re in the right place.</p>
+    <p>If you want a REALTOR® website that looks luxurious, performs flawlessly, and actually makes financial sense — you’re in the right place.</p>
 
     <p>Let’s build something better.</p>
 

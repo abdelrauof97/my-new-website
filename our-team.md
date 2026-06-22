@@ -16,9 +16,9 @@ keywords: our team RealtorToThrive, RealtorToThrive experts, RealtorToThrive Egy
         <h2>Rauof Mohammed</h2>
         <h3>Founder & CEO</h3>
         <br>
-        <p>I’m Rauof Mohammed, Founder and CEO of RTH. I work exclusively with real estate agents and teams across Canada and the United States, helping them transform standard Real Geeks websites into luxury, high-performing digital platforms.</p>
+        <p>I’m Rauof Mohammed, Founder and CEO of RTH. I work exclusively with real estate agents and teams across Canada and the United States, helping them transform standard REALTOR® websites into luxury, high-performing digital platforms.</p>
 
-        <p>At RTH, we don’t use templates or shortcuts. Every Real Geeks site is carefully redesigned to reflect your brand, improve user experience, and maximize lead conversion. Our focus is simple: clean design, strong structure, and SEO optimization that actually works in competitive North American markets.</p>
+        <p>At RTH, we don’t use templates or shortcuts. Every REALTOR® site is carefully redesigned to reflect your brand, improve user experience, and maximize lead conversion. Our focus is simple: clean design, strong structure, and SEO optimization that actually works in competitive North American markets.</p>
 
         <p>The result is a website that doesn’t just look great—it works as a serious business asset, helping agents stand out, attract better leads, and convert more clients.</p>
         <p>Our Promise</p>
