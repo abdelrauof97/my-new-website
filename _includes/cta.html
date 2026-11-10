@@ -1,0 +1,11 @@
+<section class="section section--cta">
+  <div class="container section--cta__inner">
+    <p class="eyebrow eyebrow--light">Next step</p>
+    <h2>{{ include.headline | default: "Ready for a website that works as hard as you do?" }}</h2>
+    <p>{{ include.text | default: "Let's talk about your current website, your business, and what's possible." }}</p>
+    <div class="btn-row">
+      <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">{{ include.primary | default: "Book Your Strategy Consultation" }}</a>
+      <a class="btn btn--ghost" href="{{ '/contact/?interest=Website%20audit' | relative_url }}">Get a Website Audit</a>
+    </div>
+  </div>
+</section>

@@ -1,12 +1,18 @@
 ---
 layout: page
-title: Thank You!
-sitemapsearch: exclude
+title: Thank You
+headline: Thank you
+crumb: Thank you
+eyebrow: Consultation
+lede: If your email app sent the inquiry, we will reply by email.
+description: Thank you for contacting RealtorToThrive.
+robots: noindex, nofollow
+sitemap: false
 ---
 
-<div id="reviews">
-  <h1>Thank You!</h1>
-  <div class="container">
-    <h3 style="max-width: 540px;text-align: center;margin: 100px auto 50px;">Thank you for submitting your information, we will reply as soon as possible</h3>
+<section class="page-section">
+  <div class="container narrow stack">
+    <p>This page does not confirm that a server received a form. If you used the consultation form before a delivery endpoint is connected, check that your email app actually sent the message to {{ site.email }}.</p>
+    <p><a href="{{ '/' | relative_url }}">Return home</a></p>
   </div>
-</div>
+</section>

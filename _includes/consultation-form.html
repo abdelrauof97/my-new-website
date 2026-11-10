@@ -1,0 +1,84 @@
+{% comment %}
+  Consultation form.
+  With site.form_endpoint set, this POSTs to that URL.
+  Without it, assets/js/main.js opens a mailto to site.email and does not
+  pretend the message was delivered. See _config.yml.
+{% endcomment %}
+{% assign endpoint = site.form_endpoint | strip %}
+<form
+  class="inquiry"
+  id="consultation"
+  {% if endpoint != "" %}
+    action="{{ endpoint }}"
+    method="post"
+  {% else %}
+    action="{{ '/contact/' | relative_url }}"
+    method="post"
+    data-static-form
+    data-mail="{{ site.email }}"
+    data-subject="Strategy consultation inquiry"
+  {% endif %}
+>
+  <div class="hp" aria-hidden="true">
+    <label for="company_website_confirm">Leave this field empty</label>
+    <input id="company_website_confirm" type="text" name="company_website_confirm" tabindex="-1" autocomplete="off">
+  </div>
+
+  <div class="inquiry__grid">
+    <div class="field">
+      <label for="name">Name</label>
+      <input id="name" name="name" type="text" autocomplete="name" required>
+    </div>
+    <div class="field">
+      <label for="email">Email</label>
+      <input id="email" name="email" type="email" autocomplete="email" required>
+    </div>
+    <div class="field">
+      <label for="company">Company or brokerage</label>
+      <input id="company" name="company" type="text" autocomplete="organization">
+    </div>
+    <div class="field">
+      <label for="website">Current website URL</label>
+      <input id="website" name="website" type="url" inputmode="url" placeholder="https://" autocomplete="url">
+    </div>
+    <div class="field">
+      <label for="platform">Current platform</label>
+      <select id="platform" name="platform">
+        <option value="">Select a platform</option>
+        <option>Real Geeks</option>
+        <option>BoomTown</option>
+        <option>Sierra Interactive</option>
+        <option>Luxury Presence</option>
+        <option>WordPress</option>
+        <option>Other</option>
+        <option>Not sure</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="service">Service interested in</label>
+      <select id="service" name="service" required>
+        <option value="">Select a service</option>
+        <option>Custom website design</option>
+        <option>Website migration</option>
+        <option>Performance development</option>
+        <option>SEO and PPC architecture</option>
+        <option>Website audit</option>
+        <option>Not sure yet</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="field">
+    <label for="details">Project details</label>
+    <textarea id="details" name="details" rows="6" required></textarea>
+  </div>
+
+  {% if endpoint != "" %}
+    <p class="form-note">This inquiry is sent securely to our consultation desk.</p>
+  {% else %}
+    <p class="form-note">Sending opens your email app with this inquiry addressed to {{ site.email }}. Nothing is stored on the website until a form endpoint is connected in the site configuration.</p>
+  {% endif %}
+  <p id="form-status" class="form-status" role="status" hidden></p>
+
+  <button class="btn btn--dark" type="submit">Book a Strategy Consultation</button>
+</form>

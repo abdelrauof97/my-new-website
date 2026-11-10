@@ -1,10 +1,33 @@
-# Dependencies
-# markdown:         redcarpet
-# highlighter:      pygments
+# RealtorToThrive
+# Jekyll configuration. Restart `jekyll serve` after editing this file.
 
-# Permalinks
-permalink:        pretty
-# relative_permalinks: true
+title: RealtorToThrive
+tagline: Your business isn't generic. Your website shouldn't be either.
+description: Custom real estate websites, expert platform migrations, and performance-driven development for established agents, teams, and brokerages in the United States.
+email: rauof@realtortothrive.com
+url: "https://www.realtortothrive.com"
+# Used for canonical, Open Graph, and sitemap links. Kept separate from `url`
+# because `jekyll serve` and some hosts replace `url` with the local host.
+canonical_host: "https://www.realtortothrive.com"
+baseurl: ""
+lang: en-US
+author: RealtorToThrive
+
+# Consultation form.
+# Leave form_endpoint blank to use the mailto handoff: the form opens the
+# visitor's email app with the inquiry addressed to `email`. That path is
+# real, but it depends on the visitor having a mail client.
+# To deliver on the server, set form_endpoint to a full HTTPS URL from your
+# provider (for example Formspree). The form then POSTs these fields:
+# name, email, company, website, platform, service, details.
+# Do not point this at a placeholder URL. An empty value is the honest default.
+form_endpoint: ""
+
+social:
+  instagram: https://www.instagram.com/realtortothrive1/
+  facebook: https://web.facebook.com/profile.php?id=61581181315979
+
+permalink: pretty
 
 collections:
   portfolio:
@@ -14,56 +37,39 @@ collections:
     output: true
     permalink: /blog/:path/
 
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
-title: Realty Webmaster
-email: rauof@realtortothrive.com
-description:      '<a href="/our-team">Rauof</a> is a software engineer, you can hire him for your web project, ask him, or say hi by <a href="mailto:abdelrauof97@gmail.com">Email</a>, or follow him on <a href="https://www.linkedin.com/in/abdelrauof/">LinkedIn</a>'
-
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-
-# Build settings
-theme: minima
 plugins:
   - jekyll-feed
 
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+sass:
+  style: compressed
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: portfolio
+
+include:
+  - .htaccess
+  - CNAME
+
+exclude:
+  - vendor
+  - .bundle
+  - tmp
+  - _legacy
+  - node_modules
+  - README.md
+  - LICENSE.md
+  - Gemfile
+  - Gemfile.lock

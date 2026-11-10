@@ -1,42 +1,32 @@
-
-<div class="navbar-original navbar-outer bg-dark">
-  <nav class="navbar navbar-expand-lg navbar-dark">
-    <a class="navbar-brand" href="/" style="padding:0;"><img src="/public/assets/logo.png" width="215" height="auto" alt="Realty Webmaster Logo" /></a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
-        </li>
-        <!-- <li class="nav-item">
-          <a class="nav-link" href="/portfolio">Portfolio</a>
-        </li> -->
-        <!-- <li class="nav-item">
-          <a class="nav-link" href="/reviews">Reviews</a>
-        </li> -->
-        <!-- <li class="nav-item dropdown">
-          <a class="nav-link" href="/pricing">Buildout Packages</a>
-        </li> -->
-        <li class="nav-item">
-          <a class="nav-link" href="/request-website-buildout">Request Buildout</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/our-team">Our Team</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/contact">Contact Us</a>
-        </li>
-        <!-- <li class="nav-item">
-          <a class="nav-link" href="/blog">Blog</a>
-        </li> -->
-        <li class="nav-item">
-          <a class="nav-link request-quote-nav" href="/realgeeks-buildout-form">Request Quote</a>
-        </li>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header" data-header>
+  <div class="site-header__bar">
+    <a class="wordmark" href="{{ '/' | relative_url }}">RealtorToThrive</a>
+    <nav class="desktop-nav" aria-label="Primary">
+      <ul>
+        {% for item in site.data.navigation %}
+          <li>
+            <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+          </li>
+        {% endfor %}
       </ul>
-    </div>
-  </nav>
-</div>
-<!-- <a href="/realgeeks-buildout-form" class="home-bell"><span>Request a proposal</span></a> -->
+    </nav>
+    <a class="btn btn--primary header-cta" href="{{ '/contact/' | relative_url }}">Book a Consultation</a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="nav-panel" data-nav-toggle>
+      <span class="sr-only">Open menu</span>
+      <span class="nav-toggle__bars" aria-hidden="true"></span>
+    </button>
+  </div>
+  <div id="nav-panel" class="nav-panel" data-nav-panel hidden>
+    <nav aria-label="Mobile">
+      <ul>
+        {% for item in site.data.navigation %}
+          <li>
+            <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+      <a class="btn btn--primary nav-panel__cta" href="{{ '/contact/' | relative_url }}">Book a Consultation</a>
+    </nav>
+  </div>
+</header>

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How MLS Will Transform the Egyptian Real Estate Market
+description: An earlier note on how a multiple listing service could change property search in Egypt.
 heroImage: /public/assets/photos/Transforming Egypts Real Estate Market.png
 ---
 
