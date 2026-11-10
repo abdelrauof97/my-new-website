@@ -1,0 +1,15 @@
+- number: "01"
+  title: Discover
+  text: We learn the business, the market, the current site, and what a better one has to do.
+- number: "02"
+  title: Strategize
+  text: We plan the design direction, site architecture, integrations, and, when needed, the migration path.
+- number: "03"
+  title: Design
+  text: We design the interface around your brand, your listings, and the conversations you want the site to start.
+- number: "04"
+  title: Develop
+  text: We build the site, optimize the templates, and test the lead paths on real screen sizes.
+- number: "05"
+  title: Launch
+  text: We validate redirects, metadata, forms, and speed, then deploy with you watching the cutover.

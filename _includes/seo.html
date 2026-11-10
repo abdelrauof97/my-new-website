@@ -1,0 +1,141 @@
+{% if page.canonical %}
+  {% assign canonical = page.canonical %}
+{% elsif site.canonical_host %}
+  {% assign canonical = site.canonical_host | append: page.url %}
+{% else %}
+  {% assign canonical = page.url | absolute_url %}
+{% endif %}
+{% assign asset_host = site.canonical_host | default: site.url %}
+{% assign meta_description = page.description | default: page.pageDescription | default: site.description | strip_html | strip %}
+{% if page.url == "/" %}
+  {% assign full_title = page.title | append: " | " | append: site.title %}
+{% else %}
+  {% assign full_title = page.title | append: " | " | append: site.title %}
+{% endif %}
+{% assign og_path = page.og_image | default: "/assets/images/hero-residence.jpg" %}
+{% assign og_image = asset_host | append: og_path %}
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ full_title | escape }}</title>
+<meta name="description" content="{{ meta_description | escape }}">
+<link rel="canonical" href="{{ canonical }}">
+<meta name="theme-color" content="#101D32">
+<meta name="author" content="{{ site.author | escape }}">
+{% if page.robots %}
+  <meta name="robots" content="{{ page.robots }}">
+{% endif %}
+
+<meta property="og:type" content="{% if page.url == '/' %}website{% else %}article{% endif %}">
+<meta property="og:site_name" content="{{ site.title | escape }}">
+<meta property="og:title" content="{{ full_title | escape }}">
+<meta property="og:description" content="{{ meta_description | escape }}">
+<meta property="og:url" content="{{ canonical }}">
+<meta property="og:image" content="{{ og_image }}">
+<meta property="og:locale" content="en_US">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ full_title | escape }}">
+<meta name="twitter:description" content="{{ meta_description | escape }}">
+<meta name="twitter:image" content="{{ og_image }}">
+
+<link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
+<link rel="preload" href="{{ '/assets/fonts/inter-latin.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+{% if page.preload_image %}
+  <link rel="preload" as="image" href="{{ page.preload_image | relative_url }}" type="image/avif" fetchpriority="high">
+{% endif %}
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+<link rel="alternate" type="application/atom+xml" title="{{ site.title | escape }}" href="{{ asset_host }}/feed.xml">
+
+{% if page.schema == "home" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": {{ site.title | jsonify }},
+  "url": {{ asset_host | jsonify }},
+  "image": {{ og_image | jsonify }},
+  "description": {{ site.description | jsonify }},
+  "email": {{ site.email | jsonify }},
+  "areaServed": { "@type": "Country", "name": "United States" },
+  "knowsAbout": [
+    "Real estate website design",
+    "Custom real estate websites",
+    "Real estate website migration",
+    "Real Geeks website migration",
+    "Real estate website development"
+  ],
+  "sameAs": [
+    {{ site.social.instagram | jsonify }},
+    {{ site.social.facebook | jsonify }}
+  ]
+}
+</script>
+{% elsif page.schema == "service" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": {{ page.service_name | default: page.title | jsonify }},
+  "serviceType": {{ page.service_name | default: page.title | jsonify }},
+  "description": {{ meta_description | jsonify }},
+  "url": {{ canonical | jsonify }},
+  "areaServed": { "@type": "Country", "name": "United States" },
+  "provider": {
+    "@type": "Organization",
+    "name": {{ site.title | jsonify }},
+    "url": {{ asset_host | jsonify }}
+  }
+}
+</script>
+{% elsif page.schema == "about" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "AboutPage",
+  "name": {{ page.title | jsonify }},
+  "url": {{ canonical | jsonify }},
+  "mainEntity": {
+    "@type": "Organization",
+    "name": {{ site.title | jsonify }},
+    "url": {{ asset_host | jsonify }},
+    "email": {{ site.email | jsonify }},
+    "founder": {
+      "@type": "Person",
+      "name": "Rauof Mohammed"
+    }
+  }
+}
+</script>
+{% elsif page.schema == "contact" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  "name": {{ page.title | jsonify }},
+  "url": {{ canonical | jsonify }},
+  "about": {
+    "@type": "Organization",
+    "name": {{ site.title | jsonify }},
+    "email": {{ site.email | jsonify }},
+    "url": {{ asset_host | jsonify }}
+  }
+}
+</script>
+{% endif %}
+
+<script>
+  window.addEventListener('load', function () {
+    var script = document.createElement('script');
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-D1X3RQX2DY';
+    script.async = true;
+    script.onload = function () {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){window.dataLayer.push(arguments);}
+      window.gtag = gtag;
+      gtag('js', new Date());
+      gtag('config', 'G-D1X3RQX2DY');
+    };
+    document.head.appendChild(script);
+  });
+</script>

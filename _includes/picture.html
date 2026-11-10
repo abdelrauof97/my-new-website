@@ -1,0 +1,19 @@
+<picture>
+  {% if include.avif %}
+    <source srcset="{{ include.avif | relative_url }}" type="image/avif">
+  {% endif %}
+  {% if include.webp %}
+    <source srcset="{{ include.webp | relative_url }}" type="image/webp">
+  {% endif %}
+  <img
+    src="{{ include.src | relative_url }}"
+    alt="{{ include.alt | escape }}"
+    width="{{ include.width }}"
+    height="{{ include.height }}"
+    {% if include.class %}class="{{ include.class }}"{% endif %}
+    {% if include.loading %}loading="{{ include.loading }}"{% endif %}
+    {% if include.fetchpriority %}fetchpriority="{{ include.fetchpriority }}"{% endif %}
+    {% if include.sizes %}sizes="{{ include.sizes }}"{% endif %}
+    decoding="{% if include.decoding %}{{ include.decoding }}{% else %}async{% endif %}"
+  >
+</picture>

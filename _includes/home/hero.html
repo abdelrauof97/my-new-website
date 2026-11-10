@@ -1,0 +1,60 @@
+<section class="hero">
+  <div class="container container--wide hero__grid">
+    <div class="hero__copy">
+      <p class="eyebrow">Built for established real estate professionals</p>
+      <h1>Your business isn't generic. Your website shouldn't be either.</h1>
+      <p class="lede">Custom real estate websites and expert platform migrations, engineered for speed, search visibility, and business growth.</p>
+      <div class="btn-row">
+        <a class="btn btn--primary" href="{{ '/contact/' | relative_url }}">Schedule Your Consultation</a>
+        <a class="btn btn--ghost" href="{{ '/our-work/' | relative_url }}">Explore Our Work</a>
+      </div>
+    </div>
+    <div class="hero-stage">
+      <p class="sr-only">Sample composition of a custom real estate website on a desktop browser and a phone. This is a design study, not a client project.</p>
+      <div class="browser" aria-hidden="true">
+        <div class="browser__bar"><i></i><i></i><i></i><span>aldenshore.example</span></div>
+        <div class="browser__page">
+          <div class="mock-nav"><strong>Alden &amp; Shore</strong><em>Search homes</em></div>
+          {% include picture.html
+            src="/assets/images/hero-residence.jpg"
+            webp="/assets/images/hero-residence.webp"
+            avif="/assets/images/hero-residence.avif"
+            alt=""
+            width="1280"
+            height="720"
+            class="mock-photo"
+            fetchpriority="high"
+            loading="eager"
+            decoding="auto"
+          %}
+          <div class="mock-caption">
+            <span>Sample layout</span>
+            <strong>A quiet coastal practice, designed as its own brand.</strong>
+          </div>
+        </div>
+      </div>
+      <div class="phone" aria-hidden="true">
+        <div class="phone__screen">
+          <div class="phone__top">Alden &amp; Shore</div>
+          {% include picture.html
+            src="/assets/images/detail-stone.jpg"
+            webp="/assets/images/detail-stone.webp"
+            avif="/assets/images/detail-stone.avif"
+            alt=""
+            width="864"
+            height="1152"
+            class="phone__photo"
+            loading="lazy"
+            fetchpriority="low"
+            decoding="async"
+          %}
+          <div class="phone__card">
+            <p>Sample listing</p>
+            <strong>4 beds · waterfront</strong>
+            <span>Request a conversation</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

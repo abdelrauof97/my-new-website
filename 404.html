@@ -1,10 +1,20 @@
 ---
 layout: default
-title: "404: Page not found"
-permalink: 404.html
+title: Page not found
+description: That page is not on the RealtorToThrive website.
+permalink: /404.html
+robots: noindex, nofollow
+sitemap: false
 ---
 
-<div class="not-found page">
-  <h1 class="page-title">404: Page not found</h1>
-  <p class="lead">Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. <a href="{{ site.baseurl }}">Head back home</a> to try finding it again.</p>
-</div>
+<header class="page-hero">
+  <div class="container">
+    <p class="eyebrow">404</p>
+    <h1>That page is not here.</h1>
+    <p class="lede">The address may have changed. The work lives on the pages below.</p>
+    <div class="btn-row">
+      <a class="btn btn--primary" href="{{ '/' | relative_url }}">Back home</a>
+      <a class="btn btn--ghost" href="{{ '/contact/' | relative_url }}">Book a Consultation</a>
+    </div>
+  </div>
+</header>
