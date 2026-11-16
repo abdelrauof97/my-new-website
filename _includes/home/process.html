@@ -1,0 +1,17 @@
+<section class="section section--white">
+  <div class="container">
+    <div class="section-head">
+      <p class="eyebrow eyebrow--dark">Engagement</p>
+      <h2>A thoughtful process. A better result.</h2>
+    </div>
+    <ol class="process">
+      {% for step in site.data.process %}
+        <li>
+          <span>{{ step.number }}</span>
+          <h3>{{ step.title }}</h3>
+          <p>{{ step.text }}</p>
+        </li>
+      {% endfor %}
+    </ol>
+  </div>
+</section>

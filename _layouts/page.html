@@ -1,7 +1,20 @@
 ---
 layout: default
 ---
-
-<div class="page">
-  {{ content }}
-</div>
+<article>
+  <header class="page-hero">
+    <div class="container">
+      <nav class="crumbs" aria-label="Breadcrumb">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <span aria-hidden="true">/</span>
+        <span aria-current="page">{{ page.crumb | default: page.headline | default: page.title }}</span>
+      </nav>
+      {% if page.eyebrow %}<p class="eyebrow">{{ page.eyebrow }}</p>{% endif %}
+      <h1>{{ page.headline | default: page.title }}</h1>
+      {% if page.lede %}<p class="lede">{{ page.lede }}</p>{% endif %}
+    </div>
+  </header>
+  <div class="page-body">
+    {{ content }}
+  </div>
+</article>

@@ -1,69 +1,44 @@
-<footer id="footer" role="contentinfo">
-  <div class="container">
-    <div class="inner">
-       <nav id="footer-navigation">
-          <ul class="menu">
-            <li class="menu-item menu-item-type-post_type menu-item-object-page">
-              <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page">
-              <a class="nav-link" href="/portfolio">Portfolio</a>
-            </li> -->
-            <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page">
-              <a class="nav-link" href="/pricing">Custom Buildout Packages</a>
-            </li> -->
-            <!-- <li class="menu-item menu-item-type-post_type menu-item-object-page">
-              <a class="nav-link" href="/real-geeks-care-plans">Care Packages</a>
-            </li> -->
-            <li class="menu-item menu-item-type-post_type menu-item-object-page">
-              <a class="nav-link" href="/request-website-buildout">Request Buildout</a>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page">
-              <a class="nav-link" href="/our-team">Our Team</a>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page">
-              <a class="nav-link" href="/contact">Contact Us</a>
-            </li>
-            <li class="menu-item menu-item-type-post_type menu-item-object-page">
-              <a class="nav-link" href="/blog">Blog</a>
-            </li>
-        </ul>
-       </nav>
-       <div class="vcard" itemscope="" itemtype="http://schema.org/LocalBusiness">
-          <img class="logo lazyloaded" itemprop="logo" src="{{site.url}}/public/assets/RE-Site-Builders-logo/profile.png" onerror="this.onerror=null; this.src='{{site.url}}/public/assets/RE-Site-Builders-logo/profile.png'" data-lazy-src="{{site.url}}/public/assets/RE-Site-Builders-logo/profile.png" data-was-processed="true">
-          <noscript><img class="logo" itemprop="logo" src="{{site.url}}/public/assets/RE-Site-Builders-logo/profile.png" onerror="this.onerror=null; this.src='{{site.url}}/public/assets/RE-Site-Builders-logo/profile.png'"></noscript>
-          <p class="tel" itemprop="telephone"><a href="mailto:abdelrauof97@gmail.com">Email Us</a></p>
-          <p class="fn" itemprop="name"><a class="url" href="/" itemprop="url">Realtor To Thrive</a></p>
-          <p class="adr" itemprop="address" itemscope=""> <span class="street-address" itemprop="streetAddress"> Shorook City </span><br> <span class="locality" itemprop="addressLocality">New Cairo</span>, <span class="region" itemprop="addressRegion">Egypt</span> <span class="postal-code" itemprop="postalCode">62518</span></p>
-          <p class="hours" itemprop="openingHours">Sunday - Thursday<br> 9:00 am - 5:00 pm</p>
-       </div>
-       <div id="site-description">
-          <h3>MLS Egypt – Powered by Realtor To Thrive</h3>
-          <p>The complete solution for realtors in Egypt: MLS + Website + CRM.
-            Helping professionals connect buyers and sellers with speed, trust, and transparency.</p>
-           <!-- TrustBox widget - Micro Review Count -->
-           <div class="trustpilot-widget" data-locale="en-US" data-template-id="5419b6a8b0d04a076446a9ad" data-businessunit-id="5d58964128b7460001938c50" data-style-height="24px" data-style-width="100%" data-theme="dark">
-             <a href="https://www.trustpilot.com/review/rauof.com" target="_blank" rel="noopener">Trustpilot</a>
-           </div>
-           <!-- End TrustBox widget -->
-       </div>
-       <ul class="social-links">
-          <li class="facebook"><a href="https://web.facebook.com/profile.php?id=61581181315979" class="fa fa-facebook"><span>Facebook</span></a></li>
-          <li class="twitter"><a href="https://www.instagram.com/realtortothrive1/" class="fa fa-instagram"><span>Instagram</span></a></li>
-          <!-- <li class="google-plus"><a href=""><span>Google+</span></a></li> -->
-       </ul>
-       <div id="site-legal">
-          <p class="copyright">© 2019 Real Estate Website Designer</p>
-       </div>
+<footer class="site-footer">
+  <div class="container site-footer__grid">
+    <div>
+      <p class="wordmark wordmark--footer">RealtorToThrive</p>
+      <p class="site-footer__lead">Custom real estate websites and platform migrations for established agents, teams, and brokerages in the United States.</p>
+    </div>
+    <div>
+      <h2 class="site-footer__heading">Explore</h2>
+      <ul>
+        {% for item in site.data.navigation %}
+          <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+        {% endfor %}
+        <li><a href="{{ '/blog/' | relative_url }}">Notes</a></li>
+      </ul>
+    </div>
+    <div>
+      <h2 class="site-footer__heading">Services</h2>
+      <ul>
+        <li><a href="{{ '/custom-design/' | relative_url }}">Custom website design</a></li>
+        <li><a href="{{ '/website-migration/' | relative_url }}">Website migration</a></li>
+        <li><a href="{{ '/performance-seo/' | relative_url }}">Performance</a></li>
+        <li><a href="{{ '/performance-seo/#search' | relative_url }}">SEO and paid search</a></li>
+        <li><a href="{{ '/contact/?interest=Website%20audit' | relative_url }}">Website audit</a></li>
+      </ul>
+    </div>
+    <div>
+      <h2 class="site-footer__heading">Contact</h2>
+      <ul>
+        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        <li><a href="{{ '/contact/' | relative_url }}">Book a strategy consultation</a></li>
+        {% if site.social.instagram %}
+          <li><a href="{{ site.social.instagram }}" rel="noopener noreferrer">Instagram</a></li>
+        {% endif %}
+        {% if site.social.facebook %}
+          <li><a href="{{ site.social.facebook }}" rel="noopener noreferrer">Facebook</a></li>
+        {% endif %}
+      </ul>
     </div>
   </div>
+  <div class="container site-footer__base">
+    <p>© {{ 'now' | date: '%Y' }} RealtorToThrive. Serving established real estate professionals in the United States.</p>
+  </div>
 </footer>
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-<script src="{{site.url}}/public/assets/scripts/script.js"></script>
-<script src="{{site.url}}/public/assets/scripts/purejscarousel.js"></script>
-
-<!-- Start of HubSpot Embed Code -->
-  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/5998269.js"></script>
-<!-- End of HubSpot Embed Code -->
+<script src="{{ '/assets/js/main.js' | relative_url }}" defer></script>

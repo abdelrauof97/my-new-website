@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Complete Realtor Solution
+description: An earlier note on pairing a realtor website with MLS access and a CRM, written around the Egyptian market.
 heroImage: /public/assets/photos/portfolio-website-photos/MLS Egypt_ Future of Real Estate.png
 ---
 

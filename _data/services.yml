@@ -1,0 +1,20 @@
+- icon: design
+  number: "01"
+  title: Custom Real Estate Website Design
+  url: /custom-design/
+  summary: A site shaped around your name, your market, and the way your clients actually choose an agent.
+- icon: migration
+  number: "02"
+  title: Complete Website Migration
+  url: /website-migration/
+  summary: Move off Real Geeks or another platform without throwing away the identity you have already built.
+- icon: performance
+  number: "03"
+  title: Performance-First Development
+  url: /performance-seo/
+  summary: Fast pages, disciplined images, and code that stays light on a phone in the field.
+- icon: search
+  number: "04"
+  title: SEO & PPC-Ready Websites
+  url: /performance-seo/#search
+  summary: A technical foundation for organic search and paid campaigns, without promised rankings.

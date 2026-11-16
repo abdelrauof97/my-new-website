@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How IDX Can Help You Sell More Properties
+description: An earlier note on how IDX connects a real estate website to listing inventory.
 heroImage: /public/assets/photos/posts/IDX for Real Estate Success.png
 ---
 
