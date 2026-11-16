@@ -47,32 +47,4 @@
       if (option.value === interest) service.value = interest;
     });
   }
-
-  var form = document.querySelector("[data-static-form]");
-  if (!form) return;
-
-  form.addEventListener("submit", function (event) {
-    event.preventDefault();
-    var status = document.getElementById("form-status");
-    if (!form.checkValidity()) {
-      form.reportValidity();
-      return;
-    }
-    var honeypot = form.querySelector("[name='company_website_confirm']");
-    if (honeypot && honeypot.value) return;
-
-    var lines = [];
-    var data = new FormData(form);
-    data.forEach(function (value, key) {
-      if (key === "company_website_confirm") return;
-      lines.push(key + ": " + value);
-    });
-    var mail = form.getAttribute("data-mail");
-    var subject = form.getAttribute("data-subject") || "Strategy consultation inquiry";
-    if (status) {
-      status.hidden = false;
-      status.textContent = "Your email app should open with this inquiry. If nothing opens, write to " + mail + " directly.";
-    }
-    window.location.href = "mailto:" + mail + "?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(lines.join("\n"));
-  });
 })();

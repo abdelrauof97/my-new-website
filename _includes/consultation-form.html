@@ -1,27 +1,22 @@
 {% comment %}
-  Consultation form.
-  With site.form_endpoint set, this POSTs to that URL.
-  Without it, assets/js/main.js opens a mailto to site.email and does not
-  pretend the message was delivered. See _config.yml.
+  Netlify Forms parses this markup at deploy time.
+  The form name, the hidden form-name field, and every input must stay in the
+  published HTML. Submissions are stored only when the site is deployed on Netlify.
 {% endcomment %}
-{% assign endpoint = site.form_endpoint | strip %}
 <form
   class="inquiry"
   id="consultation"
-  {% if endpoint != "" %}
-    action="{{ endpoint }}"
-    method="post"
-  {% else %}
-    action="{{ '/contact/' | relative_url }}"
-    method="post"
-    data-static-form
-    data-mail="{{ site.email }}"
-    data-subject="Strategy consultation inquiry"
-  {% endif %}
+  name="contact"
+  method="POST"
+  action="{{ '/thank-you/' | relative_url }}"
+  netlify
+  data-netlify="true"
+  netlify-honeypot="company_website_confirm"
 >
-  <div class="hp" aria-hidden="true">
-    <label for="company_website_confirm">Leave this field empty</label>
-    <input id="company_website_confirm" type="text" name="company_website_confirm" tabindex="-1" autocomplete="off">
+  <input type="hidden" name="form-name" value="contact">
+
+  <div class="hp">
+    <label>Leave this field empty <input name="company_website_confirm" tabindex="-1" autocomplete="off"></label>
   </div>
 
   <div class="inquiry__grid">
@@ -72,13 +67,6 @@
     <label for="details">Project details</label>
     <textarea id="details" name="details" rows="6" required></textarea>
   </div>
-
-  {% if endpoint != "" %}
-    <p class="form-note">This inquiry is sent securely to our consultation desk.</p>
-  {% else %}
-    <p class="form-note">Sending opens your email app with this inquiry addressed to {{ site.email }}. Nothing is stored on the website until a form endpoint is connected in the site configuration.</p>
-  {% endif %}
-  <p id="form-status" class="form-status" role="status" hidden></p>
 
   <button class="btn btn--dark" type="submit">Book a Strategy Consultation</button>
 </form>

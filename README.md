@@ -13,12 +13,15 @@ The site stays on Jekyll. Layouts are in `_layouts`, shared markup is in `_inclu
 
 ## Consultation form
 
-`form_endpoint` in `_config.yml` is blank on purpose.
+The contact form is a Netlify Form:
 
-- While it is blank, the consultation form opens the visitor's email app with the inquiry addressed to `email`. The site does not store the submission and does not claim that it did.
-- To deliver inquiries on the server, set `form_endpoint` to the full HTTPS URL from your form provider. The POST fields are `name`, `email`, `company`, `website`, `platform`, `service`, and `details`.
+```html
+<form name="contact" method="POST" action="/thank-you/" netlify>
+```
 
-Restart Jekyll after changing `_config.yml`.
+Netlify detects it from the published HTML and stores each submission. A successful post redirects to `/thank-you/`. The stored fields are `name`, `email`, `company`, `website`, `platform`, `service`, and `details`.
+
+Enable Form detection on the Netlify site, and send the form notifications to `rauof@realtortothrive.com`. A deploy that is not on Netlify will not store the submission.
 
 ## Canonical host
 

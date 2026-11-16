@@ -13,15 +13,9 @@ baseurl: ""
 lang: en-US
 author: RealtorToThrive
 
-# Consultation form.
-# Leave form_endpoint blank to use the mailto handoff: the form opens the
-# visitor's email app with the inquiry addressed to `email`. That path is
-# real, but it depends on the visitor having a mail client.
-# To deliver on the server, set form_endpoint to a full HTTPS URL from your
-# provider (for example Formspree). The form then POSTs these fields:
-# name, email, company, website, platform, service, details.
-# Do not point this at a placeholder URL. An empty value is the honest default.
-form_endpoint: ""
+# The consultation form is a Netlify Form named "contact".
+# Netlify stores submissions only after this site is deployed there.
+# Fields: name, email, company, website, platform, service, details.
 
 social:
   instagram: https://www.instagram.com/realtortothrive1/
